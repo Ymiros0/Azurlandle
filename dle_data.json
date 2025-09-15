@@ -1,0 +1,8062 @@
+{
+  "90112": {
+    "name": "Le Malin µ",
+    "rarity": "Super Rare",
+    "nation": "Vichya Dominion",
+    "hull": "DD",
+    "class": "Le Fantasque",
+    "timer": "Cannot be constructed",
+    "event": "Universe in Unison",
+    "VA": "Haruka Shiraishi"
+  },
+  "30311": {
+    "name": "Takao",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "CA",
+    "class": "Takao",
+    "timer": "02:05:00",
+    "event": "No Event",
+    "VA": "Ai Kakuma"
+  },
+  "90113": {
+    "name": "L'Indomptable",
+    "rarity": "Super Rare",
+    "nation": "Vichya Dominion",
+    "hull": "DD",
+    "class": "Le Fantasque",
+    "timer": "00:33:00",
+    "event": "Angel of the Iris",
+    "VA": "Ayumi Tsuji"
+  },
+  "30312": {
+    "name": "Atago",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "CA",
+    "class": "Takao",
+    "timer": "Cannot be constructed",
+    "event": "Strive, Wish and Strategize",
+    "VA": "Ai Kayano"
+  },
+  "21301": {
+    "name": "Erebus",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "BM",
+    "class": "Erebus",
+    "timer": "01:00:00",
+    "event": "No Event",
+    "VA": "Saya Horigome"
+  },
+  "40143": {
+    "name": "Z43",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "DD",
+    "class": "Type 1936B",
+    "timer": "Cannot be constructed",
+    "event": "Welcome to Little Academy",
+    "VA": "Yuu Sasahara"
+  },
+  "30313": {
+    "name": "Maya",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "CA",
+    "class": "Takao",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Saori Onishi"
+  },
+  "21302": {
+    "name": "Terror",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "BM",
+    "class": "Erebus",
+    "timer": "01:00:00",
+    "event": "No Event",
+    "VA": "Maia"
+  },
+  "30314": {
+    "name": "Choukai",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "CA",
+    "class": "Takao",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Ayaka Ouhashi"
+  },
+  "21304": {
+    "name": "Abercrombie",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "BM",
+    "class": "Roberts",
+    "timer": "01:05:00",
+    "event": "No Event",
+    "VA": "Juri Nagatsuma"
+  },
+  "40146": {
+    "name": "Z46",
+    "rarity": "Super Rare",
+    "nation": "Iron Blood",
+    "hull": "DD",
+    "class": "Type 1936C",
+    "timer": "Cannot be constructed",
+    "event": "Divergent Chessboard",
+    "VA": "Minori Chihara"
+  },
+  "10655": {
+    "name": "Casablanca",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "CVL",
+    "class": "Casablanca",
+    "timer": "Cannot be constructed",
+    "event": "Microlayer Medley",
+    "VA": "Ikumi Hasegawa"
+  },
+  "40147": {
+    "name": "Z47",
+    "rarity": "Super Rare",
+    "nation": "Iron Blood",
+    "hull": "DD",
+    "class": "Type 1936C",
+    "timer": "00:39:00",
+    "event": "Welcome to Little Academy",
+    "VA": "Nozomi Nishida"
+  },
+  "30317": {
+    "name": "Suzuya",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "CA",
+    "class": "Mogami",
+    "timer": "01:48:00",
+    "event": "Ink-Stained Steel Sakura Rerun",
+    "VA": "Azumi Waki"
+  },
+  "1080002": {
+    "name": "Akane Shinjo",
+    "rarity": "Super Rare",
+    "nation": "SSSS",
+    "hull": "BB",
+    "class": "No Class",
+    "timer": "01:25:02",
+    "event": "No Event",
+    "VA": "Reina Ueda"
+  },
+  "30318": {
+    "name": "Kumano",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "CA",
+    "class": "Mogami",
+    "timer": "Cannot be constructed",
+    "event": "Dreamwaker's Butterfly",
+    "VA": "Azumi Waki"
+  },
+  "30319": {
+    "name": "Unzen",
+    "rarity": "Ultra Rare",
+    "nation": "Sakura Empire",
+    "hull": "CA",
+    "class": "Unzen",
+    "timer": "02:11:00",
+    "event": "Effulgence Before Eclipse",
+    "VA": "Suzuko Mimori"
+  },
+  "40152": {
+    "name": "Z52",
+    "rarity": "Ultra Rare",
+    "nation": "Iron Blood",
+    "hull": "DD",
+    "class": "Type 1944",
+    "timer": "Cannot be constructed",
+    "event": "Substellar Crepuscule",
+    "VA": "Satomi Arai"
+  },
+  "960004": {
+    "name": "Mary Celeste",
+    "rarity": "Super Rare",
+    "nation": "Tempesta",
+    "hull": "IXs",
+    "class": "No Class",
+    "timer": "00:31:01",
+    "event": "Tempesta and the Fountain of Youth",
+    "VA": "Hinata Sato"
+  },
+  "80301": {
+    "name": "Suffren",
+    "rarity": "Elite",
+    "nation": "Iris Libre",
+    "hull": "CA",
+    "class": "Suffren",
+    "timer": "01:45:00",
+    "event": "The Fool's Scales",
+    "VA": "F\u016bka Izumi"
+  },
+  "80302": {
+    "name": "Brennus",
+    "rarity": "Super Rare",
+    "nation": "Iris Libre",
+    "hull": "CA",
+    "class": "Brennus",
+    "timer": "01:50:00",
+    "event": "Light of the Martyrium",
+    "VA": "Sayaka Kikuchi"
+  },
+  "20501": {
+    "name": "Queen Elizabeth",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "BB",
+    "class": "Queen Elizabeth",
+    "timer": "04:10:00",
+    "event": "No Event",
+    "VA": "Sumire Uesaka"
+  },
+  "20502": {
+    "name": "Warspite",
+    "rarity": "Super Rare",
+    "nation": "Royal Navy",
+    "hull": "BB",
+    "class": "Queen Elizabeth",
+    "timer": "04:10:00",
+    "event": "No Event",
+    "VA": "Sumire Uesaka"
+  },
+  "960005": {
+    "name": "Whydah",
+    "rarity": "Elite",
+    "nation": "Tempesta",
+    "hull": "IXs",
+    "class": "No Class",
+    "timer": "00:28:36",
+    "event": "Tempesta and the Fountain of Youth",
+    "VA": "Rina Kawaguchi"
+  },
+  "20503": {
+    "name": "Nelson",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "BB",
+    "class": "Nelson",
+    "timer": "04:40:00",
+    "event": "No Event",
+    "VA": "Yuuki Kuwahara"
+  },
+  "20504": {
+    "name": "Rodney",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "BB",
+    "class": "Nelson",
+    "timer": "04:40:00",
+    "event": "No Event",
+    "VA": "You Taichi"
+  },
+  "20505": {
+    "name": "King George V",
+    "rarity": "Super Rare",
+    "nation": "Royal Navy",
+    "hull": "BB",
+    "class": "King George V",
+    "timer": "04:50:00",
+    "event": "Scherzo of Iron and Blood",
+    "VA": "Ayako Kawasumi"
+  },
+  "20506": {
+    "name": "Prince of Wales",
+    "rarity": "Super Rare",
+    "nation": "Royal Navy",
+    "hull": "BB",
+    "class": "King George V",
+    "timer": "Cannot be constructed",
+    "event": "Strive, Wish and Strategize",
+    "VA": "Chinami Hashimoto"
+  },
+  "20507": {
+    "name": "Duke of York",
+    "rarity": "Super Rare",
+    "nation": "Royal Navy",
+    "hull": "BB",
+    "class": "King George V",
+    "timer": "Cannot be constructed",
+    "event": "Winter's Crown",
+    "VA": "Rie Tanaka"
+  },
+  "960006": {
+    "name": "Adventure Galley",
+    "rarity": "Elite",
+    "nation": "Tempesta",
+    "hull": "IXv",
+    "class": "Adventure Galley",
+    "timer": "Cannot be constructed",
+    "event": "Tempesta and the Fountain of Youth",
+    "VA": "Ikumi Hayama"
+  },
+  "20509": {
+    "name": "Howe",
+    "rarity": "Super Rare",
+    "nation": "Royal Navy",
+    "hull": "BB",
+    "class": "King George V",
+    "timer": "04:50:00",
+    "event": "Aurora Noctis",
+    "VA": "M\u30fbA\u30fbO"
+  },
+  "20510": {
+    "name": "Valiant",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "BB",
+    "class": "Queen Elizabeth",
+    "timer": "04:10:00",
+    "event": "Aurora Noctis",
+    "VA": "Asuka Nishi"
+  },
+  "20511": {
+    "name": "Revenge",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "BB",
+    "class": "Revenge",
+    "timer": "04:10:00",
+    "event": "Pledge of the Radiant Court",
+    "VA": "Marika Hayase"
+  },
+  "960007": {
+    "name": "Ganj-i-Sawai",
+    "rarity": "Super Rare",
+    "nation": "Tempesta",
+    "hull": "IXm",
+    "class": "No Class",
+    "timer": "04:42:30",
+    "event": "Tempesta and the Sleeping Sea",
+    "VA": "Sora Tokui"
+  },
+  "20513": {
+    "name": "Vanguard",
+    "rarity": "Ultra Rare",
+    "nation": "Royal Navy",
+    "hull": "BB",
+    "class": "Vanguard",
+    "timer": "05:20:00",
+    "event": "Pledge of the Radiant Court",
+    "VA": "Yuki Nakashima"
+  },
+  "20514": {
+    "name": "Royal Oak",
+    "rarity": "Super Rare",
+    "nation": "Royal Navy",
+    "hull": "BB",
+    "class": "Revenge",
+    "timer": "04:10:00",
+    "event": "Revelations of Dust",
+    "VA": "Arisa Sakuraba"
+  },
+  "20516": {
+    "name": "Lion",
+    "rarity": "Ultra Rare",
+    "nation": "Royal Navy",
+    "hull": "BB",
+    "class": "Lion",
+    "timer": "06:20:00",
+    "event": "A Rose on the High Tower",
+    "VA": "Saori Onishi"
+  },
+  "960008": {
+    "name": "Fancy",
+    "rarity": "Super Rare",
+    "nation": "Tempesta",
+    "hull": "IXv",
+    "class": "No Class",
+    "timer": "01:39:21",
+    "event": "Tempesta and the Sleeping Sea",
+    "VA": "Tsubame Yuzuki"
+  },
+  "960009": {
+    "name": "Amity",
+    "rarity": "Super Rare",
+    "nation": "Tempesta",
+    "hull": "IXs",
+    "class": "No Class",
+    "timer": "00:28:13",
+    "event": "Tempesta and the Sleeping Sea",
+    "VA": "Konomi Inagaki"
+  },
+  "970801": {
+    "name": "U-556 META",
+    "rarity": "Super Rare",
+    "nation": "META",
+    "hull": "SS",
+    "class": "Flickering Light",
+    "timer": "00:13:00",
+    "event": "Confluence of Nothingness",
+    "VA": "Ayaka Fukuhara"
+  },
+  "70501": {
+    "name": "Gangut",
+    "rarity": "Elite",
+    "nation": "Northern Parliament",
+    "hull": "BB",
+    "class": "Gangut",
+    "timer": "Cannot be constructed",
+    "event": "Northern Overture",
+    "VA": "Fuyuka Ono"
+  },
+  "70502": {
+    "name": "Sovetsky Soyuz",
+    "rarity": "Ultra Rare",
+    "nation": "Northern Parliament",
+    "hull": "BB",
+    "class": "Sovetsky Soyuz",
+    "timer": "06:23:00",
+    "event": "Snowrealm Peregrination",
+    "VA": "Haruka Tomatsu"
+  },
+  "10701": {
+    "name": "Langley",
+    "rarity": "Normal",
+    "nation": "Eagle Union",
+    "hull": "CVL",
+    "class": "Langley",
+    "timer": "02:00:00",
+    "event": "No Event",
+    "VA": "Haruka Yoshimura"
+  },
+  "10702": {
+    "name": "Lexington",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CV",
+    "class": "Lexington",
+    "timer": "03:40:00",
+    "event": "No Event",
+    "VA": "Minami Shinoda"
+  },
+  "70504": {
+    "name": "Sovetskaya Belorussiya",
+    "rarity": "Super Rare",
+    "nation": "Northern Parliament",
+    "hull": "BB",
+    "class": "Sovetsky Soyuz",
+    "timer": "06:23:00",
+    "event": "Khorovod of Dawn's Rime",
+    "VA": "Asami Seto"
+  },
+  "10703": {
+    "name": "Saratoga",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CV",
+    "class": "Lexington",
+    "timer": "03:40:00",
+    "event": "No Event",
+    "VA": "Sumire Uesaka"
+  },
+  "70505": {
+    "name": "Sovetskaya Rossiya",
+    "rarity": "Super Rare",
+    "nation": "Northern Parliament",
+    "hull": "BB",
+    "class": "Sovetsky Soyuz",
+    "timer": "06:23:00",
+    "event": "Northern Overture",
+    "VA": "Manami Numakura"
+  },
+  "10704": {
+    "name": "Ranger",
+    "rarity": "Normal",
+    "nation": "Eagle Union",
+    "hull": "CVL",
+    "class": "Ranger",
+    "timer": "02:40:00",
+    "event": "No Event",
+    "VA": "Yuu Asakawa"
+  },
+  "70506": {
+    "name": "Arkhangelsk",
+    "rarity": "Elite",
+    "nation": "Northern Parliament",
+    "hull": "BB",
+    "class": "Revenge",
+    "timer": "04:10:00",
+    "event": "Abyssal Refrain",
+    "VA": "Miyu Kubota"
+  },
+  "10705": {
+    "name": "Yorktown",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CV",
+    "class": "Yorktown",
+    "timer": "04:20:00",
+    "event": "No Event",
+    "VA": "Kana Yuuki"
+  },
+  "70507": {
+    "name": "Sevastopol",
+    "rarity": "Elite",
+    "nation": "Northern Parliament",
+    "hull": "BB",
+    "class": "Gangut",
+    "timer": "03:40:00",
+    "event": "Frostfall",
+    "VA": "Miyu Kubota"
+  },
+  "10706": {
+    "name": "Enterprise",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "CV",
+    "class": "Yorktown",
+    "timer": "04:20:00",
+    "event": "No Event",
+    "VA": "Yui Ishikawa"
+  },
+  "70508": {
+    "name": "Poltava",
+    "rarity": "Elite",
+    "nation": "Northern Parliament",
+    "hull": "BB",
+    "class": "Gangut",
+    "timer": "03:40:00",
+    "event": "Snowrealm Peregrination",
+    "VA": "Sawako Hata"
+  },
+  "10707": {
+    "name": "Hornet",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CV",
+    "class": "Yorktown",
+    "timer": "04:20:00",
+    "event": "No Event",
+    "VA": "Nozomi Yamamoto"
+  },
+  "70509": {
+    "name": "Kazan",
+    "rarity": "Super Rare",
+    "nation": "Northern Parliament",
+    "hull": "BB",
+    "class": "Kazan",
+    "timer": "05:50:00",
+    "event": "Toward Tulipa's Seas",
+    "VA": "Yuka Terasaki"
+  },
+  "40199": {
+    "name": "Otto von Alvensleben",
+    "rarity": "Super Rare",
+    "nation": "Iron Blood",
+    "hull": "DD",
+    "class": "Type 1937J",
+    "timer": "00:40:00",
+    "event": "Confluence of Nothingness",
+    "VA": "Anzu Haruno"
+  },
+  "10708": {
+    "name": "Wasp",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "CV",
+    "class": "Wasp",
+    "timer": "Cannot be constructed",
+    "event": "Fallen Wings",
+    "VA": "Tomoyo Takayanagi"
+  },
+  "10709": {
+    "name": "Essex",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "CV",
+    "class": "Essex",
+    "timer": "04:25:00",
+    "event": "1 Year Anniversary",
+    "VA": "Kaori Mizuhashi"
+  },
+  "40201": {
+    "name": "K\u00f6nigsberg",
+    "rarity": "Normal",
+    "nation": "Iron Blood",
+    "hull": "CL",
+    "class": "K\u00f6nigsberg",
+    "timer": "01:10:00",
+    "event": "No Event",
+    "VA": "Ryouko Ono"
+  },
+  "10710": {
+    "name": "Yorktown II",
+    "rarity": "Ultra Rare",
+    "nation": "Eagle Union",
+    "hull": "CV",
+    "class": "Essex",
+    "timer": "04:25:00",
+    "event": "Parallel Superimposition",
+    "VA": "Kana Yuuki"
+  },
+  "40202": {
+    "name": "Karlsruhe",
+    "rarity": "Normal",
+    "nation": "Iron Blood",
+    "hull": "CL",
+    "class": "K\u00f6nigsberg",
+    "timer": "01:10:00",
+    "event": "No Event",
+    "VA": "Ryouko Ono"
+  },
+  "10711": {
+    "name": "Intrepid",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "CV",
+    "class": "Essex",
+    "timer": "04:25:00",
+    "event": "Microlayer Medley",
+    "VA": "Ai Fairouz"
+  },
+  "40203": {
+    "name": "K\u00f6ln",
+    "rarity": "Normal",
+    "nation": "Iron Blood",
+    "hull": "CL",
+    "class": "K\u00f6nigsberg",
+    "timer": "01:10:00",
+    "event": "No Event",
+    "VA": "Ryouko Ono"
+  },
+  "10712": {
+    "name": "Hornet II",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "CV",
+    "class": "Essex",
+    "timer": "04:25:00",
+    "event": "Parallel Superimposition",
+    "VA": "Nozomi Yamamoto"
+  },
+  "40204": {
+    "name": "Leipzig",
+    "rarity": "Rare",
+    "nation": "Iron Blood",
+    "hull": "CL",
+    "class": "Leipzig",
+    "timer": "01:20:00",
+    "event": "No Event",
+    "VA": "Ryouko Ono"
+  },
+  "10713": {
+    "name": "Franklin",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "CV",
+    "class": "Essex",
+    "timer": "04:25:00",
+    "event": "Letters from Valley Hospital",
+    "VA": "Anna Nagase"
+  },
+  "40205": {
+    "name": "N\u00fcrnberg",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "CL",
+    "class": "Leipzig",
+    "timer": "01:20:00",
+    "event": "Inverted Orthant",
+    "VA": "Hikaru Toono"
+  },
+  "10714": {
+    "name": "Ticonderoga",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "CV",
+    "class": "Essex",
+    "timer": "04:25:00",
+    "event": "Mirror Involution",
+    "VA": "Kana Ichinose"
+  },
+  "40206": {
+    "name": "Magdeburg",
+    "rarity": "Super Rare",
+    "nation": "Iron Blood",
+    "hull": "CL",
+    "class": "M (German)",
+    "timer": "01:20:00",
+    "event": "Tower of Transcendence",
+    "VA": "Satsumi Matsuda"
+  },
+  "40207": {
+    "name": "Emden",
+    "rarity": "Super Rare",
+    "nation": "Iron Blood",
+    "hull": "CL",
+    "class": "Dresden",
+    "timer": "01:19:00",
+    "event": "Rondo at Rainbow's End",
+    "VA": "Honoka Inoue"
+  },
+  "40208": {
+    "name": "Elbing",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "CL",
+    "class": "Pillau",
+    "timer": "01:17:00",
+    "event": "Rondo at Rainbow's End",
+    "VA": "Shiori Mikami"
+  },
+  "10717": {
+    "name": "Bunker Hill",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "CV",
+    "class": "Essex",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Kana Ichinose"
+  },
+  "40210": {
+    "name": "Regensburg",
+    "rarity": "Super Rare",
+    "nation": "Iron Blood",
+    "hull": "CL",
+    "class": "M (German)",
+    "timer": "01:20:00",
+    "event": "Confluence of Nothingness",
+    "VA": "Hyosei"
+  },
+  "40211": {
+    "name": "Duisburg",
+    "rarity": "Super Rare",
+    "nation": "Iron Blood",
+    "hull": "CL",
+    "class": "M (German)",
+    "timer": "01:20:00",
+    "event": "Substellar Crepuscule",
+    "VA": "Saeko Ooki"
+  },
+  "1010001": {
+    "name": "Neptune (Neptunia)",
+    "rarity": "Elite",
+    "nation": "Neptunia",
+    "hull": "CL",
+    "class": "No Class",
+    "timer": "Cannot be constructed",
+    "event": "Visitors from Another Dimension",
+    "VA": "Rie Tanaka"
+  },
+  "31201": {
+    "name": "Akashi",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "AR",
+    "class": "Akashi",
+    "timer": "01:35:00",
+    "event": "No Event",
+    "VA": "Sumire Uesaka"
+  },
+  "10722": {
+    "name": "Independence",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CVL",
+    "class": "Independence",
+    "timer": "Cannot be constructed",
+    "event": "Air Raid Drills with Essex",
+    "VA": "Haruka Yamazaki"
+  },
+  "10723": {
+    "name": "Princeton",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CVL",
+    "class": "Independence",
+    "timer": "02:06:40",
+    "event": "Sundered Blue",
+    "VA": "Shiomi Yukina"
+  },
+  "1010002": {
+    "name": "Noire",
+    "rarity": "Elite",
+    "nation": "Neptunia",
+    "hull": "CA",
+    "class": "No Class",
+    "timer": "02:38:00",
+    "event": "Visitors from Another Dimension",
+    "VA": "Asami Imai"
+  },
+  "10727": {
+    "name": "Langley II",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CVL",
+    "class": "Independence",
+    "timer": "Cannot be constructed",
+    "event": "Parallel Superimposition",
+    "VA": "Haruka Yoshimura"
+  },
+  "10729": {
+    "name": "Bataan",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CVL",
+    "class": "Independence",
+    "timer": "Cannot be constructed",
+    "event": "Ashen Simulacrum",
+    "VA": "Akane Fujita"
+  },
+  "60701": {
+    "name": "Aquila",
+    "rarity": "Super Rare",
+    "nation": "Sardegna Empire",
+    "hull": "CV",
+    "class": "Aquila",
+    "timer": "04:35:00",
+    "event": "Daedalian Hymn",
+    "VA": "Rei Mochizuki"
+  },
+  "10730": {
+    "name": "San Jacinto",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CVL",
+    "class": "Independence",
+    "timer": "02:06:40",
+    "event": "Light-Chasing Sea of Stars",
+    "VA": "Natsu Yorita"
+  },
+  "1010003": {
+    "name": "Blanc",
+    "rarity": "Elite",
+    "nation": "Neptunia",
+    "hull": "DD",
+    "class": "No Class",
+    "timer": "02:24:00",
+    "event": "Visitors from Another Dimension",
+    "VA": "Kana Asumi"
+  },
+  "60702": {
+    "name": "Impero",
+    "rarity": "Super Rare",
+    "nation": "Sardegna Empire",
+    "hull": "CV",
+    "class": "Vittorio Veneto",
+    "timer": "05:15:00",
+    "event": "Virtual Tower",
+    "VA": "Nichika Oomori"
+  },
+  "1010004": {
+    "name": "Vert",
+    "rarity": "Elite",
+    "nation": "Neptunia",
+    "hull": "CV",
+    "class": "No Class",
+    "timer": "Cannot be constructed",
+    "event": "Visitors from Another Dimension",
+    "VA": "Rina Satou"
+  },
+  "10738": {
+    "name": "Shangri-La",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "CV",
+    "class": "Essex",
+    "timer": "04:25:00",
+    "event": "Air Raid Drills with Essex",
+    "VA": "Akane Fujita"
+  },
+  "90201": {
+    "name": "La Galissonni\u00e8re",
+    "rarity": "Elite",
+    "nation": "Vichya Dominion",
+    "hull": "CL",
+    "class": "La Galissonni\u00e8re",
+    "timer": "Cannot be constructed",
+    "event": "Skybound Oratorio",
+    "VA": "Yui Makino"
+  },
+  "90202": {
+    "name": "Marseillaise",
+    "rarity": "Super Rare",
+    "nation": "Vichya Dominion",
+    "hull": "CL",
+    "class": "La Galissonni\u00e8re",
+    "timer": "01:26:00",
+    "event": "Anthem of Remembrance",
+    "VA": "Yui Makino"
+  },
+  "1010005": {
+    "name": "Purple Heart",
+    "rarity": "Super Rare",
+    "nation": "Neptunia",
+    "hull": "CL",
+    "class": "No Class",
+    "timer": "02:44:00",
+    "event": "Visitors from Another Dimension",
+    "VA": "Rie Tanaka"
+  },
+  "30401": {
+    "name": "Kongou",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "BC",
+    "class": "Kongou",
+    "timer": "Cannot be constructed",
+    "event": "Ink-Stained Steel Sakura",
+    "VA": "Chiwa Saitou"
+  },
+  "970602": {
+    "name": "Junyou META",
+    "rarity": "Elite",
+    "nation": "META",
+    "hull": "CVL",
+    "class": "Ashen Might",
+    "timer": "Cruise Missions",
+    "event": "Season 3",
+    "VA": "Seiko Yoshida"
+  },
+  "80109": {
+    "name": "Le T\u00e9m\u00e9raire \u00b5",
+    "rarity": "Elite",
+    "nation": "Iris Libre",
+    "hull": "DD",
+    "class": "Le Hardi",
+    "timer": "Cannot be constructed",
+    "event": "Heart-Linking Harmony",
+    "VA": "Mai Goto"
+  },
+  "30402": {
+    "name": "Hiei",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "BC",
+    "class": "Kongou",
+    "timer": "04:10:00",
+    "event": "The Return of the War God",
+    "VA": "Eri Kitamura"
+  },
+  "30403": {
+    "name": "Haruna",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "BC",
+    "class": "Kongou",
+    "timer": "Cannot be constructed",
+    "event": "Ink-Stained Steel Sakura",
+    "VA": "Sayaka Harada"
+  },
+  "30404": {
+    "name": "Kirishima",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "BC",
+    "class": "Kongou",
+    "timer": "04:10:00",
+    "event": "No Event",
+    "VA": "Chie Matsuura"
+  },
+  "30405": {
+    "name": "Amagi",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "BC",
+    "class": "Amagi",
+    "timer": "04:25:00",
+    "event": "Crimson Echoes",
+    "VA": "Miyuki Sawashiro"
+  },
+  "1010006": {
+    "name": "Black Heart",
+    "rarity": "Super Rare",
+    "nation": "Neptunia",
+    "hull": "CA",
+    "class": "No Class",
+    "timer": "02:40:00",
+    "event": "Visitors from Another Dimension",
+    "VA": "Asami Imai"
+  },
+  "30406": {
+    "name": "Hiei-chan",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "BC",
+    "class": "Kongou",
+    "timer": "04:05:00",
+    "event": "Escape from the Port",
+    "VA": "Eri Kitamura"
+  },
+  "970603": {
+    "name": "Princeton META",
+    "rarity": "Elite",
+    "nation": "META",
+    "hull": "CVL",
+    "class": "Ashen Might",
+    "timer": "Cruise Missions",
+    "event": "Season 13",
+    "VA": "Shiomi Yukina"
+  },
+  "30407": {
+    "name": "Amagi-chan",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "BC",
+    "class": "Amagi",
+    "timer": "04:25:00",
+    "event": "Young Tactician's Learning Log",
+    "VA": "Miyuki Sawashiro"
+  },
+  "30408": {
+    "name": "Kongou \u00b5",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "BC",
+    "class": "Kongou",
+    "timer": "04:10:00",
+    "event": "Heart-Linking Harmony",
+    "VA": "Chiwa Saitou"
+  },
+  "59901": {
+    "name": "Harbin",
+    "rarity": "Priority",
+    "nation": "Dragon Empery",
+    "hull": "CL",
+    "class": "Harbin",
+    "timer": "Research",
+    "event": "Season 5",
+    "VA": "Akina Homoto"
+  },
+  "970604": {
+    "name": "Houshou META",
+    "rarity": "Elite",
+    "nation": "META",
+    "hull": "CVL",
+    "class": "Smoldering Core",
+    "timer": "Cruise Missions",
+    "event": "Season 19",
+    "VA": "Chiaki Takahashi"
+  },
+  "1010007": {
+    "name": "White Heart",
+    "rarity": "Super Rare",
+    "nation": "Neptunia",
+    "hull": "DD",
+    "class": "No Class",
+    "timer": "02:26:00",
+    "event": "Visitors from Another Dimension",
+    "VA": "Kana Asumi"
+  },
+  "1010008": {
+    "name": "Green Heart",
+    "rarity": "Super Rare",
+    "nation": "Neptunia",
+    "hull": "CV",
+    "class": "No Class",
+    "timer": "02:47:00",
+    "event": "Visitors from Another Dimension",
+    "VA": "Rina Satou"
+  },
+  "20601": {
+    "name": "Hermes",
+    "rarity": "Normal",
+    "nation": "Royal Navy",
+    "hull": "CVL",
+    "class": "Hermes",
+    "timer": "02:10:00",
+    "event": "No Event",
+    "VA": "Yuuna Inamura"
+  },
+  "20602": {
+    "name": "Argus",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "CVL",
+    "class": "Argus",
+    "timer": "02:10:00",
+    "event": "Revelations of Dust",
+    "VA": "Hina Yomiya"
+  },
+  "20603": {
+    "name": "Unicorn",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "CVL",
+    "class": "Unicorn",
+    "timer": "02:30:00",
+    "event": "No Event",
+    "VA": "Ai Kakuma"
+  },
+  "20604": {
+    "name": "Centaur",
+    "rarity": "Super Rare",
+    "nation": "Royal Navy",
+    "hull": "CVL",
+    "class": "Centaur",
+    "timer": "03:00:00",
+    "event": "No Event",
+    "VA": "Aya Uchida"
+  },
+  "20605": {
+    "name": "Chaser",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "CVL",
+    "class": "Attacker",
+    "timer": "Cannot be constructed",
+    "event": "Lunar New Year 2019",
+    "VA": "Rui Tanabe"
+  },
+  "1070001": {
+    "name": "Haruka Amami",
+    "rarity": "Super Rare",
+    "nation": "The Idolmaster",
+    "hull": "CL",
+    "class": "No Class",
+    "timer": "01:07:10",
+    "event": "Azur Anthem",
+    "VA": "Eriko Nakamura"
+  },
+  "20606": {
+    "name": "Perseus",
+    "rarity": "Super Rare",
+    "nation": "Royal Navy",
+    "hull": "CVL",
+    "class": "Colossus",
+    "timer": "02:30:00",
+    "event": "Aurora Noctis",
+    "VA": "Naomi Ohzora"
+  },
+  "1070002": {
+    "name": "Chihaya Kisaragi",
+    "rarity": "Super Rare",
+    "nation": "The Idolmaster",
+    "hull": "CV",
+    "class": "No Class",
+    "timer": "06:15:00",
+    "event": "Azur Anthem",
+    "VA": "Asami Imai"
+  },
+  "20607": {
+    "name": "Albion",
+    "rarity": "Super Rare",
+    "nation": "Royal Navy",
+    "hull": "CVL",
+    "class": "Centaur",
+    "timer": "03:00:00",
+    "event": "Fight On, Royal Maids! (Part 3)",
+    "VA": "Nao Shiraki"
+  },
+  "1070003": {
+    "name": "Iori Minase",
+    "rarity": "Super Rare",
+    "nation": "The Idolmaster",
+    "hull": "BB",
+    "class": "No Class",
+    "timer": "01:24:10",
+    "event": "Azur Anthem",
+    "VA": "Rie Kugimiya"
+  },
+  "20608": {
+    "name": "Theseus",
+    "rarity": "Super Rare",
+    "nation": "Royal Navy",
+    "hull": "CVL",
+    "class": "Colossus",
+    "timer": "02:30:00",
+    "event": "Happy Lunar New Year 2023",
+    "VA": "Natsumi Murakami"
+  },
+  "1070004": {
+    "name": "Azusa Miura",
+    "rarity": "Super Rare",
+    "nation": "The Idolmaster",
+    "hull": "CA",
+    "class": "",
+    "timer": "01:59:50",
+    "event": "Azur Anthem",
+    "VA": "Chiaki Takahashi"
+  },
+  "50101": {
+    "name": "An Shan",
+    "rarity": "Elite",
+    "nation": "Dragon Empery",
+    "hull": "DD",
+    "class": "Anshan",
+    "timer": "Cannot be constructed",
+    "event": "Lunar New Year 2019",
+    "VA": "Kana Asumi"
+  },
+  "1070005": {
+    "name": "Ritsuko Akizuki",
+    "rarity": "Elite",
+    "nation": "The Idolmaster",
+    "hull": "AE",
+    "class": "No Class",
+    "timer": "Cannot be constructed",
+    "event": "Azur Anthem",
+    "VA": "Naomi Wakabayashi"
+  },
+  "50102": {
+    "name": "Fu Shun",
+    "rarity": "Elite",
+    "nation": "Dragon Empery",
+    "hull": "DD",
+    "class": "Anshan",
+    "timer": "Cannot be constructed",
+    "event": "Lunar New Year 2019",
+    "VA": "Kana Asumi"
+  },
+  "1070006": {
+    "name": "Ami Futami",
+    "rarity": "Elite",
+    "nation": "The Idolmaster",
+    "hull": "SS",
+    "class": "No Class",
+    "timer": "00:08:42",
+    "event": "Azur Anthem",
+    "VA": "Asami Shimoda"
+  },
+  "50103": {
+    "name": "Chang Chun",
+    "rarity": "Elite",
+    "nation": "Dragon Empery",
+    "hull": "DD",
+    "class": "Anshan",
+    "timer": "Cannot be constructed",
+    "event": "Lunar New Year 2019",
+    "VA": "Kaori Mizuhashi"
+  },
+  "1070007": {
+    "name": "Mami Futami",
+    "rarity": "Elite",
+    "nation": "The Idolmaster",
+    "hull": "SS",
+    "class": "No Class",
+    "timer": "00:08:42",
+    "event": "Azur Anthem",
+    "VA": "Asami Shimoda"
+  },
+  "50104": {
+    "name": "Tai Yuan",
+    "rarity": "Elite",
+    "nation": "Dragon Empery",
+    "hull": "DD",
+    "class": "Anshan",
+    "timer": "Cannot be constructed",
+    "event": "Lunar New Year 2019",
+    "VA": "Kaori Mizuhashi"
+  },
+  "50105": {
+    "name": "Lung Wu",
+    "rarity": "Elite",
+    "nation": "Dragon Empery",
+    "hull": "DD",
+    "class": "Lung Wu",
+    "timer": "00:33:00",
+    "event": "Happy Lunar New Year 2024",
+    "VA": "Amane Makino"
+  },
+  "70203": {
+    "name": "Chapayev",
+    "rarity": "Super Rare",
+    "nation": "Northern Parliament",
+    "hull": "CL",
+    "class": "Chapayev",
+    "timer": "01:26:00",
+    "event": "Northern Overture",
+    "VA": "Masumi Tazawa"
+  },
+  "50106": {
+    "name": "Hu Pen",
+    "rarity": "Elite",
+    "nation": "Dragon Empery",
+    "hull": "DD",
+    "class": "Lung Wu",
+    "timer": "00:33:00",
+    "event": "Happy Lunar New Year 2024",
+    "VA": "Amane Makino"
+  },
+  "50107": {
+    "name": "Fei Yuen",
+    "rarity": "Elite",
+    "nation": "Dragon Empery",
+    "hull": "DD",
+    "class": "Fei Yuen",
+    "timer": "Cannot be constructed",
+    "event": "Happy Lunar New Year 2024",
+    "VA": "Rie Haduki"
+  },
+  "50108": {
+    "name": "Chang Feng",
+    "rarity": "Elite",
+    "nation": "Dragon Empery",
+    "hull": "DD",
+    "class": "Fei Yuen",
+    "timer": "00:33:00",
+    "event": "Happy Lunar New Year 2025",
+    "VA": "Rie Haduki"
+  },
+  "50109": {
+    "name": "Fu Po",
+    "rarity": "Elite",
+    "nation": "Dragon Empery",
+    "hull": "DD",
+    "class": "Fei Yuen",
+    "timer": "Cannot be constructed",
+    "event": "Happy Lunar New Year 2025",
+    "VA": "Rie Haduki"
+  },
+  "10799": {
+    "name": "Little Enterprise",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CV",
+    "class": "Yorktown",
+    "timer": "04:30:00",
+    "event": "Soar Fledgling Wings!",
+    "VA": "Yui Ishikawa"
+  },
+  "10801": {
+    "name": "Dace",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "SS",
+    "class": "Gato",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Akiko Hasegawa"
+  },
+  "10802": {
+    "name": "Albacore",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "SS",
+    "class": "Gato",
+    "timer": "Cannot be constructed",
+    "event": "1 Year Anniversary",
+    "VA": "Atsumi Tanezaki"
+  },
+  "10803": {
+    "name": "Cavalla",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "SS",
+    "class": "Gato",
+    "timer": "Drop Only",
+    "event": "Ashen Simulacrum",
+    "VA": "Yurika Kubo"
+  },
+  "10804": {
+    "name": "Bluegill",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "SS",
+    "class": "Gato",
+    "timer": "Cannot be constructed",
+    "event": "Microlayer Medley",
+    "VA": "Yukina Shuto"
+  },
+  "1120001": {
+    "name": "BLACK\u2605ROCK SHOOTER",
+    "rarity": "Super Rare",
+    "nation": "BLACK\u2605ROCK SHOOTER",
+    "hull": "BC",
+    "class": "No Class",
+    "timer": "Cannot be constructed",
+    "event": "Illusory Drifters",
+    "VA": "Kana Hanawaza"
+  },
+  "10805": {
+    "name": "Albacore µ",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "SS",
+    "class": "Gato",
+    "timer": "00:24:00",
+    "event": "Universe in Unison",
+    "VA": "Atsumi Tanezaki"
+  },
+  "1120002": {
+    "name": "DEAD MASTER",
+    "rarity": "Super Rare",
+    "nation": "BLACK\u2605ROCK SHOOTER",
+    "hull": "CV",
+    "class": "No Class",
+    "timer": "Cannot be constructed",
+    "event": "Illusory Drifters",
+    "VA": "Miyuki Sawashiro"
+  },
+  "10806": {
+    "name": "Archerfish",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "SS",
+    "class": "Balao",
+    "timer": "00:25:00",
+    "event": "Mirror Involution",
+    "VA": "Hikaru Akao"
+  },
+  "10807": {
+    "name": "Nautilus",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "SS",
+    "class": "Narwhal",
+    "timer": "00:23:00",
+    "event": "Microlayer Medley Rerun",
+    "VA": "Akiho Suzumoto"
+  },
+  "10808": {
+    "name": "Flasher",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "SS",
+    "class": "Gato",
+    "timer": "00:24:00",
+    "event": "Light-Chasing Sea of Stars",
+    "VA": "Ruka Fukagawa"
+  },
+  "10809": {
+    "name": "Herring",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "SS",
+    "class": "Gato",
+    "timer": "Cannot be constructed",
+    "event": "Windborne Steel Wings",
+    "VA": "Rika Momokawa"
+  },
+  "40301": {
+    "name": "Admiral Hipper",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "CA",
+    "class": "Admiral Hipper",
+    "timer": "Cannot be constructed",
+    "event": "Divergent Chessboard",
+    "VA": "Yuri Yamaoka"
+  },
+  "40302": {
+    "name": "Blücher",
+    "rarity": "Super Rare",
+    "nation": "Iron Blood",
+    "hull": "CA",
+    "class": "Admiral Hipper",
+    "timer": "02:00:00",
+    "event": "Operation Convergence",
+    "VA": "Haruka Shiraishi"
+  },
+  "40303": {
+    "name": "Prinz Eugen",
+    "rarity": "Super Rare",
+    "nation": "Iron Blood",
+    "hull": "CA",
+    "class": "Admiral Hipper",
+    "timer": "02:00:00",
+    "event": "Divergent Chessboard",
+    "VA": "Ayane Sakura"
+  },
+  "40304": {
+    "name": "Deutschland",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "CA",
+    "class": "Deutschland",
+    "timer": "01:55:00",
+    "event": "Divergent Chessboard",
+    "VA": "Sumire Uesaka"
+  },
+  "40305": {
+    "name": "Admiral Graf Spee",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "CA",
+    "class": "Deutschland",
+    "timer": "Cannot be constructed",
+    "event": "Encircling Graf Spee",
+    "VA": "Mai Fuchigami"
+  },
+  "40307": {
+    "name": "Admiral Hipper \u00b5",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "CA",
+    "class": "Admiral Hipper",
+    "timer": "02:00:00",
+    "event": "Crescendo of Polaris",
+    "VA": "Yuri Yamaoka"
+  },
+  "40308": {
+    "name": "Roon \u00b5",
+    "rarity": "Super Rare",
+    "nation": "Iron Blood",
+    "hull": "CA",
+    "class": "Roon",
+    "timer": "Cannot be constructed",
+    "event": "Universe in Unison",
+    "VA": "Satomi Satou"
+  },
+  "40309": {
+    "name": "Prinz Heinrich",
+    "rarity": "Super Rare",
+    "nation": "Iron Blood",
+    "hull": "CA",
+    "class": "P",
+    "timer": "02:05:00",
+    "event": "Inverted Orthant",
+    "VA": "Hiyori Nitta"
+  },
+  "970101": {
+    "name": "Hunter META",
+    "rarity": "Elite",
+    "nation": "META",
+    "hull": "DD",
+    "class": "Cinders of Hope",
+    "timer": "Cruise Missions",
+    "event": "Season 7",
+    "VA": "Ayaki Nanase"
+  },
+  "40310": {
+    "name": "Prinz Adalbert",
+    "rarity": "Super Rare",
+    "nation": "Iron Blood",
+    "hull": "CA",
+    "class": "P",
+    "timer": "02:05:00",
+    "event": "Tower of Transcendence",
+    "VA": "Natsuko Hara"
+  },
+  "10000": {
+    "name": "Universal Bulin",
+    "rarity": "Elite",
+    "nation": "Universal",
+    "hull": "DD",
+    "class": "Bulin",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Asami Shimoda"
+  },
+  "970102": {
+    "name": "Fortune META",
+    "rarity": "Elite",
+    "nation": "META",
+    "hull": "DD",
+    "class": "Cinders of Hope",
+    "timer": "Cruise Missions",
+    "event": "Season 8",
+    "VA": "Yuuko Gotou"
+  },
+  "40311": {
+    "name": "Yorck",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "CA",
+    "class": "Roon (1903)",
+    "timer": "01:55:00",
+    "event": "Rondo at Rainbow's End",
+    "VA": "Akira Sekine"
+  },
+  "10001": {
+    "name": "Prototype Bulin MKII",
+    "rarity": "Super Rare",
+    "nation": "Universal",
+    "hull": "DD",
+    "class": "Bulin",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Asami Shimoda"
+  },
+  "970103": {
+    "name": "Hatakaze META",
+    "rarity": "Elite",
+    "nation": "META",
+    "hull": "DD",
+    "class": "Smoldering Core",
+    "timer": "Cruise Missions",
+    "event": "Season 12",
+    "VA": "Madoka Asahina"
+  },
+  "40312": {
+    "name": "Little Prinz Eugen",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "CA",
+    "class": "Admiral Hipper",
+    "timer": "Cannot be constructed",
+    "event": "Sugary-Sweet Käsekuchen",
+    "VA": "Ayane Sakura"
+  },
+  "10002": {
+    "name": "Specialized Bulin Custom MKIII",
+    "rarity": "Ultra Rare",
+    "nation": "Universal",
+    "hull": "DD",
+    "class": "Bulin",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Asami Shimoda"
+  },
+  "970104": {
+    "name": "Kimberly META",
+    "rarity": "Elite",
+    "nation": "META",
+    "hull": "DD",
+    "class": "Ashen Might",
+    "timer": "Cruise Missions",
+    "event": "Season 15",
+    "VA": "Sumire Morohoshi"
+  },
+  "40313": {
+    "name": "Little Spee",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "CA",
+    "class": "Deutschland",
+    "timer": "Cannot be constructed",
+    "event": "The Pursuit of Little Spee",
+    "VA": "Mai Fuchigami"
+  },
+  "970105": {
+    "name": "Vampire META",
+    "rarity": "Elite",
+    "nation": "META",
+    "hull": "DD",
+    "class": "Cinders of Hope",
+    "timer": "Cruise Missions",
+    "event": "Season 16",
+    "VA": "Rie Kugimiya"
+  },
+  "40314": {
+    "name": "Friedrich Carl",
+    "rarity": "Super Rare",
+    "nation": "Iron Blood",
+    "hull": "CA",
+    "class": "P",
+    "timer": "02:05:00",
+    "event": "From Zero to Hero",
+    "VA": "Kiyono Yasuno"
+  },
+  "970106": {
+    "name": "Kasumi META",
+    "rarity": "Elite",
+    "nation": "META",
+    "hull": "DD",
+    "class": "Framework of Logic",
+    "timer": "Cruise Missions",
+    "event": "Season 18",
+    "VA": "Mariko Takeda"
+  },
+  "40315": {
+    "name": "Prinz Eugen \u00b5",
+    "rarity": "Super Rare",
+    "nation": "Iron Blood",
+    "hull": "CA",
+    "class": "Admiral Hipper",
+    "timer": "02:00:00",
+    "event": "Heart-Linking Harmony",
+    "VA": "Ayane Sakura"
+  },
+  "970107": {
+    "name": "Grenville META",
+    "rarity": "Elite",
+    "nation": "META",
+    "hull": "DD",
+    "class": "Cinders of Hope",
+    "timer": "Cruise Missions",
+    "event": "Season 23",
+    "VA": "Juri Kimura"
+  },
+  "40316": {
+    "name": "Little Ägir",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "CB",
+    "class": "Ägir",
+    "timer": "Cannot be constructed",
+    "event": "Little Ruler of the Abyssal Kingdom",
+    "VA": "Ayane Sakura"
+  },
+  "970108": {
+    "name": "Kawakaze META",
+    "rarity": "Super Rare",
+    "nation": "META",
+    "hull": "DD",
+    "class": "Smoldering Core",
+    "timer": "META Showdown",
+    "event": "Season 19",
+    "VA": "Yuka Iguchi"
+  },
+  "60801": {
+    "name": "Torricelli",
+    "rarity": "Elite",
+    "nation": "Sardegna Empire",
+    "hull": "SS",
+    "class": "Brin",
+    "timer": "Cannot be constructed",
+    "event": "Daedalian Hymn",
+    "VA": "Kaede Hondo"
+  },
+  "60802": {
+    "name": "Leonardo da Vinci",
+    "rarity": "Super Rare",
+    "nation": "Sardegna Empire",
+    "hull": "SS",
+    "class": "Marconi",
+    "timer": "00:12:00",
+    "event": "Aquilifer's Ballade",
+    "VA": "Wakana Maruoka"
+  },
+  "60803": {
+    "name": "Maggiore Baracca",
+    "rarity": "Super Rare",
+    "nation": "Sardegna Empire",
+    "hull": "SS",
+    "class": "Marconi",
+    "timer": "00:12:00",
+    "event": "Paradiso of Shackled Light",
+    "VA": "Asaki Yuikawa"
+  },
+  "90301": {
+    "name": "Foch",
+    "rarity": "Elite",
+    "nation": "Vichya Dominion",
+    "hull": "CA",
+    "class": "Suffren",
+    "timer": "01:45:00",
+    "event": "The Flame-Touched Dagger",
+    "VA": "Aino Shimada"
+  },
+  "90302": {
+    "name": "Algérie",
+    "rarity": "Super Rare",
+    "nation": "Vichya Dominion",
+    "hull": "CA",
+    "class": "Algérie",
+    "timer": "01:55:00",
+    "event": "Skybound Oratorio",
+    "VA": "Shizuka Itou"
+  },
+  "30501": {
+    "name": "Fusou",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "BB",
+    "class": "Fusou",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Ami Koshimizu"
+  },
+  "90303": {
+    "name": "Dupleix",
+    "rarity": "Elite",
+    "nation": "Vichya Dominion",
+    "hull": "CA",
+    "class": "Suffren",
+    "timer": "01:45:00",
+    "event": "Interlude of Illusions",
+    "VA": "Emi Hirayama"
+  },
+  "30502": {
+    "name": "Yamashiro",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "BB",
+    "class": "Fusou",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Ami Koshimizu"
+  },
+  "30503": {
+    "name": "Ise",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "BB",
+    "class": "Ise",
+    "timer": "04:25:00",
+    "event": "Visitors Dyed in Red",
+    "VA": "Mutsumi Tamura"
+  },
+  "30504": {
+    "name": "Hyuuga",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "BB",
+    "class": "Ise",
+    "timer": "04:25:00",
+    "event": "Visitors Dyed in Red",
+    "VA": "Akeno Watanabe"
+  },
+  "30505": {
+    "name": "Nagato",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "BB",
+    "class": "Nagato",
+    "timer": "Cannot be constructed",
+    "event": "Ink-Stained Steel Sakura",
+    "VA": "Misaki Kuno"
+  },
+  "30506": {
+    "name": "Mutsu",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "BB",
+    "class": "Nagato",
+    "timer": "Cannot be constructed",
+    "event": "Ink-Stained Steel Sakura",
+    "VA": "Tomoyo Kurosawa"
+  },
+  "30507": {
+    "name": "Kaga(BB)",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "BB",
+    "class": "Tosa",
+    "timer": "04:30:00",
+    "event": "Crimson Echoes",
+    "VA": "Ai Kayano"
+  },
+  "30508": {
+    "name": "Tosa",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "BB",
+    "class": "Tosa",
+    "timer": "04:30:00",
+    "event": "Crimson Echoes Rerun",
+    "VA": "Miyuki Sawashiro"
+  },
+  "30510": {
+    "name": "Musashi",
+    "rarity": "Ultra Rare",
+    "nation": "Sakura Empire",
+    "hull": "BB",
+    "class": "Yamato",
+    "timer": "05:15:00",
+    "event": "Violet Tempest, Blooming Lycoris",
+    "VA": "Lynn"
+  },
+  "30511": {
+    "name": "Mikasa",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "BB",
+    "class": "Mikasa",
+    "timer": "Cannot be constructed",
+    "event": "The Return of the War God",
+    "VA": "Sayaka Ohara"
+  },
+  "30512": {
+    "name": "Kii",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "BB",
+    "class": "Kii",
+    "timer": "04:20:00",
+    "event": "Dreamwaker's Butterfly",
+    "VA": "Sayaka Kaneko"
+  },
+  "30513": {
+    "name": "Owari",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "BB",
+    "class": "Kii",
+    "timer": "04:20:00",
+    "event": "Effulgence Before Eclipse",
+    "VA": "Shion Wakayama"
+  },
+  "30514": {
+    "name": "Suruga",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "BB",
+    "class": "Kii",
+    "timer": "04:20:00",
+    "event": "Swirling Cherry Blossoms",
+    "VA": "Aya Endou"
+  },
+  "80501": {
+    "name": "Richelieu",
+    "rarity": "Super Rare",
+    "nation": "Iris Libre",
+    "hull": "BB",
+    "class": "Richelieu",
+    "timer": "05:50:00",
+    "event": "Skybound Oratorio",
+    "VA": "Marina Inoue"
+  },
+  "80502": {
+    "name": "Lyon",
+    "rarity": "Elite",
+    "nation": "Iris Libre",
+    "hull": "BB",
+    "class": "Lyon",
+    "timer": "04:15:00",
+    "event": "The Fool's Scales",
+    "VA": "Karin Isobe"
+  },
+  "20701": {
+    "name": "Eagle",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "CV",
+    "class": "Eagle",
+    "timer": "02:00:00",
+    "event": "Aurora Noctis",
+    "VA": "Fumie Mizusawa"
+  },
+  "80503": {
+    "name": "Alsace",
+    "rarity": "Ultra Rare",
+    "nation": "Iris Libre",
+    "hull": "BB",
+    "class": "Alsace",
+    "timer": "06:12:20",
+    "event": "Light of the Martyrium",
+    "VA": "Aki Toyosaki"
+  },
+  "20702": {
+    "name": "Ark Royal",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "CV",
+    "class": "Ark Royal",
+    "timer": "04:00:00",
+    "event": "No Event",
+    "VA": "Asuka Itou"
+  },
+  "20703": {
+    "name": "Illustrious",
+    "rarity": "Super Rare",
+    "nation": "Royal Navy",
+    "hull": "CV",
+    "class": "Illustrious",
+    "timer": "04:30:00",
+    "event": "No Event",
+    "VA": "Sora Amamiya"
+  },
+  "20704": {
+    "name": "Victorious",
+    "rarity": "Super Rare",
+    "nation": "Royal Navy",
+    "hull": "CV",
+    "class": "Illustrious",
+    "timer": "04:30:00",
+    "event": "Winter's Crown",
+    "VA": "Eriko Nakamura"
+  },
+  "20705": {
+    "name": "Formidable",
+    "rarity": "Super Rare",
+    "nation": "Royal Navy",
+    "hull": "CV",
+    "class": "Illustrious",
+    "timer": "04:30:00",
+    "event": "Empyreal Tragicomedy",
+    "VA": "Rie Kugimiya"
+  },
+  "20706": {
+    "name": "Glorious",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "CV",
+    "class": "Courageous",
+    "timer": "Cannot be constructed",
+    "event": "Glorious Battle",
+    "VA": "Noriko Shitaya"
+  },
+  "20707": {
+    "name": "Implacable",
+    "rarity": "Ultra Rare",
+    "nation": "Royal Navy",
+    "hull": "CV",
+    "class": "Implacable",
+    "timer": "04:35:00",
+    "event": "Revelations of Dust",
+    "VA": "Yukana"
+  },
+  "20709": {
+    "name": "Little Illustrious",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "CV",
+    "class": "Illustrious",
+    "timer": "04:30:00",
+    "event": "Dreams of Love and Peace",
+    "VA": "Sora Amamiya"
+  },
+  "50201": {
+    "name": "Yat Sen",
+    "rarity": "Elite",
+    "nation": "Dragon Empery",
+    "hull": "CL",
+    "class": "Yat Sen",
+    "timer": "00:40:00",
+    "event": "Lunar New Year 2019",
+    "VA": "Yuu Asakawa"
+  },
+  "50202": {
+    "name": "Ning Hai",
+    "rarity": "Elite",
+    "nation": "Dragon Empery",
+    "hull": "CL",
+    "class": "Ning Hai",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Marie Miyake"
+  },
+  "20711": {
+    "name": "Illustrious \u00b5",
+    "rarity": "Super Rare",
+    "nation": "Royal Navy",
+    "hull": "CV",
+    "class": "Illustrious",
+    "timer": "Cannot be constructed",
+    "event": "Universe in Unison",
+    "VA": "Sora Amamiya"
+  },
+  "50203": {
+    "name": "Ping Hai",
+    "rarity": "Elite",
+    "nation": "Dragon Empery",
+    "hull": "CL",
+    "class": "Ning Hai",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Misaki Kuno"
+  },
+  "20712": {
+    "name": "Indomitable",
+    "rarity": "Super Rare",
+    "nation": "Royal Navy",
+    "hull": "CV",
+    "class": "Illustrious",
+    "timer": "04:30:00",
+    "event": "Pledge of the Radiant Court",
+    "VA": "Miku Itou"
+  },
+  "50204": {
+    "name": "Ying Swei",
+    "rarity": "Elite",
+    "nation": "Dragon Empery",
+    "hull": "CL",
+    "class": "Chao Ho",
+    "timer": "00:38:00",
+    "event": "Happy Lunar New Year 2021",
+    "VA": "Yuuka Morishima"
+  },
+  "20713": {
+    "name": "Little Formidable",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "CV",
+    "class": "Illustrious",
+    "timer": "Cannot be constructed",
+    "event": "Big Lessons for the Little Lady",
+    "VA": "Rie Kugimiya"
+  },
+  "50205": {
+    "name": "Chao Ho",
+    "rarity": "Elite",
+    "nation": "Dragon Empery",
+    "hull": "CL",
+    "class": "Chao Ho",
+    "timer": "00:38:00",
+    "event": "Happy Lunar New Year 2021",
+    "VA": "Yuuka Morishima"
+  },
+  "20714": {
+    "name": "Formidable \u00b5",
+    "rarity": "Super Rare",
+    "nation": "Royal Navy",
+    "hull": "CV",
+    "class": "Illustrious",
+    "timer": "04:30:00",
+    "event": "Heart-Linking Harmony",
+    "VA": "Rie Kugimiya"
+  },
+  "50207": {
+    "name": "Hai Tien",
+    "rarity": "Elite",
+    "nation": "Dragon Empery",
+    "hull": "CL",
+    "class": "Hai Chi",
+    "timer": "Cannot be constructed",
+    "event": "Happy Lunar New Year 2022",
+    "VA": "Arisa Date"
+  },
+  "50208": {
+    "name": "Hai Chi",
+    "rarity": "Elite",
+    "nation": "Dragon Empery",
+    "hull": "CL",
+    "class": "Hai Chi",
+    "timer": "Cannot be constructed",
+    "event": "Happy Lunar New Year 2022",
+    "VA": "Arisa Date"
+  },
+  "50209": {
+    "name": "Chi An",
+    "rarity": "Elite",
+    "nation": "Dragon Empery",
+    "hull": "CL",
+    "class": "Chi An",
+    "timer": "00:38:00",
+    "event": "Happy Lunar New Year 2024",
+    "VA": "Mikoi Sasaki"
+  },
+  "50210": {
+    "name": "Hai Yung",
+    "rarity": "Elite",
+    "nation": "Dragon Empery",
+    "hull": "CL",
+    "class": "Hai Yung",
+    "timer": "00:40:00",
+    "event": "Happy Lunar New Year 2025",
+    "VA": "Hinano Sakikawa"
+  },
+  "19901": {
+    "name": "Seattle",
+    "rarity": "Priority",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Seattle",
+    "timer": "Research",
+    "event": "Season 2",
+    "VA": "Tomori Kusunoki"
+  },
+  "19902": {
+    "name": "Georgia",
+    "rarity": "Priority",
+    "nation": "Eagle Union",
+    "hull": "BB",
+    "class": "Georgia",
+    "timer": "Research",
+    "event": "Season 2",
+    "VA": "Shino Shimoji"
+  },
+  "19903": {
+    "name": "Anchorage",
+    "rarity": "Priority",
+    "nation": "Eagle Union",
+    "hull": "CA",
+    "class": "Anchorage",
+    "timer": "Research",
+    "event": "Season 4",
+    "VA": "Rina Hidaka"
+  },
+  "19904": {
+    "name": "Kearsarge",
+    "rarity": "Decisive",
+    "nation": "Eagle Union",
+    "hull": "BBV",
+    "class": "Kearsarge",
+    "timer": "Research",
+    "event": "Season 6",
+    "VA": "Yoshino Aoyama"
+  },
+  "19905": {
+    "name": "Halford",
+    "rarity": "Priority",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Fletcher",
+    "timer": "Research",
+    "event": "Season 7",
+    "VA": "Yurie Igoma"
+  },
+  "19906": {
+    "name": "Kansas",
+    "rarity": "Priority",
+    "nation": "Eagle Union",
+    "hull": "BB",
+    "class": "Kansas",
+    "timer": "Research",
+    "event": "Season 8",
+    "VA": "Risae Matsuda"
+  },
+  "70701": {
+    "name": "Volga",
+    "rarity": "Super Rare",
+    "nation": "Northern Parliament",
+    "hull": "CV",
+    "class": "Volga",
+    "timer": "04:47:53",
+    "event": "Abyssal Refrain",
+    "VA": "Noriko Shibasaki"
+  },
+  "40401": {
+    "name": "Scharnhorst",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "BC",
+    "class": "Scharnhorst",
+    "timer": "Cannot be constructed",
+    "event": "Divergent Chessboard",
+    "VA": "Ayaka Fukuhara"
+  },
+  "40402": {
+    "name": "Gneisenau",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "BC",
+    "class": "Scharnhorst",
+    "timer": "Cannot be constructed",
+    "event": "Divergent Chessboard",
+    "VA": "Minami Shinoda"
+  },
+  "40403": {
+    "name": "Seydlitz",
+    "rarity": "Super Rare",
+    "nation": "Iron Blood",
+    "hull": "BC",
+    "class": "Seydlitz",
+    "timer": "04:35:00",
+    "event": "Rondo at Rainbow's End",
+    "VA": "Minami Tsuda"
+  },
+  "40404": {
+    "name": "L\u00fctzow",
+    "rarity": "Super Rare",
+    "nation": "Iron Blood",
+    "hull": "BC",
+    "class": "Derfflinger",
+    "timer": "04:35:00",
+    "event": "Rondo at Rainbow's End",
+    "VA": "Yuki Tanaka"
+  },
+  "40405": {
+    "name": "Br\u00fcnhilde",
+    "rarity": "Super Rare",
+    "nation": "Iron Blood",
+    "hull": "BC",
+    "class": "O",
+    "timer": "05:05:00",
+    "event": "Operation Convergence",
+    "VA": "Aimi"
+  },
+  "40406": {
+    "name": "Alvitr",
+    "rarity": "Super Rare",
+    "nation": "Iron Blood",
+    "hull": "BC",
+    "class": "O",
+    "timer": "05:05:00",
+    "event": "Welcome to Little Academy",
+    "VA": "Sumi Tomomi Jiena"
+  },
+  "40407": {
+    "name": "Admiral Zenker",
+    "rarity": "Super Rare",
+    "nation": "Iron Blood",
+    "hull": "BC",
+    "class": "Admiral Zenker",
+    "timer": "04:55:00",
+    "event": "The Neon City Investigator",
+    "VA": "Yuuki Hirose"
+  },
+  "970201": {
+    "name": "Helena META",
+    "rarity": "Super Rare",
+    "nation": "META",
+    "hull": "CL",
+    "class": "Ashen Might",
+    "timer": "META Showdown",
+    "event": "Season 3",
+    "VA": "Tomoyo Chuujou"
+  },
+  "69901": {
+    "name": "Marco Polo",
+    "rarity": "Priority",
+    "nation": "Sardegna Empire",
+    "hull": "BB",
+    "class": "Marco Polo",
+    "timer": "Research",
+    "event": "Season 4",
+    "VA": "Sashika Misawa"
+  },
+  "970202": {
+    "name": "Memphis META",
+    "rarity": "Elite",
+    "nation": "META",
+    "hull": "CL",
+    "class": "Framework of Logic",
+    "timer": "Cruise Missions",
+    "event": "Season 5",
+    "VA": "Hekiru Shiina"
+  },
+  "69902": {
+    "name": "Napoli",
+    "rarity": "Decisive",
+    "nation": "Sardegna Empire",
+    "hull": "CA",
+    "class": "Napoli",
+    "timer": "Research",
+    "event": "Season 7",
+    "VA": "Sayumi Suzushiro"
+  },
+  "970203": {
+    "name": "Sheffield META",
+    "rarity": "Elite",
+    "nation": "META",
+    "hull": "CL",
+    "class": "Ashen Might",
+    "timer": "Cruise Missions",
+    "event": "Season 9",
+    "VA": "Konomi Kohara"
+  },
+  "69903": {
+    "name": "Vittorio Cuniberti",
+    "rarity": "Priority",
+    "nation": "Sardegna Empire",
+    "hull": "DD",
+    "class": "Vittorio Cuniberti",
+    "timer": "Research",
+    "event": "Season 8",
+    "VA": "Non Harusaki"
+  },
+  "970204": {
+    "name": "La Galissonniére META",
+    "rarity": "Elite",
+    "nation": "META",
+    "hull": "CL",
+    "class": "Cinders of Hope",
+    "timer": "Cruise Missions",
+    "event": "Season 10",
+    "VA": "Yui Makino"
+  },
+  "10102": {
+    "name": "Dewey",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Farragut",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Miyuri Shimabukuro"
+  },
+  "970205": {
+    "name": "Jintsuu META",
+    "rarity": "Super Rare",
+    "nation": "META",
+    "hull": "CL",
+    "class": "Framework of Logic",
+    "timer": "META Showdown",
+    "event": "Season 12",
+    "VA": "Hisako Kanemoto"
+  },
+  "10103": {
+    "name": "Cassin",
+    "rarity": "Normal",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Mahan",
+    "timer": "00:23:00",
+    "event": "No Event",
+    "VA": "Nana Harumura"
+  },
+  "970206": {
+    "name": "Kirov META",
+    "rarity": "Super Rare",
+    "nation": "META",
+    "hull": "CL",
+    "class": "Cinders of Hope",
+    "timer": "META Showdown",
+    "event": "Season 13",
+    "VA": "Sumire Uesaka"
+  },
+  "10104": {
+    "name": "Downes",
+    "rarity": "Normal",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Mahan",
+    "timer": "00:23:00",
+    "event": "No Event",
+    "VA": "Ayano Niina"
+  },
+  "970207": {
+    "name": "Pamiat' Merkuria META",
+    "rarity": "Super Rare",
+    "nation": "META",
+    "hull": "CL",
+    "class": "Flickering Light",
+    "timer": "01:17:00",
+    "event": "Snowrealm Peregrination",
+    "VA": "Maya Yoshioka"
+  },
+  "10105": {
+    "name": "Gridley",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Gridley",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Narumi Shinohara"
+  },
+  "10106": {
+    "name": "Craven",
+    "rarity": "Normal",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Gridley",
+    "timer": "00:25:00",
+    "event": "No Event",
+    "VA": "Ayano Niina"
+  },
+  "10107": {
+    "name": "McCall",
+    "rarity": "Normal",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Gridley",
+    "timer": "00:25:00",
+    "event": "No Event",
+    "VA": "Nana Harumura"
+  },
+  "10108": {
+    "name": "Maury",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Gridley",
+    "timer": "00:25:00",
+    "event": "No Event",
+    "VA": "Konomi Kohara"
+  },
+  "10109": {
+    "name": "Fletcher",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Fletcher",
+    "timer": "00:28:00",
+    "event": "No Event",
+    "VA": "Manaka Iwami"
+  },
+  "10111": {
+    "name": "Charles Ausburne",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Fletcher",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Satsuki Morita"
+  },
+  "10112": {
+    "name": "Thatcher",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Fletcher",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Ruka Nemoto"
+  },
+  "10113": {
+    "name": "Aulick",
+    "rarity": "Normal",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Fletcher",
+    "timer": "00:28:00",
+    "event": "No Event",
+    "VA": "Yuna Yoshino"
+  },
+  "10114": {
+    "name": "Foote",
+    "rarity": "Normal",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Fletcher",
+    "timer": "00:28:00",
+    "event": "No Event",
+    "VA": "Yuna Yoshino"
+  },
+  "10115": {
+    "name": "Spence",
+    "rarity": "Normal",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Fletcher",
+    "timer": "00:28:00",
+    "event": "No Event",
+    "VA": "Yuna Yoshino"
+  },
+  "10116": {
+    "name": "Benson",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Benson",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Manami Numakura"
+  },
+  "10117": {
+    "name": "Laffey",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Benson",
+    "timer": "00:27:00",
+    "event": "No Event",
+    "VA": "Maria Naganawa"
+  },
+  "90401": {
+    "name": "Dunkerque",
+    "rarity": "Elite",
+    "nation": "Vichya Dominion",
+    "hull": "BC",
+    "class": "Dunkerque",
+    "timer": "04:05:00",
+    "event": "Iris of Light and Dark",
+    "VA": "Sayaka Harada"
+  },
+  "90402": {
+    "name": "Strasbourg",
+    "rarity": "Super Rare",
+    "nation": "Vichya Dominion",
+    "hull": "BC",
+    "class": "Dunkerque",
+    "timer": "04:05:00",
+    "event": "Interlude of Illusions",
+    "VA": "Ikumi Hasegawa"
+  },
+  "30601": {
+    "name": "Hiyou",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "CVL",
+    "class": "Hiyou",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Seiko Yoshida"
+  },
+  "51901": {
+    "name": "Ting An",
+    "rarity": "Elite",
+    "nation": "Dragon Empery",
+    "hull": "AE",
+    "class": "Ting An",
+    "timer": "Cannot be constructed",
+    "event": "Happy Lunar New Year 2023",
+    "VA": "Chiemi Tanaka"
+  },
+  "30602": {
+    "name": "Junyou",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "CVL",
+    "class": "Hiyou",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Seiko Yoshida"
+  },
+  "30603": {
+    "name": "Houshou",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "CVL",
+    "class": "Houshou",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Chiaki Takahashi"
+  },
+  "10124": {
+    "name": "Sims",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Sims",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Mikako Komatsu"
+  },
+  "30604": {
+    "name": "Zuihou",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "CVL",
+    "class": "Zuihou",
+    "timer": "02:22:00",
+    "event": "Whence Flowers Bear No Fruit",
+    "VA": "Hika Tsukishiro"
+  },
+  "10125": {
+    "name": "Hammann",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Sims",
+    "timer": "00:26:00",
+    "event": "No Event",
+    "VA": "Asuka Itou"
+  },
+  "30605": {
+    "name": "Shouhou",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "CVL",
+    "class": "Shouhou",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Hiromi Sugioka"
+  },
+  "1080001": {
+    "name": "Rikka Takarada",
+    "rarity": "Super Rare",
+    "nation": "SSSS",
+    "hull": "CL",
+    "class": "No Class",
+    "timer": "00:35:30",
+    "event": "World-Spanning Arclight",
+    "VA": "Yume Miyamoto"
+  },
+  "10126": {
+    "name": "Eldridge",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Cannon",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Nozomi Sasaki"
+  },
+  "30606": {
+    "name": "Ryuujou",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "CVL",
+    "class": "Ryuujou",
+    "timer": "Cannot be constructed",
+    "event": "The Solomon Ranger",
+    "VA": "Aya Suzaki"
+  },
+  "10127": {
+    "name": "Bailey",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Benson",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Eri Suzuki"
+  },
+  "30607": {
+    "name": "Ryuuhou",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "CVL",
+    "class": "Zuihou",
+    "timer": "02:22:00",
+    "event": "Swirling Cherry Blossoms",
+    "VA": "Juri Nagatsuma"
+  },
+  "30608": {
+    "name": "Chitose",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "CVL",
+    "class": "Zuihou",
+    "timer": "02:15:00",
+    "event": "Dreamwaker's Butterfly",
+    "VA": "Hitomi Sekine"
+  },
+  "1080003": {
+    "name": "Hass",
+    "rarity": "Elite",
+    "nation": "SSSS",
+    "hull": "CL",
+    "class": "No Class",
+    "timer": "00:38:45",
+    "event": "World-Spanning Arclight",
+    "VA": "Akari Kitou"
+  },
+  "1080004": {
+    "name": "Namiko",
+    "rarity": "Elite",
+    "nation": "SSSS",
+    "hull": "CA",
+    "class": "No Class",
+    "timer": "01:01:49",
+    "event": "World-Spanning Arclight",
+    "VA": "Suzuko Mimori"
+  },
+  "10129": {
+    "name": "Radford",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Fletcher",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Mariya Ise"
+  },
+  "30609": {
+    "name": "Chiyoda",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "CVL",
+    "class": "Zuihou",
+    "timer": "02:15:00",
+    "event": "Dreamwaker's Butterfly",
+    "VA": "Hitomi Sekine"
+  },
+  "10130": {
+    "name": "Jenkins",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Fletcher",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Mariya Ise"
+  },
+  "1080005": {
+    "name": "Yume Minami",
+    "rarity": "Super Rare",
+    "nation": "SSSS",
+    "hull": "CA",
+    "class": "No Class",
+    "timer": "01:04:11",
+    "event": "World-Spanning Arclight",
+    "VA": "Shion Wakayama"
+  },
+  "60102": {
+    "name": "Carabiniere",
+    "rarity": "Elite",
+    "nation": "Sardegna Empire",
+    "hull": "DD",
+    "class": "Soldati",
+    "timer": "Cannot be constructed",
+    "event": "Empyreal Tragicomedy",
+    "VA": "Rika Tachibana"
+  },
+  "10131": {
+    "name": "Nicholas",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Fletcher",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "M\u30fbA\u30fbO"
+  },
+  "1080006": {
+    "name": "Chise Asukagawa",
+    "rarity": "Super Rare",
+    "nation": "SSSS",
+    "hull": "CV",
+    "class": "No Class",
+    "timer": "01:37:42",
+    "event": "World-Spanning Arclight",
+    "VA": "Chika Anzai"
+  },
+  "60103": {
+    "name": "Vincenzo Gioberti",
+    "rarity": "Elite",
+    "nation": "Sardegna Empire",
+    "hull": "DD",
+    "class": "Alfredo Oriani",
+    "timer": "00:32:00",
+    "event": "Empyreal Tragicomedy Rerun",
+    "VA": "Misaki Yoshioka"
+  },
+  "1080007": {
+    "name": "Mujina",
+    "rarity": "Elite",
+    "nation": "SSSS",
+    "hull": "BB",
+    "class": "No Class",
+    "timer": "Cannot be constructed",
+    "event": "World-Spanning Arclight",
+    "VA": "Ayaka Suwa"
+  },
+  "60104": {
+    "name": "Maestrale",
+    "rarity": "Elite",
+    "nation": "Sardegna Empire",
+    "hull": "DD",
+    "class": "Maestrale",
+    "timer": "00:30:40",
+    "event": "Daedalian Hymn",
+    "VA": "Airi Eino"
+  },
+  "10133": {
+    "name": "Bush",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Fletcher",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Akane Fujita"
+  },
+  "1080008": {
+    "name": "The 2nd",
+    "rarity": "Super Rare",
+    "nation": "SSSS",
+    "hull": "BBV",
+    "class": "No Class",
+    "timer": "06:15:09",
+    "event": "World-Spanning Arclight Rerun",
+    "VA": "Karin Takahashi"
+  },
+  "60105": {
+    "name": "Libeccio",
+    "rarity": "Elite",
+    "nation": "Sardegna Empire",
+    "hull": "DD",
+    "class": "Maestrale",
+    "timer": "00:30:40",
+    "event": "Daedalian Hymn",
+    "VA": "Airi Eino"
+  },
+  "10134": {
+    "name": "Hazelwood",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Fletcher",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Akane Fujita"
+  },
+  "1080009": {
+    "name": "Princess Hime",
+    "rarity": "Super Rare",
+    "nation": "SSSS",
+    "hull": "AE",
+    "class": "No Class",
+    "timer": "01:31:40",
+    "event": "World-Spanning Arclight Rerun",
+    "VA": "Maaya Uchida"
+  },
+  "60106": {
+    "name": "Nicoloso da Recco",
+    "rarity": "Elite",
+    "nation": "Sardegna Empire",
+    "hull": "DD",
+    "class": "Navigatori",
+    "timer": "00:29:40",
+    "event": "Daedalian Hymn",
+    "VA": "Aoi Koga"
+  },
+  "10135": {
+    "name": "Bache",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Fletcher",
+    "timer": "00:28:00",
+    "event": "No Event",
+    "VA": "Sayaka Kaneko"
+  },
+  "60107": {
+    "name": "Pompeo Magno",
+    "rarity": "Super Rare",
+    "nation": "Sardegna Empire",
+    "hull": "DD",
+    "class": "Capitani Romani",
+    "timer": "00:32:00",
+    "event": "Virtual Tower",
+    "VA": "Saya Aizawa"
+  },
+  "10136": {
+    "name": "Hobby",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Benson",
+    "timer": "00:27:00",
+    "event": "Fallen Wings",
+    "VA": "Miyuki Kobori"
+  },
+  "60108": {
+    "name": "Alfredo Oriani",
+    "rarity": "Elite",
+    "nation": "Sardegna Empire",
+    "hull": "DD",
+    "class": "Alfredo Oriani",
+    "timer": "00:32:00",
+    "event": "Aquilifer's Ballade",
+    "VA": "Yuko Natsuyoshi"
+  },
+  "10137": {
+    "name": "Kalk",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Benson",
+    "timer": "00:27:00",
+    "event": "Fallen Wings",
+    "VA": "Miyuki Kobori"
+  },
+  "60109": {
+    "name": "Emanuele Pessagno",
+    "rarity": "Elite",
+    "nation": "Sardegna Empire",
+    "hull": "DD",
+    "class": "Navigatori",
+    "timer": "Cannot be constructed",
+    "event": "Aquilifer's Ballade",
+    "VA": "Maria Sashide"
+  },
+  "10138": {
+    "name": "Kimberly",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Fletcher",
+    "timer": "00:28:00",
+    "event": "Lunar New Year 2019",
+    "VA": "Sumire Morohoshi"
+  },
+  "60110": {
+    "name": "Attilio Regolo",
+    "rarity": "Super Rare",
+    "nation": "Sardegna Empire",
+    "hull": "DD",
+    "class": "Capitani Romani",
+    "timer": "00:32:00",
+    "event": "Reflections of the Oasis",
+    "VA": "Riho Tsuda"
+  },
+  "10139": {
+    "name": "Mullany",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Fletcher",
+    "timer": "00:28:00",
+    "event": "Lunar New Year 2019",
+    "VA": "Asuka Oogame"
+  },
+  "60111": {
+    "name": "Giosu\u00e8 Carducci",
+    "rarity": "Elite",
+    "nation": "Sardegna Empire",
+    "hull": "DD",
+    "class": "Alfredo Oriani",
+    "timer": "Cannot be constructed",
+    "event": "Paradiso of Shackled Light",
+    "VA": "Yuko Natsuyoshi"
+  },
+  "10140": {
+    "name": "Aylwin",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Farragut",
+    "timer": "Drop Only",
+    "event": "Ashen Simulacrum",
+    "VA": "Ayaka Ouhashi"
+  },
+  "10141": {
+    "name": "Stanly",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Fletcher",
+    "timer": "00:28:00",
+    "event": "No Event",
+    "VA": "Yoshie Sakai"
+  },
+  "10142": {
+    "name": "Smalley",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Fletcher",
+    "timer": "00:28:00",
+    "event": "No Event",
+    "VA": "Natsume Iwasa"
+  },
+  "10143": {
+    "name": "Halsey Powell",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Fletcher",
+    "timer": "00:28:00",
+    "event": "Fight On, Royal Maids!",
+    "VA": "Rika Momokawa"
+  },
+  "10144": {
+    "name": "Cooper",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Allen M. Sumner",
+    "timer": "00:29:00",
+    "event": "Microlayer Medley",
+    "VA": "Miho Okasaki"
+  },
+  "10145": {
+    "name": "Allen M. Sumner",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Allen M. Sumner",
+    "timer": "00:29:00",
+    "event": "Ashen Simulacrum Rerun",
+    "VA": "Hazuki Ogino"
+  },
+  "10146": {
+    "name": "Stephen Potter",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Fletcher",
+    "timer": "00:28:00",
+    "event": "Ashen Simulacrum Rerun",
+    "VA": "Shiori Sugiura"
+  },
+  "10147": {
+    "name": "Morrison",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Fletcher",
+    "timer": "Cannot be constructed",
+    "event": "Mirror Involution",
+    "VA": "Sakura Namiki"
+  },
+  "10148": {
+    "name": "Ingraham",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Allen M. Sumner",
+    "timer": "00:29:00",
+    "event": "Microlayer Medley Rerun",
+    "VA": "Hiyori Kono"
+  },
+  "10149": {
+    "name": "Bristol",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Allen M. Sumner",
+    "timer": "00:29:00",
+    "event": "Happy Lunar New Year 2022",
+    "VA": "Mayuko Kazama"
+  },
+  "10150": {
+    "name": "Hammann II",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Edsall",
+    "timer": "00:15:00",
+    "event": "Parallel Superimposition",
+    "VA": "Asuka Itou"
+  },
+  "10151": {
+    "name": "Laffey II",
+    "rarity": "Ultra Rare",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Allen M. Sumner",
+    "timer": "Cannot be constructed",
+    "event": "Light-Chasing Sea of Stars",
+    "VA": "Maria Naganawa"
+  },
+  "119901": {
+    "name": "Gouden Leeuw",
+    "rarity": "Decisive",
+    "nation": "Kingdom of Tulipa",
+    "hull": "CA",
+    "class": "Gouden Leeuw",
+    "timer": "Research",
+    "event": "Season 8",
+    "VA": "Kikuko Inoue"
+  },
+  "10152": {
+    "name": "Bell",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Fletcher",
+    "timer": "00:28:00",
+    "event": "Windborne Steel Wings",
+    "VA": "Yuina Ito"
+  },
+  "10153": {
+    "name": "Miller",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "DD",
+    "class": "Fletcher",
+    "timer": "00:28:00",
+    "event": "Letters from Valley Hospital",
+    "VA": "Azusa Tachibana"
+  },
+  "1130001": {
+    "name": "Yumia Liessfeldt",
+    "rarity": "Super Rare",
+    "nation": "Atelier Yumia",
+    "hull": "CVL",
+    "class": "No Class",
+    "timer": "02:23:00",
+    "event": "The Alchemist and the Tower of Horizons",
+    "VA": "Wakana Kuramochi"
+  },
+  "1130002": {
+    "name": "Isla von Duerer",
+    "rarity": "Super Rare",
+    "nation": "Atelier Yumia",
+    "hull": "CL",
+    "class": "No Class",
+    "timer": "01:16:00",
+    "event": "The Alchemist and the Tower of Horizons",
+    "VA": "Kaori Maeda"
+  },
+  "1130003": {
+    "name": "Nina Friede",
+    "rarity": "Super Rare",
+    "nation": "Atelier Yumia",
+    "hull": "BB",
+    "class": "No Class",
+    "timer": "06:15:00",
+    "event": "The Alchemist and the Tower of Horizons",
+    "VA": "Mikako Komatsu"
+  },
+  "1130004": {
+    "name": "Lenja",
+    "rarity": "Super Rare",
+    "nation": "Atelier Yumia",
+    "hull": "DD",
+    "class": "No Class",
+    "timer": "00:25:50",
+    "event": "The Alchemist and the Tower of Horizons",
+    "VA": "Yoshino Aoyama"
+  },
+  "110101": {
+    "name": "Evertsen",
+    "rarity": "Elite",
+    "nation": "Kingdom of Tulipa",
+    "hull": "DD",
+    "class": "Admiralen",
+    "timer": "00:26:00",
+    "event": "Toward Tulipa's Seas",
+    "VA": "Haruna Mikawa"
+  },
+  "50301": {
+    "name": "Chien Wu",
+    "rarity": "Super Rare",
+    "nation": "Dragon Empery",
+    "hull": "CA",
+    "class": "Chien Wu",
+    "timer": "01:30:00",
+    "event": "Happy Lunar New Year 2025",
+    "VA": "Saku Mizuno"
+  },
+  "11802": {
+    "name": "Guam",
+    "rarity": "Ultra Rare",
+    "nation": "Eagle Union",
+    "hull": "CB",
+    "class": "Alaska",
+    "timer": "04:11:40",
+    "event": "Light-Chasing Sea of Stars",
+    "VA": "Karin Kagami"
+  },
+  "40501": {
+    "name": "Bismarck",
+    "rarity": "Super Rare",
+    "nation": "Iron Blood",
+    "hull": "BB",
+    "class": "Bismarck",
+    "timer": "06:00:00",
+    "event": "Scherzo of Iron and Blood",
+    "VA": "Ayaka Fukuhara"
+  },
+  "40502": {
+    "name": "Tirpitz",
+    "rarity": "Super Rare",
+    "nation": "Iron Blood",
+    "hull": "BB",
+    "class": "Bismarck",
+    "timer": "Cannot be constructed",
+    "event": "Divergent Chessboard",
+    "VA": "Atsuko Tanaka"
+  },
+  "40503": {
+    "name": "Ulrich von Hutten",
+    "rarity": "Ultra Rare",
+    "nation": "Iron Blood",
+    "hull": "BB",
+    "class": "Ulrich von Hutten",
+    "timer": "06:00:00",
+    "event": "Tower of Transcendence",
+    "VA": "Hibiku Yamamura"
+  },
+  "40504": {
+    "name": "Thüringen",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "BB",
+    "class": "Helgoland",
+    "timer": "Cannot be constructed",
+    "event": "Rondo at Rainbow's End",
+    "VA": "Riho Sugiyama"
+  },
+  "40505": {
+    "name": "Bismarck Zwei",
+    "rarity": "Ultra Rare",
+    "nation": "Iron Blood",
+    "hull": "BB",
+    "class": "Bismarck",
+    "timer": "06:00:00",
+    "event": "Confluence of Nothingness",
+    "VA": "Ayaka Fukuhara"
+  },
+  "40506": {
+    "name": "Little Friedrich",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "BB",
+    "class": "Friedrich der Große",
+    "timer": "Cannot be constructed",
+    "event": "Today's Conduction Practice",
+    "VA": "Hitomi Nabatame"
+  },
+  "970301": {
+    "name": "Trento META",
+    "rarity": "Elite",
+    "nation": "META",
+    "hull": "CA",
+    "class": "Flickering Light",
+    "timer": "Cruise Missions",
+    "event": "Season 6",
+    "VA": "Sakura Nakamura"
+  },
+  "1090006": {
+    "name": "Kala Ideas",
+    "rarity": "Super Rare",
+    "nation": "Atelier Ryza",
+    "hull": "CB",
+    "class": "No Class",
+    "timer": "Cannot be constructed",
+    "event": "The Alchemist and the Archipelago of Secrets",
+    "VA": "Hina Yomiya"
+  },
+  "90114": {
+    "name": "L'Audacieux",
+    "rarity": "Super Rare",
+    "nation": "Vichya Dominion",
+    "hull": "DD",
+    "class": "Le Fantasque",
+    "timer": "00:33:00",
+    "event": "Interlude of Illusions",
+    "VA": "Akari Miyazaki"
+  },
+  "970302": {
+    "name": "Algérie META",
+    "rarity": "Super Rare",
+    "nation": "META",
+    "hull": "CA",
+    "class": "Cinders of Hope",
+    "timer": "META Showdown",
+    "event": "Season 11",
+    "VA": "Shizuka Itou"
+  },
+  "970303": {
+    "name": "Foch META",
+    "rarity": "Elite",
+    "nation": "META",
+    "hull": "CA",
+    "class": "Cinders of Hope",
+    "timer": "Cruise Missions",
+    "event": "Season 17",
+    "VA": "Aino Shimada"
+  },
+  "10201": {
+    "name": "Omaha",
+    "rarity": "Normal",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Omaha",
+    "timer": "01:05:00",
+    "event": "No Event",
+    "VA": "Juri Kimura"
+  },
+  "970304": {
+    "name": "Wichita META",
+    "rarity": "Super Rare",
+    "nation": "META",
+    "hull": "CA",
+    "class": "Ashen Might",
+    "timer": "META Showdown",
+    "event": "Season 15",
+    "VA": "Nozomi Yamamoto"
+  },
+  "10202": {
+    "name": "Raleigh",
+    "rarity": "Normal",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Omaha",
+    "timer": "01:05:00",
+    "event": "No Event",
+    "VA": "Juri Kimura"
+  },
+  "970305": {
+    "name": "Admiral Hipper META",
+    "rarity": "Super Rare",
+    "nation": "META",
+    "hull": "CA",
+    "class": "Cinders of Hope",
+    "timer": "02:00:00",
+    "event": "Substellar Crepuscule",
+    "VA": "Yuri Yamaoka"
+  },
+  "10203": {
+    "name": "Brooklyn",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Brooklyn",
+    "timer": "01:15:00",
+    "event": "No Event",
+    "VA": "Lynn"
+  },
+  "970306": {
+    "name": "Bolzano META",
+    "rarity": "Elite",
+    "nation": "META",
+    "hull": "CA",
+    "class": "Cinders of Hope",
+    "timer": "Cruise Missions",
+    "event": "Season 21",
+    "VA": "Ryoko Maekawa"
+  },
+  "10204": {
+    "name": "Phoenix",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Brooklyn",
+    "timer": "01:15:00",
+    "event": "No Event",
+    "VA": "Lynn"
+  },
+  "10205": {
+    "name": "Helena",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Brooklyn",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Tomoyo Chuujou"
+  },
+  "10206": {
+    "name": "Atlanta",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Atlanta",
+    "timer": "01:10:00",
+    "event": "No Event",
+    "VA": "Kazusa Aranami"
+  },
+  "10207": {
+    "name": "Juneau",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Atlanta",
+    "timer": "01:10:00",
+    "event": "No Event",
+    "VA": "Juri Kimura"
+  },
+  "10208": {
+    "name": "San Diego",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Atlanta",
+    "timer": "01:10:00",
+    "event": "No Event",
+    "VA": "Asuka Itou"
+  },
+  "10209": {
+    "name": "Cleveland",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Cleveland",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Saya Horigome"
+  },
+  "10210": {
+    "name": "Columbia",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Cleveland",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Saya Horigome"
+  },
+  "10211": {
+    "name": "Richmond",
+    "rarity": "Normal",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Omaha",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Riko Kohara"
+  },
+  "10212": {
+    "name": "Honolulu",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Brooklyn",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Yoko Hikasa"
+  },
+  "10213": {
+    "name": "St. Louis",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Brooklyn",
+    "timer": "01:15:00",
+    "event": "No Event",
+    "VA": "Yoko Hikasa"
+  },
+  "10214": {
+    "name": "Montpelier",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Cleveland",
+    "timer": "01:25:00",
+    "event": "No Event",
+    "VA": "Rie Takahashi"
+  },
+  "10215": {
+    "name": "Denver",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Cleveland",
+    "timer": "01:25:00",
+    "event": "No Event",
+    "VA": "Ari Ozawa"
+  },
+  "10216": {
+    "name": "Memphis",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Omaha",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Hekiru Shiina"
+  },
+  "10218": {
+    "name": "Concord",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Omaha",
+    "timer": "01:05:00",
+    "event": "No Event",
+    "VA": "Kana Yuuki"
+  },
+  "10219": {
+    "name": "Lena",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Brooklyn",
+    "timer": "01:10:00",
+    "event": "Today's Debut✩Tomorrow's Star!",
+    "VA": "Tomoyo Chuujou"
+  },
+  "90501": {
+    "name": "Jean Bart",
+    "rarity": "Super Rare",
+    "nation": "Vichya Dominion",
+    "hull": "BB",
+    "class": "Richelieu",
+    "timer": "Cannot be constructed",
+    "event": "Iris of Light and Dark",
+    "VA": "Marina Inoue"
+  },
+  "10220": {
+    "name": "Clevelad",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Cleveland",
+    "timer": "01:20:00",
+    "event": "Today's Debut✩Tomorrow's Star!",
+    "VA": "Saya Horigome"
+  },
+  "90502": {
+    "name": "Clemenceau",
+    "rarity": "Super Rare",
+    "nation": "Vichya Dominion",
+    "hull": "BB",
+    "class": "Richelieu",
+    "timer": "05:50:00",
+    "event": "The Fool's Scales",
+    "VA": "Yurina Amami"
+  },
+  "49901": {
+    "name": "Roon",
+    "rarity": "Priority",
+    "nation": "Iron Blood",
+    "hull": "CA",
+    "class": "Roon",
+    "timer": "Research",
+    "event": "Season 1",
+    "VA": "Satomi Satou"
+  },
+  "10221": {
+    "name": "Li'l Sandy",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Atlanta",
+    "timer": "Cannot be constructed",
+    "event": "Today's Debut✩Tomorrow's Star!",
+    "VA": "Asuka Itou"
+  },
+  "30701": {
+    "name": "Akagi",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "CV",
+    "class": "Akagi",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Mai Nakahara"
+  },
+  "90503": {
+    "name": "Gascogne µ",
+    "rarity": "Super Rare",
+    "nation": "Vichya Dominion",
+    "hull": "BB",
+    "class": "Richelieu",
+    "timer": "05:50:00",
+    "event": "Crescendo of Polaris",
+    "VA": "Mikako Komatsu"
+  },
+  "10222": {
+    "name": "San Juan",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Atlanta",
+    "timer": "Cannot be constructed",
+    "event": "Ashen Simulacrum",
+    "VA": "Yuki Shion"
+  },
+  "30702": {
+    "name": "Kaga",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "CV",
+    "class": "Kaga",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Ai Kayano"
+  },
+  "10223": {
+    "name": "Birmingham",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Cleveland",
+    "timer": "01:25:00",
+    "event": "Ashen Simulacrum",
+    "VA": "Sayumi Watabe"
+  },
+  "30703": {
+    "name": "Souryuu",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "CV",
+    "class": "Souryuu",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Karin Mitarai"
+  },
+  "10224": {
+    "name": "Cleveland µ",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Cleveland",
+    "timer": "01:25:00",
+    "event": "Crescendo of Polaris",
+    "VA": "Saya Horigome"
+  },
+  "30704": {
+    "name": "Hiryuu",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "CV",
+    "class": "Hiryuu",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Shizuka Ishigami"
+  },
+  "10225": {
+    "name": "Biloxi",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Cleveland",
+    "timer": "01:25:00",
+    "event": "Fight On, Royal Maids!",
+    "VA": "Kaoru Komatsu"
+  },
+  "30705": {
+    "name": "Shoukaku",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "CV",
+    "class": "Shoukaku",
+    "timer": "Cannot be constructed",
+    "event": "Visitors Dyed in Red",
+    "VA": "Risa Taneda"
+  },
+  "49902": {
+    "name": "Friedrich der Große",
+    "rarity": "Decisive",
+    "nation": "Iron Blood",
+    "hull": "BB",
+    "class": "Friedrich der Große",
+    "timer": "Research",
+    "event": "Season 2",
+    "VA": "Hitomi Nabatame"
+  },
+  "10226": {
+    "name": "Reno",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Atlanta",
+    "timer": "01:10:00",
+    "event": "Microlayer Medley",
+    "VA": "Meiko Kawasaki"
+  },
+  "30706": {
+    "name": "Zuikaku",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "CV",
+    "class": "Shoukaku",
+    "timer": "Cannot be constructed",
+    "event": "Visitors Dyed in Red",
+    "VA": "Risa Taneda"
+  },
+  "10227": {
+    "name": "Marblehead",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Omaha",
+    "timer": "01:05:00",
+    "event": "Microlayer Medley",
+    "VA": "Larissa Tago Takeda"
+  },
+  "30707": {
+    "name": "Taihou",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "CV",
+    "class": "Taihou",
+    "timer": "04:45:00",
+    "event": "1 Year Anniversary",
+    "VA": "Aoi Yuuki"
+  },
+  "30708": {
+    "name": "Shinano",
+    "rarity": "Ultra Rare",
+    "nation": "Sakura Empire",
+    "hull": "CV",
+    "class": "Yamato",
+    "timer": "05:15:00",
+    "event": "Dreamwaker's Butterfly",
+    "VA": "Mamiko Noto"
+  },
+  "10229": {
+    "name": "Boise",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Brooklyn",
+    "timer": "01:15:00",
+    "event": "Mirror Involution",
+    "VA": "Yuu Sasahara"
+  },
+  "30709": {
+    "name": "Akagi-chan",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "CV",
+    "class": "Akagi",
+    "timer": "04:35:00",
+    "event": "Escape from the Port",
+    "VA": "Mai Nakahara"
+  },
+  "60201": {
+    "name": "Duca degli Abruzzi",
+    "rarity": "Super Rare",
+    "nation": "Sardegna Empire",
+    "hull": "CL",
+    "class": "Duca degli Abruzzi",
+    "timer": "01:26:00",
+    "event": "Daedalian Hymn",
+    "VA": "Hiromi Hirata"
+  },
+  "30710": {
+    "name": "Akagi µ",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "CV",
+    "class": "Akagi",
+    "timer": "04:40:00",
+    "event": "Crescendo of Polaris",
+    "VA": "Mai Nakahara"
+  },
+  "49903": {
+    "name": "Mainz",
+    "rarity": "Priority",
+    "nation": "Iron Blood",
+    "hull": "CL",
+    "class": "Mainz",
+    "timer": "Research",
+    "event": "Season 3",
+    "VA": "Yuuko Kaida"
+  },
+  "60202": {
+    "name": "Giuseppe Garibaldi",
+    "rarity": "Super Rare",
+    "nation": "Sardegna Empire",
+    "hull": "CL",
+    "class": "Duca degli Abruzzi",
+    "timer": "01:26:00",
+    "event": "Aquilifer's Ballade",
+    "VA": "Megumi Toda"
+  },
+  "10231": {
+    "name": "Houston II",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Cleveland",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Aya Yokota"
+  },
+  "30711": {
+    "name": "Taihou µ",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "CV",
+    "class": "Taihou",
+    "timer": "04:45:00",
+    "event": "Universe in Unison",
+    "VA": "Aoi Yuuki"
+  },
+  "10232": {
+    "name": "Boise µ",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Brooklyn",
+    "timer": "01:15:00",
+    "event": "Heart-Linking Harmony",
+    "VA": "Yuu Sasahara"
+  },
+  "30712": {
+    "name": "Katsuragi",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "CV",
+    "class": "Unryuu",
+    "timer": "04:20:00",
+    "event": "Upon the Shimmering Blue",
+    "VA": "Megumi Toda"
+  },
+  "10233": {
+    "name": "Fargo",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Fargo",
+    "timer": "01:26:00",
+    "event": "Windborne Steel Wings",
+    "VA": "Akane Misaka"
+  },
+  "30713": {
+    "name": "Taihou-chan",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "CV",
+    "class": "Taihou",
+    "timer": "Cannot be constructed",
+    "event": "Passionate Confession Practice",
+    "VA": "Aoi Yuuki"
+  },
+  "10234": {
+    "name": "Santa Fe",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "CL",
+    "class": "Cleveland",
+    "timer": "01:25:00",
+    "event": "Letters from Valley Hospital",
+    "VA": "Sae Hiratsuka"
+  },
+  "30714": {
+    "name": "Shinano-chan",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "CV",
+    "class": "Yamato",
+    "timer": "Cannot be constructed",
+    "event": "Sharing Sweet Slumbers",
+    "VA": "Mamiko Noto"
+  },
+  "30715": {
+    "name": "Amagi(CV)",
+    "rarity": "Ultra Rare",
+    "nation": "Sakura Empire",
+    "hull": "CV",
+    "class": "Amagi(CV)",
+    "timer": "04:40:00",
+    "event": "Ode of Everblooming Crimson",
+    "VA": "Miyuki Sawashiro"
+  },
+  "49904": {
+    "name": "Odin",
+    "rarity": "Priority",
+    "nation": "Iron Blood",
+    "hull": "BC",
+    "class": "Odin",
+    "timer": "Research",
+    "event": "Season 3",
+    "VA": "Yuki Matsuoka"
+  },
+  "29901": {
+    "name": "Neptune",
+    "rarity": "Priority",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Neptune",
+    "timer": "Research",
+    "event": "Season 1",
+    "VA": "Mikako Izawa"
+  },
+  "49905": {
+    "name": "Ägir",
+    "rarity": "Decisive",
+    "nation": "Iron Blood",
+    "hull": "CB",
+    "class": "Ägir",
+    "timer": "Research",
+    "event": "Season 4",
+    "VA": "Ayane Sakura"
+  },
+  "29902": {
+    "name": "Monarch",
+    "rarity": "Priority",
+    "nation": "Royal Navy",
+    "hull": "BB",
+    "class": "Monarch",
+    "timer": "Research",
+    "event": "Season 1",
+    "VA": "Miyuki Sawashiro"
+  },
+  "970503": {
+    "name": "Arizona META",
+    "rarity": "Super Rare",
+    "nation": "META",
+    "hull": "BB",
+    "class": "Framework of Logic",
+    "timer": "META Showdown",
+    "event": "Season 9",
+    "VA": "Sawako Shirakabe"
+  },
+  "29903": {
+    "name": "Cheshire",
+    "rarity": "Priority",
+    "nation": "Royal Navy",
+    "hull": "CA",
+    "class": "Cheshire",
+    "timer": "Research",
+    "event": "Season 3",
+    "VA": "Shizuka Ishigami"
+  },
+  "29904": {
+    "name": "Drake",
+    "rarity": "Decisive",
+    "nation": "Royal Navy",
+    "hull": "CA",
+    "class": "Drake",
+    "timer": "Research",
+    "event": "Season 3",
+    "VA": "Asami Imai"
+  },
+  "29905": {
+    "name": "Plymouth",
+    "rarity": "Decisive",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Plymouth",
+    "timer": "Research",
+    "event": "Season 5",
+    "VA": "Manatsu Murakami"
+  },
+  "49906": {
+    "name": "August von Parseval",
+    "rarity": "Priority",
+    "nation": "Iron Blood",
+    "hull": "CV",
+    "class": "August von Parseval",
+    "timer": "Research",
+    "event": "Season 4",
+    "VA": "Rika Tachibana"
+  },
+  "970504": {
+    "name": "Queen Elizabeth META",
+    "rarity": "Super Rare",
+    "nation": "META",
+    "hull": "BB",
+    "class": "Cinders of Hope",
+    "timer": "META Showdown",
+    "event": "Season 10",
+    "VA": "Sumire Uesaka"
+  },
+  "80701": {
+    "name": "Béarn",
+    "rarity": "Elite",
+    "nation": "Iris Libre",
+    "hull": "CV",
+    "class": "Béarn",
+    "timer": "Cannot be constructed",
+    "event": "Skybound Oratorio",
+    "VA": "Asami Takano"
+  },
+  "49907": {
+    "name": "Prinz Rupprecht",
+    "rarity": "Priority",
+    "nation": "Iron Blood",
+    "hull": "BC",
+    "class": "Prinz Rupprecht",
+    "timer": "Research",
+    "event": "Season 5",
+    "VA": "Momo Asakura"
+  },
+  "80702": {
+    "name": "Painlevé",
+    "rarity": "Super Rare",
+    "nation": "Iris Libre",
+    "hull": "CV",
+    "class": "Joffre",
+    "timer": "04:35:00",
+    "event": "The Fool's Scales",
+    "VA": "Yuka Nukui"
+  },
+  "970505": {
+    "name": "Rodney META",
+    "rarity": "Super Rare",
+    "nation": "META",
+    "hull": "BB",
+    "class": "Framework of Logic",
+    "timer": "META Showdown",
+    "event": "Season 14",
+    "VA": "You Taichi"
+  },
+  "49908": {
+    "name": "Felix Schultz",
+    "rarity": "Priority",
+    "nation": "Iron Blood",
+    "hull": "DD",
+    "class": "Felix Schultz",
+    "timer": "Research",
+    "event": "Season 6",
+    "VA": "Shuka Saito"
+  },
+  "110201": {
+    "name": "De Zeven Provinci\u00ebn",
+    "rarity": "Super Rare",
+    "nation": "Kingdom of Tulipa",
+    "hull": "CL",
+    "class": "De Zeven Provinci\u00ebn",
+    "timer": "01:25:00",
+    "event": "Toward Tulipa's Seas",
+    "VA": "Kana Hanaiwa"
+  },
+  "50401": {
+    "name": "Huan Ch'ang",
+    "rarity": "Super Rare",
+    "nation": "Dragon Empery",
+    "hull": "BC",
+    "class": "Huan Ch'ang",
+    "timer": "04:10:00",
+    "event": "Happy Lunar New Year 2024",
+    "VA": "Ai Matayoshi"
+  },
+  "49909": {
+    "name": "Hindenburg",
+    "rarity": "Decisive",
+    "nation": "Iron Blood",
+    "hull": "CA",
+    "class": "Hindenburg",
+    "timer": "Research",
+    "event": "Season 6",
+    "VA": "Eriko Matsui"
+  },
+  "49910": {
+    "name": "Mecklenburg",
+    "rarity": "Decisive",
+    "nation": "Iron Blood",
+    "hull": "BB",
+    "class": "Mecklenburg",
+    "timer": "Research",
+    "event": "Season 8",
+    "VA": "Mariya Ise"
+  },
+  "1040001": {
+    "name": "Kizuna AI",
+    "rarity": "Elite",
+    "nation": "Kizuna AI",
+    "hull": "DD",
+    "class": "No Class",
+    "timer": "Cannot be constructed",
+    "event": "Virtual Connection Synchronicity",
+    "VA": "Kizuna AI"
+  },
+  "1040002": {
+    "name": "Elegant Kizuna AI",
+    "rarity": "Super Rare",
+    "nation": "Kizuna AI",
+    "hull": "CA",
+    "class": "No Class",
+    "timer": "01:55:00",
+    "event": "Virtual Connection Synchronicity",
+    "VA": "Kizuna AI"
+  },
+  "1040003": {
+    "name": "Anniversary Kizuna AI",
+    "rarity": "Super Rare",
+    "nation": "Kizuna AI",
+    "hull": "CV",
+    "class": "No Class",
+    "timer": "04:30:00",
+    "event": "Virtual Connection Synchronicity",
+    "VA": "Kizuna AI"
+  },
+  "79901": {
+    "name": "Chkalov",
+    "rarity": "Priority",
+    "nation": "Northern Parliament",
+    "hull": "CV",
+    "class": "Chkalov",
+    "timer": "Research",
+    "event": "Season 5",
+    "VA": "Ryoka Yuzuki"
+  },
+  "1040004": {
+    "name": "Super Gamer Kizuna AI",
+    "rarity": "Super Rare",
+    "nation": "Kizuna AI",
+    "hull": "BB",
+    "class": "No Class",
+    "timer": "04:50:00",
+    "event": "Virtual Connection Synchronicity",
+    "VA": "Kizuna AI"
+  },
+  "79902": {
+    "name": "Admiral Nakhimov",
+    "rarity": "Decisive",
+    "nation": "Northern Parliament",
+    "hull": "CV",
+    "class": "Admiral Nakhimov",
+    "timer": "Research",
+    "event": "Season 7",
+    "VA": "Chika Anzai"
+  },
+  "20101": {
+    "name": "Amazon",
+    "rarity": "Rare",
+    "nation": "Royal Navy",
+    "hull": "DD",
+    "class": "Amazon",
+    "timer": "00:19:00",
+    "event": "No Event",
+    "VA": "Yukiko Ayamiya"
+  },
+  "79903": {
+    "name": "Dmitri Donskoi",
+    "rarity": "Priority",
+    "nation": "Northern Parliament",
+    "hull": "CL",
+    "class": "Dmitri Donskoi",
+    "timer": "Research",
+    "event": "Season 8",
+    "VA": "Miyari Nemoto"
+  },
+  "20102": {
+    "name": "Acasta",
+    "rarity": "Rare",
+    "nation": "Royal Navy",
+    "hull": "DD",
+    "class": "A and B",
+    "timer": "00:19:00",
+    "event": "Glorious Battle",
+    "VA": "Kaya Okuno"
+  },
+  "20103": {
+    "name": "Ardent",
+    "rarity": "Rare",
+    "nation": "Royal Navy",
+    "hull": "DD",
+    "class": "A and B",
+    "timer": "00:19:00",
+    "event": "Glorious Battle",
+    "VA": "Mami Kamikura"
+  },
+  "20106": {
+    "name": "Beagle",
+    "rarity": "Normal",
+    "nation": "Royal Navy",
+    "hull": "DD",
+    "class": "A and B",
+    "timer": "00:20:00",
+    "event": "No Event",
+    "VA": "Eri Suzuki"
+  },
+  "20107": {
+    "name": "Bulldog",
+    "rarity": "Normal",
+    "nation": "Royal Navy",
+    "hull": "DD",
+    "class": "A and B",
+    "timer": "00:20:00",
+    "event": "No Event",
+    "VA": "Eri Suzuki"
+  },
+  "20108": {
+    "name": "Comet",
+    "rarity": "Normal",
+    "nation": "Royal Navy",
+    "hull": "DD",
+    "class": "C",
+    "timer": "00:21:00",
+    "event": "No Event",
+    "VA": "Minori Suzuki"
+  },
+  "20109": {
+    "name": "Crescent",
+    "rarity": "Normal",
+    "nation": "Royal Navy",
+    "hull": "DD",
+    "class": "C",
+    "timer": "00:21:00",
+    "event": "No Event",
+    "VA": "Minori Suzuki"
+  },
+  "971201": {
+    "name": "Vestal META",
+    "rarity": "Elite",
+    "nation": "META",
+    "hull": "AR",
+    "class": "Framework of Logic",
+    "timer": "Cruise Missions",
+    "event": "Season 11",
+    "VA": "Maia"
+  },
+  "20110": {
+    "name": "Cygnet",
+    "rarity": "Normal",
+    "nation": "Royal Navy",
+    "hull": "DD",
+    "class": "C",
+    "timer": "00:21:00",
+    "event": "No Event",
+    "VA": "Risa Taneda"
+  },
+  "20111": {
+    "name": "Foxhound",
+    "rarity": "Normal",
+    "nation": "Royal Navy",
+    "hull": "DD",
+    "class": "F",
+    "timer": "00:24:00",
+    "event": "No Event",
+    "VA": "Yuri Yamaoka"
+  },
+  "20112": {
+    "name": "Fortune",
+    "rarity": "Rare",
+    "nation": "Royal Navy",
+    "hull": "DD",
+    "class": "F",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Yuuko Gotou"
+  },
+  "20113": {
+    "name": "Grenville",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "DD",
+    "class": "G",
+    "timer": "00:25:00",
+    "event": "Winter's Crown",
+    "VA": "Juri Kimura"
+  },
+  "20114": {
+    "name": "Glowworm",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "DD",
+    "class": "G",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Hiromi Igarashi"
+  },
+  "20116": {
+    "name": "Hardy",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "DD",
+    "class": "H",
+    "timer": "00:26:00",
+    "event": "Stars of the Shimmering Fjord",
+    "VA": "Ayaka Nanase"
+  },
+  "70104": {
+    "name": "Tashkent",
+    "rarity": "Super Rare",
+    "nation": "Northern Parliament",
+    "hull": "DD",
+    "class": "Tashkent",
+    "timer": "00:42:00",
+    "event": "Northern Overture",
+    "VA": "Shiori Izawa"
+  },
+  "20120": {
+    "name": "Hunter",
+    "rarity": "Rare",
+    "nation": "Royal Navy",
+    "hull": "DD",
+    "class": "H",
+    "timer": "Cannot be constructed",
+    "event": "Stars of the Shimmering Fjord",
+    "VA": "Ayaka Nanase"
+  },
+  "20121": {
+    "name": "Javelin",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "DD",
+    "class": "J",
+    "timer": "00:27:00",
+    "event": "No Event",
+    "VA": "Nozomi Yamane"
+  },
+  "40601": {
+    "name": "Weser",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "CVL",
+    "class": "Weser",
+    "timer": "02:22:00",
+    "event": "Inverted Orthant",
+    "VA": "Rimi Nishimoto"
+  },
+  "70105": {
+    "name": "Tashkent µ",
+    "rarity": "Super Rare",
+    "nation": "Northern Parliament",
+    "hull": "DD",
+    "class": "Tashkent",
+    "timer": "00:42:00",
+    "event": "Universe in Unison",
+    "VA": "Shiori Izawa"
+  },
+  "20122": {
+    "name": "Juno",
+    "rarity": "Rare",
+    "nation": "Royal Navy",
+    "hull": "DD",
+    "class": "J",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Sawako Shirakabe"
+  },
+  "40602": {
+    "name": "Elbe",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "CVL",
+    "class": "Jade",
+    "timer": "02:20:00",
+    "event": "Tower of Transcendence",
+    "VA": "Nene Hieda"
+  },
+  "20123": {
+    "name": "Vampire",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "DD",
+    "class": "V",
+    "timer": "Cannot be constructed",
+    "event": "Strive, Wish and Strategize",
+    "VA": "Rie Kugimiya"
+  },
+  "40603": {
+    "name": "Jade",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "CVL",
+    "class": "Jade",
+    "timer": "Cannot be constructed",
+    "event": "Confluence of Nothingness",
+    "VA": "Arisa Aihara"
+  },
+  "20124": {
+    "name": "Jupiter",
+    "rarity": "Rare",
+    "nation": "Royal Navy",
+    "hull": "DD",
+    "class": "J",
+    "timer": "00:27:00",
+    "event": "No Event",
+    "VA": "Tomoyo Takayanagi"
+  },
+  "20125": {
+    "name": "Jersey",
+    "rarity": "Rare",
+    "nation": "Royal Navy",
+    "hull": "DD",
+    "class": "J",
+    "timer": "00:27:00",
+    "event": "No Event",
+    "VA": "Miho Takauma"
+  },
+  "1090001": {
+    "name": "Reisalin Stout",
+    "rarity": "Super Rare",
+    "nation": "Atelier Ryza",
+    "hull": "CL",
+    "class": "No Class",
+    "timer": "01:16:00",
+    "event": "The Alchemist and the Archipelago of Secrets",
+    "VA": "Yuri Noguchi"
+  },
+  "20126": {
+    "name": "Matchless",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "DD",
+    "class": "M",
+    "timer": "Cannot be constructed",
+    "event": "Winter's Crown",
+    "VA": "Yumiri Hanamori"
+  },
+  "70106": {
+    "name": "Stremitelny",
+    "rarity": "Elite",
+    "nation": "Northern Parliament",
+    "hull": "DD",
+    "class": "Gnevny",
+    "timer": "00:32:00",
+    "event": "No Event",
+    "VA": "Momoki Kakimura"
+  },
+  "1090002": {
+    "name": "Klaudia Valentz",
+    "rarity": "Super Rare",
+    "nation": "Atelier Ryza",
+    "hull": "CVL",
+    "class": "No Class",
+    "timer": "02:23:00",
+    "event": "The Alchemist and the Archipelago of Secrets",
+    "VA": "Hitomi Oowada"
+  },
+  "20127": {
+    "name": "Musketeer",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "DD",
+    "class": "M",
+    "timer": "Cannot be constructed",
+    "event": "Winter's Crown",
+    "VA": "Yumiri Hanamori"
+  },
+  "1090003": {
+    "name": "Patricia Abelheim",
+    "rarity": "Super Rare",
+    "nation": "Atelier Ryza",
+    "hull": "BB",
+    "class": "No Class",
+    "timer": "06:15:00",
+    "event": "The Alchemist and the Archipelago of Secrets",
+    "VA": "Naomi Ohzora"
+  },
+  "1090004": {
+    "name": "Lila Decyrus",
+    "rarity": "Elite",
+    "nation": "Atelier Ryza",
+    "hull": "CA",
+    "class": "No Class",
+    "timer": "01:30:00",
+    "event": "The Alchemist and the Archipelago of Secrets",
+    "VA": "Haruka Terui"
+  },
+  "20129": {
+    "name": "Echo",
+    "rarity": "Rare",
+    "nation": "Royal Navy",
+    "hull": "DD",
+    "class": "E",
+    "timer": "00:28:00",
+    "event": "Scherzo of Iron and Blood",
+    "VA": "Mizuki Yuina"
+  },
+  "970401": {
+    "name": "Gneisenau META",
+    "rarity": "Super Rare",
+    "nation": "META",
+    "hull": "BC",
+    "class": "Cinders of Hope",
+    "timer": "META Showdown",
+    "event": "Season 5",
+    "VA": "Minami Shinoda"
+  },
+  "970402": {
+    "name": "Scharnhorst META",
+    "rarity": "Super Rare",
+    "nation": "META",
+    "hull": "BC",
+    "class": "Ashen Might",
+    "timer": "META Showdown",
+    "event": "Season 6",
+    "VA": "Ayaka Fukuhara"
+  },
+  "1090005": {
+    "name": "Serri Glaus",
+    "rarity": "Elite",
+    "nation": "Atelier Ryza",
+    "hull": "CV",
+    "class": "No Class",
+    "timer": "04:20:00",
+    "event": "The Alchemist and the Archipelago of Secrets",
+    "VA": "Yukiyo Fujii"
+  },
+  "70102": {
+    "name": "Grozny",
+    "rarity": "Elite",
+    "nation": "Northern Parliament",
+    "hull": "DD",
+    "class": "Gnevny",
+    "timer": "00:32:00",
+    "event": "Northern Overture",
+    "VA": "Chiyo Tomaru"
+  },
+  "70107": {
+    "name": "Gremyashchy",
+    "rarity": "Elite",
+    "nation": "Northern Parliament",
+    "hull": "DD",
+    "class": "Gnevny",
+    "timer": "00:32:00",
+    "event": "Khorovod of Dawn's Rime",
+    "VA": "Marina Yamada"
+  },
+  "970403": {
+    "name": "Repulse META",
+    "rarity": "Super Rare",
+    "nation": "META",
+    "hull": "BC",
+    "class": "Ashen Might",
+    "timer": "META Showdown",
+    "event": "Season 7",
+    "VA": "Koharu Nogata"
+  },
+  "10301": {
+    "name": "Pensacola",
+    "rarity": "Normal",
+    "nation": "Eagle Union",
+    "hull": "CA",
+    "class": "Pensacola",
+    "timer": "01:20:00",
+    "event": "No Event",
+    "VA": "Manaka Iwami"
+  },
+  "70103": {
+    "name": "Minsk",
+    "rarity": "Elite",
+    "nation": "Northern Parliament",
+    "hull": "DD",
+    "class": "Leningrad",
+    "timer": "Cannot be constructed",
+    "event": "Northern Overture",
+    "VA": "Yuuko Hara"
+  },
+  "20132": {
+    "name": "Eskimo",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "DD",
+    "class": "Tribal",
+    "timer": "00:29:00",
+    "event": "Counterattack Within the Fjord",
+    "VA": "Haruka Takahashi"
+  },
+  "10302": {
+    "name": "Salt Lake City",
+    "rarity": "Normal",
+    "nation": "Eagle Union",
+    "hull": "CA",
+    "class": "Pensacola",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Manaka Iwami"
+  },
+  "20133": {
+    "name": "Icarus",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "DD",
+    "class": "I",
+    "timer": "Cannot be constructed",
+    "event": "Aurora Noctis",
+    "VA": "Yuuki Takada"
+  },
+  "10303": {
+    "name": "Northampton",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "CA",
+    "class": "Northampton",
+    "timer": "01:40:00",
+    "event": "No Event",
+    "VA": "Takao Koizumi"
+  },
+  "20134": {
+    "name": "Jervis",
+    "rarity": "Super Rare",
+    "nation": "Royal Navy",
+    "hull": "DD",
+    "class": "J",
+    "timer": "00:27:00",
+    "event": "Pledge of the Radiant Court",
+    "VA": "Miyuki Satou"
+  },
+  "10304": {
+    "name": "Chicago",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "CA",
+    "class": "Northampton",
+    "timer": "01:40:00",
+    "event": "No Event",
+    "VA": "Ruka Nemoto"
+  },
+  "20135": {
+    "name": "Janus",
+    "rarity": "Super Rare",
+    "nation": "Royal Navy",
+    "hull": "DD",
+    "class": "J",
+    "timer": "00:27:00",
+    "event": "Fight On, Royal Maids! (Part 3)",
+    "VA": "Hina Kino"
+  },
+  "10305": {
+    "name": "Houston",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CA",
+    "class": "Northampton",
+    "timer": "01:40:00",
+    "event": "No Event",
+    "VA": "Aya Yokota"
+  },
+  "20136": {
+    "name": "Hero",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "DD",
+    "class": "H",
+    "timer": "Cannot be constructed",
+    "event": "Revelations of Dust",
+    "VA": "Amane Shindou"
+  },
+  "10306": {
+    "name": "Portland",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "CA",
+    "class": "Portland",
+    "timer": "01:50:00",
+    "event": "No Event",
+    "VA": "Kaori Yoshioka"
+  },
+  "20137": {
+    "name": "Nubian",
+    "rarity": "Super Rare",
+    "nation": "Royal Navy",
+    "hull": "DD",
+    "class": "Tribal",
+    "timer": "00:29:00",
+    "event": "From Zero to Hero",
+    "VA": "Emiri Iwai"
+  },
+  "10307": {
+    "name": "Indianapolis",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CA",
+    "class": "Portland",
+    "timer": "01:50:00",
+    "event": "No Event",
+    "VA": "Aya Yokota"
+  },
+  "20138": {
+    "name": "Trafalgar",
+    "rarity": "Ultra Rare",
+    "nation": "Royal Navy",
+    "hull": "DD",
+    "class": "Battle",
+    "timer": "Cannot be constructed",
+    "event": "A Rose on the High Tower",
+    "VA": "Madoka Yonezawa"
+  },
+  "10308": {
+    "name": "Astoria",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CA",
+    "class": "New Orleans",
+    "timer": "Cannot be constructed",
+    "event": "Prelude under the Moon",
+    "VA": "Yoshie Sakai"
+  },
+  "20139": {
+    "name": "Gallant",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "DD",
+    "class": "G",
+    "timer": "00:25:00",
+    "event": "A Rose on the High Tower",
+    "VA": "Mai Kanazawa"
+  },
+  "10309": {
+    "name": "Quincy",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CA",
+    "class": "New Orleans",
+    "timer": "Cannot be constructed",
+    "event": "Prelude under the Moon",
+    "VA": "Minami Tsuda"
+  },
+  "70111": {
+    "name": "Ognevoy",
+    "rarity": "Super Rare",
+    "nation": "Northern Parliament",
+    "hull": "DD",
+    "class": "Ognevoy",
+    "timer": "00:41:00",
+    "event": "Snowrealm Peregrination",
+    "VA": "Narumi Kaho"
+  },
+  "10310": {
+    "name": "Vincennes",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CA",
+    "class": "New Orleans",
+    "timer": "Cannot be constructed",
+    "event": "Prelude under the Moon",
+    "VA": "Minami Tsuda"
+  },
+  "70112": {
+    "name": "Svirepy",
+    "rarity": "Elite",
+    "nation": "Northern Parliament",
+    "hull": "DD",
+    "class": "Storozhevoy",
+    "timer": "Cannot be constructed",
+    "event": "Snowrealm Peregrination",
+    "VA": "Marika"
+  },
+  "70109": {
+    "name": "Soobrazitelny",
+    "rarity": "Elite",
+    "nation": "Northern Parliament",
+    "hull": "DD",
+    "class": "Storozhevoy",
+    "timer": "Cannot be constructed",
+    "event": "Abyssal Refrain",
+    "VA": "Miharu Hanai"
+  },
+  "10311": {
+    "name": "Wichita",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CA",
+    "class": "Wichita",
+    "timer": "02:30:00",
+    "event": "No Event",
+    "VA": "Nozomi Yamamoto"
+  },
+  "10312": {
+    "name": "New Orleans",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "CA",
+    "class": "New Orleans",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Natsumi Fujiwara"
+  },
+  "10313": {
+    "name": "Minneapolis",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "CA",
+    "class": "New Orleans",
+    "timer": "Cannot be constructed",
+    "event": "Fallen Wings",
+    "VA": "Yu Shimamura"
+  },
+  "10314": {
+    "name": "San Francisco",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "CA",
+    "class": "New Orleans",
+    "timer": "01:56:00",
+    "event": "Mirror Involution",
+    "VA": "Tomomi Mineuchi"
+  },
+  "70110": {
+    "name": "Kiev",
+    "rarity": "Super Rare",
+    "nation": "Northern Parliament",
+    "hull": "DD",
+    "class": "Kiev",
+    "timer": "00:42:00",
+    "event": "Abyssal Refrain",
+    "VA": "Himika Akaneya"
+  },
+  "10316": {
+    "name": "Baltimore",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "CA",
+    "class": "Baltimore",
+    "timer": "02:00:00",
+    "event": "Ashen Simulacrum",
+    "VA": "Minami Takahashi"
+  },
+  "30801": {
+    "name": "I-19",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "SS",
+    "class": "Type B1",
+    "timer": "00:30:00",
+    "event": "No Event",
+    "VA": "Yui Ogura"
+  },
+  "30802": {
+    "name": "I-26",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "SS",
+    "class": "Type B1",
+    "timer": "00:30:00",
+    "event": "No Event",
+    "VA": "Kaori Ishihara"
+  },
+  "30803": {
+    "name": "I-58",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "SS",
+    "class": "Type B3",
+    "timer": "00:30:00",
+    "event": "No Event",
+    "VA": "Tomori Kusunoki"
+  },
+  "10324": {
+    "name": "Bremerton",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "CA",
+    "class": "Baltimore",
+    "timer": "02:00:00",
+    "event": "Microlayer Medley",
+    "VA": "Yuiko Tatsumi"
+  },
+  "30804": {
+    "name": "I-25",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "SS",
+    "class": "Type B1",
+    "timer": "00:30:00",
+    "event": "Air Raid Drills with Essex",
+    "VA": "Kaori Ishihara"
+  },
+  "10325": {
+    "name": "Baltimore µ",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CA",
+    "class": "Baltimore",
+    "timer": "02:00:00",
+    "event": "Universe in Unison",
+    "VA": "Minami Takahashi"
+  },
+  "30805": {
+    "name": "I-56",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "SS",
+    "class": "Type B3",
+    "timer": "00:30:00",
+    "event": "Air Raid Drills with Essex",
+    "VA": "Naomi Mukaiyama"
+  },
+  "10326": {
+    "name": "Northampton II",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "CA",
+    "class": "Oregon City",
+    "timer": "02:00:00",
+    "event": "Parallel Superimposition",
+    "VA": "Takao Koizumi"
+  },
+  "30806": {
+    "name": "I-168",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "SS",
+    "class": "Kaidai",
+    "timer": "00:30:00",
+    "event": "Air Raid Drills with Essex",
+    "VA": "Sakura Tange"
+  },
+  "10327": {
+    "name": "Louisville",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CA",
+    "class": "Northampton",
+    "timer": "Cannot be constructed",
+    "event": "Light-Chasing Sea of Stars",
+    "VA": "Kaori Sadohara"
+  },
+  "10328": {
+    "name": "Pittsburgh",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "CA",
+    "class": "Baltimore",
+    "timer": "02:00:00",
+    "event": "Windborne Steel Wings",
+    "VA": "Yuka Saito"
+  },
+  "10329": {
+    "name": "Little Anchorage",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "CA",
+    "class": "Anchorage",
+    "timer": "Cannot be constructed",
+    "event": "Drawing the Starry Skies",
+    "VA": "Rina Hidaka"
+  },
+  "60301": {
+    "name": "Trento",
+    "rarity": "Rare",
+    "nation": "Sardegna Empire",
+    "hull": "CA",
+    "class": "Trento",
+    "timer": "Cannot be constructed",
+    "event": "Empyreal Tragicomedy",
+    "VA": "Sakura Nakamura"
+  },
+  "60302": {
+    "name": "Zara",
+    "rarity": "Super Rare",
+    "nation": "Sardegna Empire",
+    "hull": "CA",
+    "class": "Zara",
+    "timer": "01:55:00",
+    "event": "Empyreal Tragicomedy",
+    "VA": "Atsumi Tanezaki"
+  },
+  "60303": {
+    "name": "Pola",
+    "rarity": "Super Rare",
+    "nation": "Sardegna Empire",
+    "hull": "CA",
+    "class": "Zara",
+    "timer": "01:55:00",
+    "event": "Empyreal Tragicomedy Rerun",
+    "VA": "Atsumi Tanezaki"
+  },
+  "60304": {
+    "name": "Trieste",
+    "rarity": "Elite",
+    "nation": "Sardegna Empire",
+    "hull": "CA",
+    "class": "Trento",
+    "timer": "01:54:00",
+    "event": "Virtual Tower",
+    "VA": "Sakura Nakamura"
+  },
+  "60305": {
+    "name": "Bolzano",
+    "rarity": "Elite",
+    "nation": "Sardegna Empire",
+    "hull": "CA",
+    "class": "Bolzano",
+    "timer": "01:54:00",
+    "event": "Aquilifer's Ballade",
+    "VA": "Ryoko Maekawa"
+  },
+  "60306": {
+    "name": "Gorizia",
+    "rarity": "Super Rare",
+    "nation": "Sardegna Empire",
+    "hull": "CA",
+    "class": "Zara",
+    "timer": "01:55:00",
+    "event": "Reflections of the Oasis",
+    "VA": "Kotomi Aihara"
+  },
+  "970404": {
+    "name": "Renown META",
+    "rarity": "Super Rare",
+    "nation": "META",
+    "hull": "BC",
+    "class": "Ashen Might",
+    "timer": "META Showdown",
+    "event": "Season 8",
+    "VA": "Ayako Kawasumi"
+  },
+  "80801": {
+    "name": "Surcouf",
+    "rarity": "Elite",
+    "nation": "Iris Libre",
+    "hull": "SS",
+    "class": "Surcouf",
+    "timer": "00:35:00",
+    "event": "Iris of Light and Dark Rerun",
+    "VA": "Manami Numakura"
+  },
+  "1100006": {
+    "name": "Murasaki",
+    "rarity": "Elite",
+    "nation": "Senran Kagura",
+    "hull": "CVL",
+    "class": "No Class",
+    "timer": "Cannot be constructed",
+    "event": "The Ninja Scrolls: Azur Flash",
+    "VA": "Sayuri Yahagi"
+  },
+  "71801": {
+    "name": "Kronshtadt",
+    "rarity": "Ultra Rare",
+    "nation": "Northern Parliament",
+    "hull": "CB",
+    "class": "Kronshtadt",
+    "timer": "04:42:50",
+    "event": "Abyssal Refrain",
+    "VA": "Kaede Hondo"
+  },
+  "20201": {
+    "name": "Leander",
+    "rarity": "Normal",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Leander",
+    "timer": "01:15:00",
+    "event": "No Event",
+    "VA": "Ibuki Kido"
+  },
+  "20202": {
+    "name": "Achilles",
+    "rarity": "Rare",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Leander",
+    "timer": "01:15:00",
+    "event": "No Event",
+    "VA": "Yuri Yamaoka"
+  },
+  "20203": {
+    "name": "Ajax",
+    "rarity": "Rare",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Leander",
+    "timer": "01:15:00",
+    "event": "No Event",
+    "VA": "Tomoyo Chuujou"
+  },
+  "20204": {
+    "name": "Dido",
+    "rarity": "Super Rare",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Dido",
+    "timer": "00:55:00",
+    "event": "Fight On, Royal Maids!",
+    "VA": "Ruriko Aoki"
+  },
+  "20207": {
+    "name": "Southampton",
+    "rarity": "Rare",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Town",
+    "timer": "01:25:00",
+    "event": "No Event",
+    "VA": "Ayumi Mano"
+  },
+  "20208": {
+    "name": "Sheffield",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Town",
+    "timer": "Cannot be constructed",
+    "event": "Winter's Crown",
+    "VA": "Konomi Kohara"
+  },
+  "20209": {
+    "name": "Manchester",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Town",
+    "timer": "01:25:00",
+    "event": "Fight On, Royal Maids! (Part 3)",
+    "VA": "Tomomi Tanaka"
+  },
+  "971301": {
+    "name": "Erebus META",
+    "rarity": "Elite",
+    "nation": "META",
+    "hull": "BM",
+    "class": "Cinders of Hope",
+    "timer": "Cruise Missions",
+    "event": "Season 14",
+    "VA": "Saya Horigome"
+  },
+  "20210": {
+    "name": "Gloucester",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Town",
+    "timer": "01:25:00",
+    "event": "Fight On, Royal Maids!",
+    "VA": "Reina Ueda"
+  },
+  "20211": {
+    "name": "Edinburgh",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Town",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Yuuko Gotou"
+  },
+  "20212": {
+    "name": "Belfast",
+    "rarity": "Super Rare",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Town",
+    "timer": "01:25:00",
+    "event": "No Event",
+    "VA": "Yui Horie"
+  },
+  "11201": {
+    "name": "Vestal",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "AR",
+    "class": "Vestal",
+    "timer": "02:00:00",
+    "event": "No Event",
+    "VA": "Maia"
+  },
+  "20213": {
+    "name": "Arethusa",
+    "rarity": "Rare",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Arethusa",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Ayaka Suwa"
+  },
+  "1100007": {
+    "name": "Y\u016byaki",
+    "rarity": "Elite",
+    "nation": "Senran Kagura",
+    "hull": "CA",
+    "class": "No Class",
+    "timer": "02:30:00",
+    "event": "The Ninja Scrolls: Azur Flash",
+    "VA": "Rika Tachibana"
+  },
+  "20214": {
+    "name": "Galatea",
+    "rarity": "Rare",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Arethusa",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Ayaka Suwa"
+  },
+  "20215": {
+    "name": "Aurora",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Arethusa",
+    "timer": "01:20:00",
+    "event": "No Event",
+    "VA": "Yui Sakakibara"
+  },
+  "20216": {
+    "name": "Fiji",
+    "rarity": "Rare",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Crown Colony",
+    "timer": "Cannot be constructed",
+    "event": "Winter's Crown",
+    "VA": "Sawako Hata"
+  },
+  "20217": {
+    "name": "Jamaica",
+    "rarity": "Rare",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Crown Colony",
+    "timer": "Cannot be constructed",
+    "event": "Winter's Crown",
+    "VA": "Yuuko Sanpei"
+  },
+  "20218": {
+    "name": "Little Bel",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Town",
+    "timer": "01:20:00",
+    "event": "Operation Manjuu",
+    "VA": "Yui Horie"
+  },
+  "20219": {
+    "name": "Newcastle",
+    "rarity": "Rare",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Town",
+    "timer": "Cannot be constructed",
+    "event": "Fight On, Royal Maids!",
+    "VA": "Saori Gotou"
+  },
+  "20220": {
+    "name": "Sirius",
+    "rarity": "Super Rare",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Dido",
+    "timer": "Cannot be constructed",
+    "event": "Winter's Crown",
+    "VA": "Ruriko Aoki"
+  },
+  "20221": {
+    "name": "Curacoa",
+    "rarity": "Rare",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Ceres",
+    "timer": "01:07:00",
+    "event": "Lunar New Year 2019",
+    "VA": "Reika Fujisawa"
+  },
+  "40701": {
+    "name": "Graf Zeppelin",
+    "rarity": "Super Rare",
+    "nation": "Iron Blood",
+    "hull": "CV",
+    "class": "Graf Zeppelin",
+    "timer": "04:35:00",
+    "event": "Divergent Chessboard",
+    "VA": "Ai Kayano"
+  },
+  "20222": {
+    "name": "Curlew",
+    "rarity": "Rare",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Ceres",
+    "timer": "01:07:00",
+    "event": "Lunar New Year 2019",
+    "VA": "Reika Fujisawa"
+  },
+  "40702": {
+    "name": "Zeppy",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "CV",
+    "class": "Graf Zeppelin",
+    "timer": "04:30:00",
+    "event": "Escape from the Port",
+    "VA": "Ai Kayano"
+  },
+  "20223": {
+    "name": "Swiftsure",
+    "rarity": "Super Rare",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Minotaur",
+    "timer": "01:25:00",
+    "event": "No Event",
+    "VA": "Hitomi Oowada"
+  },
+  "40703": {
+    "name": "Peter Strasser",
+    "rarity": "Super Rare",
+    "nation": "Iron Blood",
+    "hull": "CV",
+    "class": "Graf Zeppelin",
+    "timer": "04:35:00",
+    "event": "Inverted Orthant",
+    "VA": "Yumi Hara"
+  },
+  "20224": {
+    "name": "Black Prince",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Dido",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Hisako Kanemoto"
+  },
+  "40704": {
+    "name": "Fritz Rumey",
+    "rarity": "Ultra Rare",
+    "nation": "Iron Blood",
+    "hull": "CV",
+    "class": "Fritz Rumey",
+    "timer": "04:40:20",
+    "event": "Substellar Crepuscule",
+    "VA": "Ayumi Tsunematsu"
+  },
+  "20225": {
+    "name": "Sheffield µ",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Town",
+    "timer": "Cannot be constructed",
+    "event": "Crescendo of Polaris",
+    "VA": "Konomi Kohara"
+  },
+  "20226": {
+    "name": "Glasgow",
+    "rarity": "Rare",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Town",
+    "timer": "01:25:00",
+    "event": "No Event",
+    "VA": "Tomori Kusunoki"
+  },
+  "970406": {
+    "name": "Dunkerque META",
+    "rarity": "Elite",
+    "nation": "META",
+    "hull": "BC",
+    "class": "Cinders of Hope",
+    "timer": "Cruise Missions",
+    "event": "Season 24",
+    "VA": "Sayaka Harada"
+  },
+  "20227": {
+    "name": "Hermione",
+    "rarity": "Super Rare",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Dido",
+    "timer": "00:55:00",
+    "event": "Aurora Noctis",
+    "VA": "Hiroko Taguchi"
+  },
+  "20228": {
+    "name": "Dido µ",
+    "rarity": "Super Rare",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Dido",
+    "timer": "00:55:00",
+    "event": "Universe in Unison",
+    "VA": "Ruriko Aoki"
+  },
+  "20229": {
+    "name": "Penelope",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Arethusa",
+    "timer": "01:20:00",
+    "event": "No Event",
+    "VA": "Kazusa Aranami"
+  },
+  "970501": {
+    "name": "Fusou META",
+    "rarity": "Elite",
+    "nation": "META",
+    "hull": "BB",
+    "class": "Ashen Might",
+    "timer": "Cruise Missions",
+    "event": "Season 1",
+    "VA": "Ami Koshimizu"
+  },
+  "70201": {
+    "name": "Avrora",
+    "rarity": "Super Rare",
+    "nation": "Northern Parliament",
+    "hull": "CL",
+    "class": "Pallada",
+    "timer": "01:17:00",
+    "event": "Northern Overture",
+    "VA": "Marie Miyake"
+  },
+  "20230": {
+    "name": "Charybdis",
+    "rarity": "Super Rare",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Dido",
+    "timer": "00:55:00",
+    "event": "Happy Lunar New Year 2022",
+    "VA": "Yuu Ayase"
+  },
+  "970502": {
+    "name": "Yamashiro META",
+    "rarity": "Elite",
+    "nation": "META",
+    "hull": "BB",
+    "class": "Flickering Light",
+    "timer": "Cruise Missions",
+    "event": "Season 4",
+    "VA": "Ami Koshimizu"
+  },
+  "70202": {
+    "name": "Pamiat' Merkuria",
+    "rarity": "Elite",
+    "nation": "Northern Parliament",
+    "hull": "CL",
+    "class": "Bogatyr",
+    "timer": "01:17:00",
+    "event": "Northern Overture",
+    "VA": "Maya Yoshioka"
+  },
+  "20231": {
+    "name": "Bellona",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Dido",
+    "timer": "Cannot be constructed",
+    "event": "Pledge of the Radiant Court",
+    "VA": "Hisako Tojo"
+  },
+  "10401": {
+    "name": "Constellation",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "BC",
+    "class": "Lexington",
+    "timer": "04:16:30",
+    "event": "Light-Chasing Sea of Stars",
+    "VA": "Iori Saeki"
+  },
+  "20232": {
+    "name": "Enterprise (Royal Navy)",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Emerald",
+    "timer": "01:07:00",
+    "event": "Angel of the Iris",
+    "VA": "Yukiyo Fujii"
+  },
+  "31701": {
+    "name": "I-13",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "SSV",
+    "class": "Type AM",
+    "timer": "00:34:00",
+    "event": "Ink-Stained Steel Sakura Rerun",
+    "VA": "Kanako Yanagihara"
+  },
+  "20233": {
+    "name": "Scylla",
+    "rarity": "Super Rare",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Dido",
+    "timer": "00:55:00",
+    "event": "Revelations of Dust",
+    "VA": "Miyu Takagi"
+  },
+  "70204": {
+    "name": "Kirov",
+    "rarity": "Super Rare",
+    "nation": "Northern Parliament",
+    "hull": "CL",
+    "class": "Kirov",
+    "timer": "01:32:00",
+    "event": "Khorovod of Dawn's Rime",
+    "VA": "Sumire Uesaka"
+  },
+  "70205": {
+    "name": "Kuybyshev",
+    "rarity": "Super Rare",
+    "nation": "Northern Parliament",
+    "hull": "CL",
+    "class": "Chapayev",
+    "timer": "01:26:00",
+    "event": "Happy Lunar New Year 2023",
+    "VA": "Rio Tsuchiya "
+  },
+  "20234": {
+    "name": "Liverpool",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Town",
+    "timer": "01:25:00",
+    "event": "From Zero to Hero",
+    "VA": "Mizuki Mano"
+  },
+  "970506": {
+    "name": "Nagato META",
+    "rarity": "Super Rare",
+    "nation": "META",
+    "hull": "BB",
+    "class": "Smoldering Core",
+    "timer": "META Showdown",
+    "event": "Season 16",
+    "VA": "Misaki Kuno"
+  },
+  "70206": {
+    "name": "Murmansk",
+    "rarity": "Elite",
+    "nation": "Northern Parliament",
+    "hull": "CL",
+    "class": "Omaha",
+    "timer": "01:05:00",
+    "event": "Khorovod of Dawn's Rime",
+    "VA": "Konomi Kohara"
+  },
+  "20235": {
+    "name": "Cleopatra",
+    "rarity": "Super Rare",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Dido",
+    "timer": "00:55:00",
+    "event": "A Rose on the High Tower",
+    "VA": "Yuri Usui"
+  },
+  "970507": {
+    "name": "Giulio Cesare META",
+    "rarity": "Elite",
+    "nation": "META",
+    "hull": "BB",
+    "class": "Cinders of Hope",
+    "timer": "Cruise Missions",
+    "event": "Season 20",
+    "VA": "Ayaka Shimizu"
+  },
+  "70207": {
+    "name": "Voroshilov",
+    "rarity": "Super Rare",
+    "nation": "Northern Parliament",
+    "hull": "CL",
+    "class": "Kirov",
+    "timer": "01:32:00",
+    "event": "Frostfall",
+    "VA": "Ran Haruka"
+  },
+  "20236": {
+    "name": "Trinidad",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "CL",
+    "class": "Crown Colony",
+    "timer": "Cannot be constructed",
+    "event": "A Rose on the High Tower",
+    "VA": "Tsugumi Sakuragi"
+  },
+  "970508": {
+    "name": "Andrea Doria META",
+    "rarity": "Super Rare",
+    "nation": "META",
+    "hull": "BB",
+    "class": "Cinders of Hope",
+    "timer": "04:15:00",
+    "event": "Paradiso of Shackled Light",
+    "VA": "Haruno Fujiwara"
+  },
+  "70208": {
+    "name": "Oleg",
+    "rarity": "Elite",
+    "nation": "Northern Parliament",
+    "hull": "CL",
+    "class": "Bogatyr",
+    "timer": "Cannot be constructed",
+    "event": "Toward Tulipa's Seas",
+    "VA": "Mami Uchida"
+  },
+  "970509": {
+    "name": "Nevada META",
+    "rarity": "Elite",
+    "nation": "META",
+    "hull": "BB",
+    "class": "Ashen Might",
+    "timer": "Cruise Missions",
+    "event": "Season 22",
+    "VA": "Yumi Uchiyama"
+  },
+  "39901": {
+    "name": "Ibuki",
+    "rarity": "Priority",
+    "nation": "Sakura Empire",
+    "hull": "CA",
+    "class": "Ibuki",
+    "timer": "Research",
+    "event": "Season 1",
+    "VA": "Misato Fukuen"
+  },
+  "39902": {
+    "name": "Izumo",
+    "rarity": "Priority",
+    "nation": "Sakura Empire",
+    "hull": "BB",
+    "class": "Izumo",
+    "timer": "Research",
+    "event": "Season 1",
+    "VA": "Reina Ueda"
+  },
+  "39903": {
+    "name": "Kitakaze",
+    "rarity": "Priority",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Kitakaze",
+    "timer": "Research",
+    "event": "Season 2",
+    "VA": "Sakura Tange"
+  },
+  "39904": {
+    "name": "Azuma",
+    "rarity": "Decisive",
+    "nation": "Sakura Empire",
+    "hull": "CB",
+    "class": "Azuma",
+    "timer": "Research",
+    "event": "Season 2",
+    "VA": "Kiyono Yasuno"
+  },
+  "39905": {
+    "name": "Hakuryuu",
+    "rarity": "Decisive",
+    "nation": "Sakura Empire",
+    "hull": "CV",
+    "class": "Hakuryuu",
+    "timer": "Research",
+    "event": "Season 4",
+    "VA": "Satomi Satou"
+  },
+  "39906": {
+    "name": "Shimanto",
+    "rarity": "Priority",
+    "nation": "Sakura Empire",
+    "hull": "CL",
+    "class": "Shimanto",
+    "timer": "Research",
+    "event": "Season 6",
+    "VA": "Hime Sawada"
+  },
+  "39907": {
+    "name": "Daisen",
+    "rarity": "Priority",
+    "nation": "Sakura Empire",
+    "hull": "BB",
+    "class": "Daisen",
+    "timer": "Research",
+    "event": "Season 7",
+    "VA": "Hina Tachibana"
+  },
+  "90701": {
+    "name": "Joffre",
+    "rarity": "Super Rare",
+    "nation": "Vichya Dominion",
+    "hull": "CV",
+    "class": "Joffre",
+    "timer": "04:35:00",
+    "event": "Angel of the Iris",
+    "VA": "Ayumi Mano"
+  },
+  "1050001": {
+    "name": "Shirakami Fubuki",
+    "rarity": "Super Rare",
+    "nation": "Hololive",
+    "hull": "DD",
+    "class": "No Class",
+    "timer": "00:17:30",
+    "event": "Looking Glass of Fact and Fiction",
+    "VA": "Shirakami Fubuki"
+  },
+  "1050002": {
+    "name": "Tokino Sora",
+    "rarity": "Super Rare",
+    "nation": "Hololive",
+    "hull": "CV",
+    "class": "No Class",
+    "timer": "01:25:00",
+    "event": "Looking Glass of Fact and Fiction",
+    "VA": "Tokino Sora"
+  },
+  "1050003": {
+    "name": "Minato Aqua",
+    "rarity": "Super Rare",
+    "nation": "Hololive",
+    "hull": "SS",
+    "class": "No Class",
+    "timer": "00:20:00",
+    "event": "Looking Glass of Fact and Fiction",
+    "VA": "Minato Aqua"
+  },
+  "89901": {
+    "name": "Saint Louis",
+    "rarity": "Priority",
+    "nation": "Iris Libre",
+    "hull": "CA",
+    "class": "Saint Louis",
+    "timer": "Research",
+    "event": "Season 1",
+    "VA": "Asami Seto"
+  },
+  "1050004": {
+    "name": "Natsuiro Matsuri",
+    "rarity": "Elite",
+    "nation": "Hololive",
+    "hull": "DD",
+    "class": "No Class",
+    "timer": "00:12:00",
+    "event": "Looking Glass of Fact and Fiction",
+    "VA": "Natsuiro Matsuri"
+  },
+  "89902": {
+    "name": "Champagne",
+    "rarity": "Priority",
+    "nation": "Iris Libre",
+    "hull": "BB",
+    "class": "Champagne",
+    "timer": "Research",
+    "event": "Season 3",
+    "VA": "Lynn"
+  },
+  "30101": {
+    "name": "Fubuki",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Fubuki",
+    "timer": "00:23:00",
+    "event": "No Event",
+    "VA": "M\u30fbA\u30fbO"
+  },
+  "1050005": {
+    "name": "Nakiri Ayame",
+    "rarity": "Elite",
+    "nation": "Hololive",
+    "hull": "CA",
+    "class": "No Class",
+    "timer": "03:22:00",
+    "event": "Looking Glass of Fact and Fiction",
+    "VA": "Nakiri Ayame"
+  },
+  "89903": {
+    "name": "Brest",
+    "rarity": "Decisive",
+    "nation": "Iris Libre",
+    "hull": "CB",
+    "class": "Brest",
+    "timer": "Research",
+    "event": "Season 5",
+    "VA": "Sayaka Senbongi"
+  },
+  "30102": {
+    "name": "Shirayuki",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Fubuki",
+    "timer": "00:23:00",
+    "event": "Swirling Cherry Blossoms Rerun",
+    "VA": "Wakana Minami"
+  },
+  "1050006": {
+    "name": "Murasaki Shion",
+    "rarity": "Elite",
+    "nation": "Hololive",
+    "hull": "CVL",
+    "class": "No Class",
+    "timer": "Cannot be constructed",
+    "event": "Looking Glass of Fact and Fiction",
+    "VA": "Murasaki Shion"
+  },
+  "89904": {
+    "name": "Bayard",
+    "rarity": "Priority",
+    "nation": "Iris Libre",
+    "hull": "CL",
+    "class": "Bayard",
+    "timer": "Research",
+    "event": "Season 7",
+    "VA": "Megumi Han"
+  },
+  "1050007": {
+    "name": "Ookami Mio",
+    "rarity": "Elite",
+    "nation": "Hololive",
+    "hull": "CV",
+    "class": "No Class",
+    "timer": "Cannot be constructed",
+    "event": "Looking Glass of Fact and Fiction",
+    "VA": "Ookami Mio"
+  },
+  "60203": {
+    "name": "Bartolomeo Colleoni",
+    "rarity": "Elite",
+    "nation": "Sardegna Empire",
+    "hull": "CL",
+    "class": "Giussano",
+    "timer": "01:26:00",
+    "event": "Paradiso of Shackled Light",
+    "VA": "Yuri Fujimoto"
+  },
+  "30104": {
+    "name": "Miyuki",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Fubuki",
+    "timer": "Cannot be constructed",
+    "event": "Violet Tempest, Blooming Lycoris",
+    "VA": "Misaki Watada"
+  },
+  "30105": {
+    "name": "Ayanami",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Fubuki",
+    "timer": "00:23:00",
+    "event": "No Event",
+    "VA": "You Taichi"
+  },
+  "30109": {
+    "name": "Akatsuki",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Fubuki",
+    "timer": "Cannot be constructed",
+    "event": "Visitors Dyed in Red",
+    "VA": "Nozomi Yamamoto"
+  },
+  "30110": {
+    "name": "Hibiki",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Fubuki",
+    "timer": "Cannot be constructed",
+    "event": "Swirling Cherry Blossoms",
+    "VA": "Maaya Uchida"
+  },
+  "30111": {
+    "name": "Ikazuchi",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Fubuki",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Kazusa Aranami"
+  },
+  "30112": {
+    "name": "Inazuma",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Fubuki",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Emiri Katou"
+  },
+  "30113": {
+    "name": "Shiratsuyu",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Shiratsuyu",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Narumi Shinohara"
+  },
+  "30114": {
+    "name": "Yuudachi",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Shiratsuyu",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Natsumi Takamori"
+  },
+  "30115": {
+    "name": "Shigure",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Shiratsuyu",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Yuuki Kuwahara"
+  },
+  "30116": {
+    "name": "Yukikaze",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Kagerou",
+    "timer": "Cannot be constructed",
+    "event": "Visitors Dyed in Red Rerun",
+    "VA": "Kana Yuuki"
+  },
+  "30117": {
+    "name": "Kagerou",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Kagerou",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Yuriko Yano"
+  },
+  "30118": {
+    "name": "Shiranui",
+    "rarity": "Normal",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Kagerou",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Kanae Ikadai"
+  },
+  "30120": {
+    "name": "Nowaki",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Kagerou",
+    "timer": "Cannot be constructed",
+    "event": "Visitors Dyed in Red",
+    "VA": "Emiri Katou"
+  },
+  "30121": {
+    "name": "Hatsuharu",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Hatsuharu",
+    "timer": "00:25:00",
+    "event": "No Event",
+    "VA": "Marika Kouno"
+  },
+  "50601": {
+    "name": "Chen Hai",
+    "rarity": "Elite",
+    "nation": "Dragon Empery",
+    "hull": "CVL",
+    "class": "Chen Hai",
+    "timer": "02:00:00",
+    "event": "Happy Lunar New Year 2022",
+    "VA": "Manaka Iwami"
+  },
+  "50602": {
+    "name": "Hwah Jah",
+    "rarity": "Elite",
+    "nation": "Dragon Empery",
+    "hull": "CVL",
+    "class": "Hwah Jah",
+    "timer": "02:10:00",
+    "event": "Happy Lunar New Year 2023",
+    "VA": "Yuka Nukui"
+  },
+  "30123": {
+    "name": "Wakaba",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Hatsuharu",
+    "timer": "00:25:00",
+    "event": "No Event",
+    "VA": "Minami Tanaka"
+  },
+  "70302": {
+    "name": "Kursk",
+    "rarity": "Super Rare",
+    "nation": "Northern Parliament",
+    "hull": "CA",
+    "class": "Kursk",
+    "timer": "02:05:00",
+    "event": "Frostfall",
+    "VA": "Rika Kinugawa"
+  },
+  "30124": {
+    "name": "Hatsushimo",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Hatsuharu",
+    "timer": "Cannot be constructed",
+    "event": "The Solomon Ranger",
+    "VA": "Natsume Iwasa"
+  },
+  "30125": {
+    "name": "Ariake",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Hatsuharu",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Karin Isobe"
+  },
+  "1100001": {
+    "name": "Asuka",
+    "rarity": "Super Rare",
+    "nation": "Senran Kagura",
+    "hull": "CL",
+    "class": "No Class",
+    "timer": "02:30:00",
+    "event": "The Ninja Scrolls: Azur Flash",
+    "VA": "Hitomi Harada"
+  },
+  "30126": {
+    "name": "Yuugure",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Hatsuharu",
+    "timer": "00:25:00",
+    "event": "No Event",
+    "VA": "Madoka Asahina"
+  },
+  "1100002": {
+    "name": "Ikaruga",
+    "rarity": "Super Rare",
+    "nation": "Senran Kagura",
+    "hull": "CA",
+    "class": "No Class",
+    "timer": "02:35:00",
+    "event": "The Ninja Scrolls: Azur Flash",
+    "VA": "Asami Imai"
+  },
+  "30127": {
+    "name": "Kuroshio",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Kagerou",
+    "timer": "00:27:00",
+    "event": "The Return of the War God",
+    "VA": "Yuuko Oono"
+  },
+  "1100003": {
+    "name": "Homura",
+    "rarity": "Super Rare",
+    "nation": "Senran Kagura",
+    "hull": "SS",
+    "class": "No Class",
+    "timer": "Cannot be constructed",
+    "event": "The Ninja Scrolls: Azur Flash",
+    "VA": "Eri Kitamura"
+  },
+  "30128": {
+    "name": "Oyashio",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Kagerou",
+    "timer": "00:27:00",
+    "event": "The Return of the War God",
+    "VA": "Yuuko Oono"
+  },
+  "1100004": {
+    "name": "Yumi",
+    "rarity": "Super Rare",
+    "nation": "Senran Kagura",
+    "hull": "CV",
+    "class": "No Class",
+    "timer": "02:33:20",
+    "event": "The Ninja Scrolls: Azur Flash",
+    "VA": "Yumi Hara"
+  },
+  "30129": {
+    "name": "Shimakaze",
+    "rarity": "Ultra Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Shimakaze",
+    "timer": "00:30:00",
+    "event": "Upon the Shimmering Blue",
+    "VA": "Saori Hayami"
+  },
+  "80101": {
+    "name": "Le Triomphant",
+    "rarity": "Super Rare",
+    "nation": "Iris Libre",
+    "hull": "DD",
+    "class": "Le Fantasque",
+    "timer": "Cannot be constructed",
+    "event": "Iris of Light and Dark",
+    "VA": "Sora Amamiya"
+  },
+  "30130": {
+    "name": "Kamikaze",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Kamikaze",
+    "timer": "00:20:00",
+    "event": "No Event",
+    "VA": "Madoka Asahina"
+  },
+  "1100005": {
+    "name": "Fubuki (Senran Kagura)",
+    "rarity": "Super Rare",
+    "nation": "Senran Kagura",
+    "hull": "BB",
+    "class": "No Class",
+    "timer": "02:38:20",
+    "event": "The Ninja Scrolls: Azur Flash",
+    "VA": "Kana Asumi"
+  },
+  "80102": {
+    "name": "Forbin",
+    "rarity": "Rare",
+    "nation": "Iris Libre",
+    "hull": "DD",
+    "class": "L'Adroit",
+    "timer": "00:23:00",
+    "event": "Iris of Light and Dark",
+    "VA": "Akiko Hasegawa"
+  },
+  "30131": {
+    "name": "Matsukaze",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Kamikaze",
+    "timer": "00:20:00",
+    "event": "No Event",
+    "VA": "Madoka Asahina"
+  },
+  "20301": {
+    "name": "London",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "CA",
+    "class": "County",
+    "timer": "01:30:00",
+    "event": "No Event",
+    "VA": "Naomi Mukaiyama"
+  },
+  "30132": {
+    "name": "Mutsuki",
+    "rarity": "Normal",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Mutsuki",
+    "timer": "00:21:00",
+    "event": "No Event",
+    "VA": "Rumi Ookubo"
+  },
+  "20302": {
+    "name": "Shropshire",
+    "rarity": "Rare",
+    "nation": "Royal Navy",
+    "hull": "CA",
+    "class": "County",
+    "timer": "01:30:00",
+    "event": "No Event",
+    "VA": "Ibuki Kido"
+  },
+  "30133": {
+    "name": "Kisaragi",
+    "rarity": "Normal",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Mutsuki",
+    "timer": "00:21:00",
+    "event": "No Event",
+    "VA": "Rumi Ookubo"
+  },
+  "20303": {
+    "name": "Kent",
+    "rarity": "Rare",
+    "nation": "Royal Navy",
+    "hull": "CA",
+    "class": "County",
+    "timer": "01:30:00",
+    "event": "No Event",
+    "VA": "Hisako Kanemoto"
+  },
+  "20304": {
+    "name": "Suffolk",
+    "rarity": "Rare",
+    "nation": "Royal Navy",
+    "hull": "CA",
+    "class": "County",
+    "timer": "01:30:00",
+    "event": "No Event",
+    "VA": "Akari Uehara"
+  },
+  "30135": {
+    "name": "Uzuki",
+    "rarity": "Normal",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Mutsuki",
+    "timer": "00:21:00",
+    "event": "No Event",
+    "VA": "Mako"
+  },
+  "20305": {
+    "name": "Norfolk",
+    "rarity": "Rare",
+    "nation": "Royal Navy",
+    "hull": "CA",
+    "class": "County",
+    "timer": "01:30:00",
+    "event": "No Event",
+    "VA": "Hiromi Sakuma"
+  },
+  "80107": {
+    "name": "Le Terrible",
+    "rarity": "Super Rare",
+    "nation": "Iris Libre",
+    "hull": "DD",
+    "class": "Le Fantasque",
+    "timer": "00:33:00",
+    "event": "Skybound Oratorio Rerun",
+    "VA": "Kaori Maeda"
+  },
+  "20306": {
+    "name": "Dorsetshire",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "CA",
+    "class": "County",
+    "timer": "01:30:00",
+    "event": "No Event",
+    "VA": "Manami Numakura"
+  },
+  "80108": {
+    "name": "Maill\u00e9 Br\u00e9z\u00e9",
+    "rarity": "Elite",
+    "nation": "Iris Libre",
+    "hull": "DD",
+    "class": "Vauquelin",
+    "timer": "00:26:00",
+    "event": "Skybound Oratorio Rerun",
+    "VA": "Minami Fujii"
+  },
+  "30137": {
+    "name": "Minazuki",
+    "rarity": "Normal",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Mutsuki",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Mako"
+  },
+  "20307": {
+    "name": "York",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "CA",
+    "class": "York",
+    "timer": "01:45:00",
+    "event": "No Event",
+    "VA": "Nozomi Yamane"
+  },
+  "30138": {
+    "name": "Fumizuki",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Mutsuki",
+    "timer": "00:21:00",
+    "event": "Ink-Stained Steel Sakura",
+    "VA": "Chiyo Ousaki"
+  },
+  "20308": {
+    "name": "Exeter",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "CA",
+    "class": "York",
+    "timer": "01:45:00",
+    "event": "No Event",
+    "VA": "Ai Kakuma"
+  },
+  "30139": {
+    "name": "Nagatsuki",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Mutsuki",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Chiyo Ousaki"
+  },
+  "20309": {
+    "name": "Sussex",
+    "rarity": "Rare",
+    "nation": "Royal Navy",
+    "hull": "CA",
+    "class": "County",
+    "timer": "01:30:00",
+    "event": "No Event",
+    "VA": "Hikaru Aono"
+  },
+  "20310": {
+    "name": "Little Cheshire",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "CA",
+    "class": "Cheshire",
+    "timer": "Cannot be constructed",
+    "event": "A Cookie For Mew!",
+    "VA": "Shizuka Ishigami"
+  },
+  "30141": {
+    "name": "Mikazuki",
+    "rarity": "Normal",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Mutsuki",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Mako"
+  },
+  "20313": {
+    "name": "Devonshire",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "CA",
+    "class": "County",
+    "timer": "Cannot be constructed",
+    "event": "From Zero to Hero",
+    "VA": "Kaoru Sakura"
+  },
+  "30147": {
+    "name": "Umikaze",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Shiratsuyu",
+    "timer": "00:25:00",
+    "event": "Upon the Shimmering Blue",
+    "VA": "Haruna Kawai"
+  },
+  "30148": {
+    "name": "Yamakaze",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Shiratsuyu",
+    "timer": "Cannot be constructed",
+    "event": "Upon the Shimmering Blue",
+    "VA": "Haruna Kawai"
+  },
+  "30149": {
+    "name": "Kawakaze",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Shiratsuyu",
+    "timer": "Cannot be constructed",
+    "event": "Ink-Stained Steel Sakura",
+    "VA": "Yuka Iguchi"
+  },
+  "40801": {
+    "name": "U-81",
+    "rarity": "Super Rare",
+    "nation": "Iron Blood",
+    "hull": "SS",
+    "class": "Type VIIC",
+    "timer": "00:12:00",
+    "event": "No Event",
+    "VA": "Haruka Yamazaki"
+  },
+  "40802": {
+    "name": "U-47",
+    "rarity": "Super Rare",
+    "nation": "Iron Blood",
+    "hull": "SS",
+    "class": "Type VIIB",
+    "timer": "00:11:00",
+    "event": "Divergent Chessboard Rerun",
+    "VA": "Azumi Asakura"
+  },
+  "40803": {
+    "name": "U-557",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "SS",
+    "class": "Type VIIC",
+    "timer": "Cannot be constructed",
+    "event": "Divergent Chessboard Rerun",
+    "VA": "Azumi Asakura"
+  },
+  "30154": {
+    "name": "Kiyonami",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Yuugumo",
+    "timer": "00:27:00",
+    "event": "No Event",
+    "VA": "Azusa Iwakura"
+  },
+  "40804": {
+    "name": "U-556",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "SS",
+    "class": "Type VIIC",
+    "timer": "00:13:00",
+    "event": "Scherzo of Iron and Blood",
+    "VA": "Ayaka Fukuhara"
+  },
+  "40805": {
+    "name": "U-73",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "SS",
+    "class": "Type VIIB",
+    "timer": "00:11:00",
+    "event": "Scherzo of Iron and Blood",
+    "VA": "Rimo Hasegawa"
+  },
+  "30156": {
+    "name": "Niizuki",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Akizuki",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Rumi Ookubo"
+  },
+  "40806": {
+    "name": "U-101",
+    "rarity": "Super Rare",
+    "nation": "Iron Blood",
+    "hull": "SS",
+    "class": "Type VIIB",
+    "timer": "00:12:00",
+    "event": "Air Raid Drills with Essex",
+    "VA": "Sayumi Suzushiro"
+  },
+  "30157": {
+    "name": "Harutsuki",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Akizuki",
+    "timer": "Cannot be constructed",
+    "event": "Ink-Stained Steel Sakura",
+    "VA": "Rei Mochizuki"
+  },
+  "40807": {
+    "name": "U-522",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "SS",
+    "class": "Type IXC",
+    "timer": "00:11:00",
+    "event": "Air Raid Drills with Essex",
+    "VA": "Ayaka Suwa"
+  },
+  "30158": {
+    "name": "Yoizuki",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Akizuki",
+    "timer": "Cannot be constructed",
+    "event": "Ink-Stained Steel Sakura",
+    "VA": "Rei Mochizuki"
+  },
+  "40808": {
+    "name": "U-110",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "SS",
+    "class": "Type IXB",
+    "timer": "00:11:00",
+    "event": "The Enigma and the Shark",
+    "VA": "Manaka Iwami"
+  },
+  "30159": {
+    "name": "Urakaze",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Kagerou",
+    "timer": "00:27:00",
+    "event": "No Event",
+    "VA": "Minami Tanaka"
+  },
+  "40809": {
+    "name": "U-96",
+    "rarity": "Super Rare",
+    "nation": "Iron Blood",
+    "hull": "SS",
+    "class": "Type VIIC",
+    "timer": "00:12:00",
+    "event": "Scherzo of Iron and Blood Rerun",
+    "VA": "Mayu Mineda"
+  },
+  "970601": {
+    "name": "Hiyou META",
+    "rarity": "Elite",
+    "nation": "META",
+    "hull": "CVL",
+    "class": "Ashen Might",
+    "timer": "Cruise Missions",
+    "event": "Season 2",
+    "VA": "Seiko Yoshida"
+  },
+  "30160": {
+    "name": "Isokaze",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Kagerou",
+    "timer": "00:27:00",
+    "event": "No Event",
+    "VA": "Anju Inami"
+  },
+  "40810": {
+    "name": "U-37",
+    "rarity": "Super Rare",
+    "nation": "Iron Blood",
+    "hull": "SS",
+    "class": "Type IXA",
+    "timer": "00:11:00",
+    "event": "Inverted Orthant",
+    "VA": "Ayaka Nanase"
+  },
+  "70301": {
+    "name": "Tallinn",
+    "rarity": "Super Rare",
+    "nation": "Northern Parliament",
+    "hull": "CA",
+    "class": "Admiral Hipper",
+    "timer": "02:00:00",
+    "event": "Khorovod of Dawn's Rime",
+    "VA": "Noriko Shitaya"
+  },
+  "30161": {
+    "name": "Hamakaze",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Kagerou",
+    "timer": "00:27:00",
+    "event": "The Return of the War God",
+    "VA": "Natsumi Hioka"
+  },
+  "40811": {
+    "name": "U-410",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "SS",
+    "class": "Type VIIC",
+    "timer": "Cannot be constructed",
+    "event": "Spring Festival Special Training",
+    "VA": "Ayaka Fujimoto"
+  },
+  "10501": {
+    "name": "Nevada",
+    "rarity": "Normal",
+    "nation": "Eagle Union",
+    "hull": "BB",
+    "class": "Nevada",
+    "timer": "04:00:00",
+    "event": "No Event",
+    "VA": "Yumi Uchiyama"
+  },
+  "30162": {
+    "name": "Tanikaze",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Kagerou",
+    "timer": "00:27:00",
+    "event": "No Event",
+    "VA": "Natsumi Hioka"
+  },
+  "40812": {
+    "name": "U-1206",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "SS",
+    "class": "Type VIIC",
+    "timer": "Cannot be constructed",
+    "event": "Tower of Transcendence",
+    "VA": "Mayuka Nomura"
+  },
+  "10502": {
+    "name": "Oklahoma",
+    "rarity": "Normal",
+    "nation": "Eagle Union",
+    "hull": "BB",
+    "class": "Nevada",
+    "timer": "04:00:00",
+    "event": "No Event",
+    "VA": "Yumi Uchiyama"
+  },
+  "30163": {
+    "name": "Asashio",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Asashio",
+    "timer": "00:28:00",
+    "event": "Ink-Stained Steel Sakura",
+    "VA": "Yuiko Tatsumi"
+  },
+  "40813": {
+    "name": "U-31",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "SS",
+    "class": "Type VIIA",
+    "timer": "00:11:00",
+    "event": "Welcome to Little Academy",
+    "VA": "Anzu Haruno"
+  },
+  "10503": {
+    "name": "Pennsylvania",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "BB",
+    "class": "Pennsylvania",
+    "timer": "04:10:00",
+    "event": "No Event",
+    "VA": "Nozomi Yamane"
+  },
+  "30164": {
+    "name": "Ooshio",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Asashio",
+    "timer": "00:28:00",
+    "event": "Ink-Stained Steel Sakura",
+    "VA": "Hikaru Aono"
+  },
+  "40814": {
+    "name": "U-552",
+    "rarity": "Super Rare",
+    "nation": "Iron Blood",
+    "hull": "SS",
+    "class": "Type VIIC",
+    "timer": "00:13:00",
+    "event": "The Neon City Investigator",
+    "VA": "Azusa Aoi"
+  },
+  "10504": {
+    "name": "Arizona",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "BB",
+    "class": "Pennsylvania",
+    "timer": "04:10:00",
+    "event": "No Event",
+    "VA": "Sawako Shirakabe"
+  },
+  "30165": {
+    "name": "Michishio",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Asashio",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Tamari Hinata"
+  },
+  "30166": {
+    "name": "Arashio",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Asashio",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Hikaru Aono"
+  },
+  "10507": {
+    "name": "Tennessee",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "BB",
+    "class": "Tennessee",
+    "timer": "04:20:00",
+    "event": "No Event",
+    "VA": "Rina Satou"
+  },
+  "10508": {
+    "name": "California",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "BB",
+    "class": "Tennessee",
+    "timer": "04:20:00",
+    "event": "No Event",
+    "VA": "Rina Satou"
+  },
+  "10509": {
+    "name": "Colorado",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "BB",
+    "class": "Colorado",
+    "timer": "Cannot be constructed",
+    "event": "Fallen Wings",
+    "VA": "Rie Suegara"
+  },
+  "10510": {
+    "name": "Maryland",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "BB",
+    "class": "Colorado",
+    "timer": "Cannot be constructed",
+    "event": "Fallen Wings",
+    "VA": "Aya Saitou"
+  },
+  "10511": {
+    "name": "West Virginia",
+    "rarity": "Elite",
+    "nation": "Eagle Union",
+    "hull": "BB",
+    "class": "Colorado",
+    "timer": "Cannot be constructed",
+    "event": "Fallen Wings",
+    "VA": "Chitose Morinaga"
+  },
+  "30172": {
+    "name": "Uranami",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Fubuki",
+    "timer": "Cannot be constructed",
+    "event": "Spring Festival",
+    "VA": "Kaoru Komatsu"
+  },
+  "10512": {
+    "name": "North Carolina",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "BB",
+    "class": "North Carolina",
+    "timer": "Cannot be constructed",
+    "event": "Fallen Wings",
+    "VA": "Yui Horie"
+  },
+  "10513": {
+    "name": "Washington",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "BB",
+    "class": "North Carolina",
+    "timer": "Cannot be constructed",
+    "event": "Fallen Wings",
+    "VA": "Rika Abe"
+  },
+  "10514": {
+    "name": "South Dakota",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "BB",
+    "class": "South Dakota",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Tomoyo Kurosawa"
+  },
+  "10515": {
+    "name": "Indiana",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "BB",
+    "class": "South Dakota",
+    "timer": "05:00:00",
+    "event": "Windborne Steel Wings",
+    "VA": "Makoto Koichi"
+  },
+  "10517": {
+    "name": "New Jersey",
+    "rarity": "Ultra Rare",
+    "nation": "Eagle Union",
+    "hull": "BB",
+    "class": "Iowa",
+    "timer": "06:30:00",
+    "event": "Mirror Involution",
+    "VA": "Miyu Tomita"
+  },
+  "30179": {
+    "name": "Hatakaze",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Kamikaze",
+    "timer": "00:20:00",
+    "event": "Crimson Echoes",
+    "VA": "Madoka Asahina"
+  },
+  "10519": {
+    "name": "Massachusetts",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "BB",
+    "class": "South Dakota",
+    "timer": "Cannot be constructed",
+    "event": "Iris of Light and Dark",
+    "VA": "Rie Takahashi"
+  },
+  "30180": {
+    "name": "Makinami",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Yuugumo",
+    "timer": "Cannot be constructed",
+    "event": "Crimson Echoes",
+    "VA": "Rui Tanabe"
+  },
+  "10520": {
+    "name": "Alabama",
+    "rarity": "Super Rare",
+    "nation": "Eagle Union",
+    "hull": "BB",
+    "class": "South Dakota",
+    "timer": "05:00:00",
+    "event": "Ashen Simulacrum",
+    "VA": "Hibiku Yamamura"
+  },
+  "30181": {
+    "name": "Kasumi",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Asashio",
+    "timer": "00:28:00",
+    "event": "Swirling Cherry Blossoms",
+    "VA": "Mariko Takeda"
+  },
+  "30182": {
+    "name": "Hanazuki",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Akizuki",
+    "timer": "00:29:00",
+    "event": "Crimson Echoes Rerun",
+    "VA": "Honoka Kuroki"
+  },
+  "30183": {
+    "name": "Naganami",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Yuugumo",
+    "timer": "00:27:00",
+    "event": "Crimson Echoes Rerun",
+    "VA": "Yomogi Ashitaba"
+  },
+  "30184": {
+    "name": "Suzutsuki",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Akizuki",
+    "timer": "00:29:00",
+    "event": "Dreamwaker's Butterfly",
+    "VA": "Kotori Koiwai"
+  },
+  "30185": {
+    "name": "Oite",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Kamikaze",
+    "timer": "00:20:00",
+    "event": "No Event",
+    "VA": "Takako Tanaka"
+  },
+  "30186": {
+    "name": "Kazagumo",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Yuugumo",
+    "timer": "00:27:00",
+    "event": "Swirling Cherry Blossoms Rerun",
+    "VA": "Ayasa Itou"
+  },
+  "30188": {
+    "name": "Wakatsuki",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Akizuki",
+    "timer": "00:29:00",
+    "event": "Violet Tempest, Blooming Lycoris",
+    "VA": "Hikaru Iida"
+  },
+  "30189": {
+    "name": "Hatsuzuki",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Akizuki",
+    "timer": "00:29:00",
+    "event": "Effulgence Before Eclipse",
+    "VA": "Karin Takahashi"
+  },
+  "30190": {
+    "name": "Asanagi",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Kamikaze",
+    "timer": "Cannot be constructed",
+    "event": "Effulgence Before Eclipse",
+    "VA": "Mio Nonaka"
+  },
+  "60501": {
+    "name": "Vittorio Veneto",
+    "rarity": "Super Rare",
+    "nation": "Sardegna Empire",
+    "hull": "BB",
+    "class": "Vittorio Veneto",
+    "timer": "05:15:00",
+    "event": "Daedalian Hymn",
+    "VA": "Mamiko Noto"
+  },
+  "30191": {
+    "name": "Suzunami",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Yuugumo",
+    "timer": "00:27:00",
+    "event": "Ode of Everblooming Crimson",
+    "VA": "Ayano Shibuya"
+  },
+  "60502": {
+    "name": "Littorio",
+    "rarity": "Super Rare",
+    "nation": "Sardegna Empire",
+    "hull": "BB",
+    "class": "Vittorio Veneto",
+    "timer": "05:15:00",
+    "event": "Empyreal Tragicomedy",
+    "VA": "Shizuka Itou"
+  },
+  "60503": {
+    "name": "Roma",
+    "rarity": "Super Rare",
+    "nation": "Sardegna Empire",
+    "hull": "BB",
+    "class": "Vittorio Veneto",
+    "timer": "05:15:00",
+    "event": "Aquilifer's Ballade",
+    "VA": "Yui Kondou"
+  },
+  "60505": {
+    "name": "Conte di Cavour",
+    "rarity": "Rare",
+    "nation": "Sardegna Empire",
+    "hull": "BB",
+    "class": "Conte di Cavour",
+    "timer": "Cannot be constructed",
+    "event": "Empyreal Tragicomedy",
+    "VA": "Ayaka Shimizu"
+  },
+  "60506": {
+    "name": "Giulio Cesare",
+    "rarity": "Elite",
+    "nation": "Sardegna Empire",
+    "hull": "BB",
+    "class": "Conte di Cavour",
+    "timer": "04:15:00",
+    "event": "Empyreal Tragicomedy",
+    "VA": "Ayaka Shimizu"
+  },
+  "60507": {
+    "name": "Andrea Doria",
+    "rarity": "Elite",
+    "nation": "Sardegna Empire",
+    "hull": "BB",
+    "class": "Andrea Doria",
+    "timer": "04:15:00",
+    "event": "Reflections of the Oasis",
+    "VA": "Haruno Fujiwara"
+  },
+  "60508": {
+    "name": "Raffaello",
+    "rarity": "Ultra Rare",
+    "nation": "Sardegna Empire",
+    "hull": "BB",
+    "class": "Raffaello",
+    "timer": "05:40:10",
+    "event": "Paradiso of Shackled Light",
+    "VA": "Ayaka Asai"
+  },
+  "30201": {
+    "name": "Yuubari",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "CL",
+    "class": "Yuubari",
+    "timer": "01:12:00",
+    "event": "No Event",
+    "VA": "Yui Ogura"
+  },
+  "30204": {
+    "name": "Nagara",
+    "rarity": "Normal",
+    "nation": "Sakura Empire",
+    "hull": "CL",
+    "class": "Nagara",
+    "timer": "01:05:00",
+    "event": "No Event",
+    "VA": "Akari Kitou"
+  },
+  "30205": {
+    "name": "Isuzu",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "CL",
+    "class": "Nagara",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Akari Kitou"
+  },
+  "30206": {
+    "name": "Natori",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "CL",
+    "class": "Nagara",
+    "timer": "01:05:00",
+    "event": "Effulgence Before Eclipse",
+    "VA": "Machico"
+  },
+  "30207": {
+    "name": "Yura",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "CL",
+    "class": "Nagara",
+    "timer": "01:05:00",
+    "event": "Upon the Shimmering Blue",
+    "VA": "Ruriko Noguchi"
+  },
+  "30208": {
+    "name": "Kinu",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "CL",
+    "class": "Nagara",
+    "timer": "Cannot be constructed",
+    "event": "Swirling Cherry Blossoms",
+    "VA": "Sayuri Yahagi"
+  },
+  "30209": {
+    "name": "Abukuma",
+    "rarity": "Normal",
+    "nation": "Sakura Empire",
+    "hull": "CL",
+    "class": "Nagara",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Akari Kitou"
+  },
+  "960001": {
+    "name": "Royal Fortune",
+    "rarity": "Super Rare",
+    "nation": "Tempesta",
+    "hull": "IXs",
+    "class": "No Class",
+    "timer": "Cannot be constructed",
+    "event": "Halloween Hijinks",
+    "VA": "Aimi Tanaka"
+  },
+  "30210": {
+    "name": "Mogami",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "CL",
+    "class": "Mogami",
+    "timer": "Cannot be constructed",
+    "event": "Visitors Dyed in Red Rerun",
+    "VA": "Shizuka Itou"
+  },
+  "960002": {
+    "name": "São Martinho",
+    "rarity": "Super Rare",
+    "nation": "Tempesta",
+    "hull": "IXm",
+    "class": "No Class",
+    "timer": "04:26:21",
+    "event": "Tempesta and the Fountain of Youth",
+    "VA": "Wakana Kuramochi"
+  },
+  "30211": {
+    "name": "Mikuma",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "CL",
+    "class": "Mogami",
+    "timer": "Cannot be constructed",
+    "event": "Visitors Dyed in Red",
+    "VA": "Anna Yamaki"
+  },
+  "960003": {
+    "name": "Golden Hind",
+    "rarity": "Super Rare",
+    "nation": "Tempesta",
+    "hull": "IXv",
+    "class": "No Class",
+    "timer": "01:26:18",
+    "event": "Tempesta and the Fountain of Youth",
+    "VA": "Yuka Hinata"
+  },
+  "30212": {
+    "name": "Sendai",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "CL",
+    "class": "Sendai",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Tomoyo Chuujou"
+  },
+  "30213": {
+    "name": "Jintsuu",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "CL",
+    "class": "Sendai",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Tomoyo Chuujou"
+  },
+  "30214": {
+    "name": "Naka",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "CL",
+    "class": "Sendai",
+    "timer": "01:20:00",
+    "event": "Crimson Echoes",
+    "VA": "Konomi Fujimura"
+  },
+  "960010": {
+    "name": "Portsmouth Adventure",
+    "rarity": "Elite",
+    "nation": "Tempesta",
+    "hull": "IXv",
+    "class": "No Class",
+    "timer": "00:28:14",
+    "event": "Tempesta and the Sleeping Sea",
+    "VA": "Ryouko Jyuni"
+  },
+  "960011": {
+    "name": "Dolphin",
+    "rarity": "Elite",
+    "nation": "Tempesta",
+    "hull": "IXs",
+    "class": "No Class",
+    "timer": "Cannot be constructed",
+    "event": "Tempesta and the Sleeping Sea",
+    "VA": "Asuka Shioiri"
+  },
+  "30220": {
+    "name": "Agano",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "CL",
+    "class": "Agano",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Haruka Shiraishi"
+  },
+  "30221": {
+    "name": "Noshiro",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "CL",
+    "class": "Agano",
+    "timer": "01:20:00",
+    "event": "Swirling Cherry Blossoms",
+    "VA": "Anju Inami"
+  },
+  "30223": {
+    "name": "Sakawa",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "CL",
+    "class": "Agano",
+    "timer": "01:20:00",
+    "event": "Violet Tempest, Blooming Lycoris",
+    "VA": "Aina Suzuki"
+  },
+  "30224": {
+    "name": "Noshiro µ",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "CL",
+    "class": "Agano",
+    "timer": "01:20:00",
+    "event": "Heart-Linking Harmony",
+    "VA": "Anju Inami"
+  },
+  "30225": {
+    "name": "Watarase",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "CL",
+    "class": "Watarase",
+    "timer": "01:22:00",
+    "event": "Ode of Everblooming Crimson",
+    "VA": "Hina Suguta"
+  },
+  "30226": {
+    "name": "Ayase",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "CL",
+    "class": "Sendai",
+    "timer": "Cannot be constructed",
+    "event": "Ode of Everblooming Crimson",
+    "VA": "Saya Aizawa"
+  },
+  "970405": {
+    "name": "Hiei META",
+    "rarity": "Super Rare",
+    "nation": "META",
+    "hull": "BC",
+    "class": "Cinders of Hope",
+    "timer": "04:10:00",
+    "event": "Ode of Everblooming Crimson",
+    "VA": "Eri Kitamura"
+  },
+  "80201": {
+    "name": "Émile Bertin",
+    "rarity": "Elite",
+    "nation": "Iris Libre",
+    "hull": "CL",
+    "class": "Émile Bertin",
+    "timer": "Cannot be constructed",
+    "event": "Iris of Light and Dark",
+    "VA": "Reina Ueda"
+  },
+  "80202": {
+    "name": "Jeanne d'Arc",
+    "rarity": "Super Rare",
+    "nation": "Iris Libre",
+    "hull": "CL",
+    "class": "Jeanne d'Arc",
+    "timer": "01:26:00",
+    "event": "Skybound Oratorio",
+    "VA": "Atsumi Tanezaki"
+  },
+  "20401": {
+    "name": "Renown",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "BC",
+    "class": "Renown",
+    "timer": "04:10:00",
+    "event": "No Event",
+    "VA": "Ai Kayano"
+  },
+  "80203": {
+    "name": "Guichen",
+    "rarity": "Super Rare",
+    "nation": "Iris Libre",
+    "hull": "CL",
+    "class": "De Grasse",
+    "timer": "01:26:00",
+    "event": "The Fool's Scales",
+    "VA": "Aya Yamane"
+  },
+  "20402": {
+    "name": "Repulse",
+    "rarity": "Rare",
+    "nation": "Royal Navy",
+    "hull": "BC",
+    "class": "Renown",
+    "timer": "04:10:00",
+    "event": "No Event",
+    "VA": "Koharu Nogata"
+  },
+  "20403": {
+    "name": "Hood",
+    "rarity": "Super Rare",
+    "nation": "Royal Navy",
+    "hull": "BC",
+    "class": "Admiral",
+    "timer": "05:50:00",
+    "event": "No Event",
+    "VA": "Atsuko Tanaka"
+  },
+  "20404": {
+    "name": "Little Renown",
+    "rarity": "Elite",
+    "nation": "Royal Navy",
+    "hull": "BC",
+    "class": "Renown",
+    "timer": "04:10:00",
+    "event": "Little Royal Knight",
+    "VA": "Ai Kayano"
+  },
+  "970701": {
+    "name": "Hiryuu META",
+    "rarity": "Super Rare",
+    "nation": "META",
+    "hull": "CV",
+    "class": "Ashen Might",
+    "timer": "META Showdown",
+    "event": "Season 1",
+    "VA": "Shizuka Ishigami"
+  },
+  "970702": {
+    "name": "Ark Royal META",
+    "rarity": "Super Rare",
+    "nation": "META",
+    "hull": "CV",
+    "class": "Ashen Might",
+    "timer": "META Showdown",
+    "event": "Season 2",
+    "VA": "Asuka Itou"
+  },
+  "970703": {
+    "name": "Souryuu META",
+    "rarity": "Super Rare",
+    "nation": "META",
+    "hull": "CV",
+    "class": "Flickering Light",
+    "timer": "META Showdown",
+    "event": "Season 4",
+    "VA": "Karin Mitarai"
+  },
+  "10601": {
+    "name": "Long Island",
+    "rarity": "Rare",
+    "nation": "Eagle Union",
+    "hull": "CVL",
+    "class": "Long Island",
+    "timer": "02:15:00",
+    "event": "No Event",
+    "VA": "Sachiyo Yoshida"
+  },
+  "970704": {
+    "name": "Béarn META",
+    "rarity": "Super Rare",
+    "nation": "META",
+    "hull": "CV",
+    "class": "Flickering Light",
+    "timer": "02:00:00",
+    "event": "Light of the Martyrium",
+    "VA": "Asami Takano"
+  },
+  "31901": {
+    "name": "Kashino",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "AE",
+    "class": "Kashino",
+    "timer": "01:30:00",
+    "event": "Dreamwaker's Butterfly",
+    "VA": "Reina Kondou"
+  },
+  "10602": {
+    "name": "Bogue",
+    "rarity": "Normal",
+    "nation": "Eagle Union",
+    "hull": "CVL",
+    "class": "Bogue",
+    "timer": "02:20:00",
+    "event": "No Event",
+    "VA": "Koharu Nogata"
+  },
+  "970705": {
+    "name": "Taihou META",
+    "rarity": "Super Rare",
+    "nation": "META",
+    "hull": "CV",
+    "class": "Flickering Light",
+    "timer": "META Showdown",
+    "event": "Season 17",
+    "VA": "Aoi Yuuki"
+  },
+  "970706": {
+    "name": "Hornet META",
+    "rarity": "Super Rare",
+    "nation": "META",
+    "hull": "CV",
+    "class": "Ashen Might",
+    "timer": "META Showdown",
+    "event": "Season 18",
+    "VA": "Nozomi Yamamoto"
+  },
+  "970707": {
+    "name": "Glorious META",
+    "rarity": "Super Rare",
+    "nation": "META",
+    "hull": "CV",
+    "class": "Cinders of Hope",
+    "timer": "03:50:00",
+    "event": "A Rose on the High Tower",
+    "VA": "Noriko Shitaya"
+  },
+  "1060001": {
+    "name": "Marie Rose",
+    "rarity": "Super Rare",
+    "nation": "Venus Vacation",
+    "hull": "DD",
+    "class": "No Class",
+    "timer": "02:40:06",
+    "event": "Vacation Lane",
+    "VA": "Mai Aizawa"
+  },
+  "1060002": {
+    "name": "Honoka",
+    "rarity": "Super Rare",
+    "nation": "Venus Vacation",
+    "hull": "BB",
+    "class": "No Class",
+    "timer": "02:35:25",
+    "event": "Vacation Lane",
+    "VA": "Ai Nonaka"
+  },
+  "1060003": {
+    "name": "Kasumi (Venus Vacation)",
+    "rarity": "Super Rare",
+    "nation": "Venus Vacation",
+    "hull": "CA",
+    "class": "No Class",
+    "timer": "02:33:43",
+    "event": "Vacation Lane",
+    "VA": "Houko Kuwashima"
+  },
+  "99901": {
+    "name": "Gascogne",
+    "rarity": "Priority",
+    "nation": "Vichya Dominion",
+    "hull": "BB",
+    "class": "Richelieu",
+    "timer": "Research",
+    "event": "Season 2",
+    "VA": "Mikako Komatsu"
+  },
+  "1060004": {
+    "name": "Misaki",
+    "rarity": "Super Rare",
+    "nation": "Venus Vacation",
+    "hull": "CL",
+    "class": "No Class",
+    "timer": "02:41:47",
+    "event": "Vacation Lane",
+    "VA": "Minami Tsuda"
+  },
+  "99902": {
+    "name": "Flandre",
+    "rarity": "Priority",
+    "nation": "Vichya Dominion",
+    "hull": "BB",
+    "class": "Alsace",
+    "timer": "Research",
+    "event": "Season 6",
+    "VA": "Kyouka Moriya"
+  },
+  "40101": {
+    "name": "Z1",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "DD",
+    "class": "Type 1934",
+    "timer": "Cannot be constructed",
+    "event": "No Event",
+    "VA": "Natsumi Takamori"
+  },
+  "1060005": {
+    "name": "Nagisa",
+    "rarity": "Elite",
+    "nation": "Venus Vacation",
+    "hull": "BB",
+    "class": "No Class",
+    "timer": "02:38:25",
+    "event": "Vacation Lane",
+    "VA": "Maaya Uchida"
+  },
+  "40102": {
+    "name": "Z2",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "DD",
+    "class": "Type 1934",
+    "timer": "00:29:00",
+    "event": "Stars of the Shimmering Fjord",
+    "VA": "Maki Kawase"
+  },
+  "1060006": {
+    "name": "Nyotengu",
+    "rarity": "Elite",
+    "nation": "Venus Vacation",
+    "hull": "CV",
+    "class": "No Class",
+    "timer": "Cannot be constructed",
+    "event": "Vacation Lane",
+    "VA": "Akemi Satou"
+  },
+  "1060007": {
+    "name": "Monica",
+    "rarity": "Elite",
+    "nation": "Venus Vacation",
+    "hull": "CL",
+    "class": "No Class",
+    "timer": "02:31:40",
+    "event": "Vacation Lane",
+    "VA": "Eri Yukimura"
+  },
+  "1060008": {
+    "name": "Luna",
+    "rarity": "Super Rare",
+    "nation": "Venus Vacation",
+    "hull": "CVL",
+    "class": "No Class",
+    "timer": "03:03:36",
+    "event": "Vacation Lane Rerun",
+    "VA": "Shiori Mikami"
+  },
+  "1060009": {
+    "name": "Tamaki",
+    "rarity": "Super Rare",
+    "nation": "Venus Vacation",
+    "hull": "BC",
+    "class": "No Class",
+    "timer": "02:44:00",
+    "event": "Vacation Lane Rerun",
+    "VA": "Saori Onishi"
+  },
+  "40109": {
+    "name": "Z9",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "DD",
+    "class": "Type 1934A",
+    "timer": "Cannot be constructed",
+    "event": "Substellar Crepuscule",
+    "VA": "Mai Kanno"
+  },
+  "40111": {
+    "name": "Z11",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "DD",
+    "class": "Type 1934A",
+    "timer": "00:28:00",
+    "event": "Substellar Crepuscule",
+    "VA": "Momoka Terasawa"
+  },
+  "40113": {
+    "name": "Z13",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "DD",
+    "class": "Type 1934A",
+    "timer": "Cannot be constructed",
+    "event": "The Neon City Investigator",
+    "VA": "Rie Hikisaka"
+  },
+  "80103": {
+    "name": "Le T\u00e9m\u00e9raire",
+    "rarity": "Elite",
+    "nation": "Iris Libre",
+    "hull": "DD",
+    "class": "Le Hardi",
+    "timer": "Cannot be constructed",
+    "event": "1 Year Anniversary",
+    "VA": "Mai Goto"
+  },
+  "40116": {
+    "name": "Z16",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "DD",
+    "class": "Type 1934A",
+    "timer": "00:28:00",
+    "event": "Operation Convergence",
+    "VA": "Mayu Sagara"
+  },
+  "40118": {
+    "name": "Z18",
+    "rarity": "Rare",
+    "nation": "Iron Blood",
+    "hull": "DD",
+    "class": "Type 1936",
+    "timer": "Cannot be constructed",
+    "event": "Counterattack Within the Fjord",
+    "VA": "Yuuki Takada"
+  },
+  "80104": {
+    "name": "L'Opini\u00e2tre",
+    "rarity": "Elite",
+    "nation": "Iris Libre",
+    "hull": "DD",
+    "class": "Le Hardi",
+    "timer": "Cannot be constructed",
+    "event": "Iris of Light and Dark Rerun",
+    "VA": "Mai Goto"
+  },
+  "40119": {
+    "name": "Z19",
+    "rarity": "Rare",
+    "nation": "Iron Blood",
+    "hull": "DD",
+    "class": "Type 1936",
+    "timer": "00:31:00",
+    "event": "Divergent Chessboard",
+    "VA": "Rina Hidaka"
+  },
+  "40120": {
+    "name": "Z20",
+    "rarity": "Normal",
+    "nation": "Iron Blood",
+    "hull": "DD",
+    "class": "Type 1936",
+    "timer": "Drop Only",
+    "event": "Divergent Chessboard",
+    "VA": "Rina Hidaka"
+  },
+  "40121": {
+    "name": "Z21",
+    "rarity": "Normal",
+    "nation": "Iron Blood",
+    "hull": "DD",
+    "class": "Type 1936",
+    "timer": "Drop Only",
+    "event": "Divergent Chessboard",
+    "VA": "Rina Hidaka"
+  },
+  "40123": {
+    "name": "Z23",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "DD",
+    "class": "Type 1936A",
+    "timer": "00:33:00",
+    "event": "No Event",
+    "VA": "Rika Abe"
+  },
+  "40124": {
+    "name": "Z24",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "DD",
+    "class": "Type 1936A",
+    "timer": "Cannot be constructed",
+    "event": "Inverted Orthant",
+    "VA": "Yukina Shuto"
+  },
+  "40125": {
+    "name": "Z25",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "DD",
+    "class": "Type 1936A",
+    "timer": "Cannot be constructed",
+    "event": "Divergent Chessboard",
+    "VA": "Rika Abe"
+  },
+  "1110001": {
+    "name": "Lala Satalin Deviluke",
+    "rarity": "Super Rare",
+    "nation": "To Love Ru",
+    "hull": "CA",
+    "class": "No Class",
+    "timer": "02:28:00",
+    "event": "Dangerous Inventions Incoming!",
+    "VA": "Haruka Tomatsu"
+  },
+  "40126": {
+    "name": "Z26",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "DD",
+    "class": "Type 1936A",
+    "timer": "00:33:00",
+    "event": "Scherzo of Iron and Blood Rerun",
+    "VA": "Satomi Amano"
+  },
+  "1110002": {
+    "name": "Nana Astar Deviluke",
+    "rarity": "Super Rare",
+    "nation": "To Love Ru",
+    "hull": "DD",
+    "class": "No Class",
+    "timer": "01:53:20",
+    "event": "Dangerous Inventions Incoming!",
+    "VA": "Kanae Ito"
+  },
+  "1110003": {
+    "name": "Momo belia Deviluke",
+    "rarity": "Super Rare",
+    "nation": "To Love Ru",
+    "hull": "CL",
+    "class": "No Class",
+    "timer": "02:10:02",
+    "event": "No Event",
+    "VA": "Aki Toyosaki"
+  },
+  "40128": {
+    "name": "Z28",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "DD",
+    "class": "Type 1936A",
+    "timer": "Cannot be constructed",
+    "event": "Inverted Orthant",
+    "VA": "Chisa Kimura"
+  },
+  "70108": {
+    "name": "Gromky",
+    "rarity": "Elite",
+    "nation": "Northern Parliament",
+    "hull": "DD",
+    "class": "Gnevny",
+    "timer": "Cannot be constructed",
+    "event": "Khorovod of Dawn's Rime",
+    "VA": "Yurie Kozakai"
+  },
+  "1110004": {
+    "name": "Golden Darkness",
+    "rarity": "Super Rare",
+    "nation": "To Love Ru",
+    "hull": "BB",
+    "class": "No Class",
+    "timer": "02:05:00",
+    "event": "Dangerous Inventions Incoming!",
+    "VA": "Misato Fukuen"
+  },
+  "90101": {
+    "name": "Le Mars",
+    "rarity": "Rare",
+    "nation": "Vichya Dominion",
+    "hull": "DD",
+    "class": "L'Adroit",
+    "timer": "00:23:00",
+    "event": "Iris of Light and Dark",
+    "VA": "Akiko Hasegawa"
+  },
+  "1110005": {
+    "name": "Haruna Sairenji",
+    "rarity": "Elite",
+    "nation": "To Love Ru",
+    "hull": "BC",
+    "class": "No Class",
+    "timer": "02:11:40",
+    "event": "Dangerous Inventions Incoming!",
+    "VA": "Sayuri Yahagi"
+  },
+  "90102": {
+    "name": "Tartu",
+    "rarity": "Elite",
+    "nation": "Vichya Dominion",
+    "hull": "DD",
+    "class": "Vauquelin",
+    "timer": "00:26:00",
+    "event": "The Way Home in the Night",
+    "VA": "Eri Yukimura"
+  },
+  "1110006": {
+    "name": "Yui Kotegawa",
+    "rarity": "Elite",
+    "nation": "To Love Ru",
+    "hull": "CV",
+    "class": "No Class",
+    "timer": "Cannot be constructed",
+    "event": "Dangerous Inventions Incoming!",
+    "VA": "Kaori Nazuka"
+  },
+  "30301": {
+    "name": "Furutaka",
+    "rarity": "Normal",
+    "nation": "Sakura Empire",
+    "hull": "CA",
+    "class": "Furutaka",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Akari Kageyama"
+  },
+  "90103": {
+    "name": "Vauquelin",
+    "rarity": "Elite",
+    "nation": "Vichya Dominion",
+    "hull": "DD",
+    "class": "Vauquelin",
+    "timer": "00:26:00",
+    "event": "Skybound Oratorio",
+    "VA": "Eri Yukimura"
+  },
+  "30302": {
+    "name": "Kako",
+    "rarity": "Normal",
+    "nation": "Sakura Empire",
+    "hull": "CA",
+    "class": "Furutaka",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Akari Kageyama"
+  },
+  "90104": {
+    "name": "Kersaint",
+    "rarity": "Elite",
+    "nation": "Vichya Dominion",
+    "hull": "DD",
+    "class": "Vauquelin",
+    "timer": "Cannot be constructed",
+    "event": "The Fool's Scales",
+    "VA": "Yuka Iwahashi"
+  },
+  "30303": {
+    "name": "Aoba",
+    "rarity": "Normal",
+    "nation": "Sakura Empire",
+    "hull": "CA",
+    "class": "Aoba",
+    "timer": "01:30:00",
+    "event": "No Event",
+    "VA": "Akari Kageyama"
+  },
+  "90105": {
+    "name": "Fleuret",
+    "rarity": "Elite",
+    "nation": "Vichya Dominion",
+    "hull": "DD",
+    "class": "Le Hardi",
+    "timer": "00:26:00",
+    "event": "Light of the Martyrium",
+    "VA": "Miria Takagishi"
+  },
+  "30304": {
+    "name": "Kinugasa",
+    "rarity": "Normal",
+    "nation": "Sakura Empire",
+    "hull": "CA",
+    "class": "Aoba",
+    "timer": "01:30:00",
+    "event": "No Event",
+    "VA": "Akari Kageyama"
+  },
+  "90106": {
+    "name": "Épée",
+    "rarity": "Elite",
+    "nation": "Vichya Dominion",
+    "hull": "DD",
+    "class": "Le Hardi",
+    "timer": "Cannot be constructed",
+    "event": "Light of the Martyrium",
+    "VA": "Minami Kurisaka"
+  },
+  "40135": {
+    "name": "Z35",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "DD",
+    "class": "Type 1936B",
+    "timer": "Cannot be constructed",
+    "event": "Divergent Chessboard",
+    "VA": "Ayaka Ouhashi"
+  },
+  "90107": {
+    "name": "Mogador",
+    "rarity": "Ultra Rare",
+    "nation": "Vichya Dominion",
+    "hull": "DD",
+    "class": "Mogador",
+    "timer": "Cannot be constructed",
+    "event": "Light of the Martyrium",
+    "VA": "Mari Hino"
+  },
+  "40136": {
+    "name": "Z36",
+    "rarity": "Elite",
+    "nation": "Iron Blood",
+    "hull": "DD",
+    "class": "Type 1936B",
+    "timer": "00:35:00",
+    "event": "Scherzo of Iron and Blood",
+    "VA": "Sayuri Hara"
+  },
+  "30306": {
+    "name": "Chikuma",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "CA",
+    "class": "Tone",
+    "timer": "02:05:00",
+    "event": "Upon the Shimmering Blue",
+    "VA": "Yuu Serizawa"
+  },
+  "30307": {
+    "name": "Myoukou",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "CA",
+    "class": "Myoukou",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Eri Suzuki"
+  },
+  "30308": {
+    "name": "Nachi",
+    "rarity": "Rare",
+    "nation": "Sakura Empire",
+    "hull": "CA",
+    "class": "Myoukou",
+    "timer": "Drop Only",
+    "event": "No Event",
+    "VA": "Eri Suzuki"
+  },
+  "30309": {
+    "name": "Ashigara",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "CA",
+    "class": "Myoukou",
+    "timer": "01:55:00",
+    "event": "Crimson Echoes",
+    "VA": "Chiwa Saitou"
+  },
+  "90111": {
+    "name": "Le Malin",
+    "rarity": "Super Rare",
+    "nation": "Vichya Dominion",
+    "hull": "DD",
+    "class": "Le Fantasque",
+    "timer": "Cannot be constructed",
+    "event": "Iris of Light and Dark Rerun",
+    "VA": "Haruka Shiraishi"
+  },
+  "30310": {
+    "name": "Haguro",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "CA",
+    "class": "Myoukou",
+    "timer": "01:55:00",
+    "event": "Violet Tempest, Blooming Lycoris",
+    "VA": "Hana Hishikawa"
+  },
+  "80401": {
+    "name": "Masséna",
+    "rarity": "Super Rare",
+    "nation": "Iris Libre",
+    "hull": "BC",
+    "class": "Masséna",
+    "timer": "04:05:00",
+    "event": "Secrets of the Abyss",
+    "VA": "Coco Hayashi"
+  },
+  "80601": {
+    "name": "Bois Belleau",
+    "rarity": "Super Rare",
+    "nation": "Iris Libre",
+    "hull": "CV",
+    "class": "Independence",
+    "timer": "02:06:40",
+    "event": "Secrets of the Abyss",
+    "VA": "Yuu Wakui"
+  },
+  "80105": {
+    "name": "Le Hardi",
+    "rarity": "Super Rare",
+    "nation": "Iris Libre",
+    "hull": "DD",
+    "class": "L'Intrépide",
+    "timer": "00:26:00",
+    "event": "Secrets of the Abyss",
+    "VA": "Saya Aizawa"
+  },
+  "80204": {
+    "name": "Duguay-Trouin",
+    "rarity": "Elite",
+    "nation": "Iris Libre",
+    "hull": "CL",
+    "class": "Duguay-Trouin",
+    "timer": "Cannot be constructed",
+    "event": "Secrets of the Abyss",
+    "VA": "Marika Tachibana"
+  },
+  "80303": {
+    "name": "Duquesne",
+    "rarity": "Elite",
+    "nation": "Iris Libre",
+    "hull": "CA",
+    "class": "Duquesne",
+    "timer": "01:45:00",
+    "event": "Secrets of the Abyss",
+    "VA": "Rie Kawamura"
+  },
+  "970109": {
+    "name": "Yuudachi META",
+    "rarity": "Super Rare",
+    "nation": "META",
+    "hull": "DD",
+    "class": "Ashen Might",
+    "timer": "META Showdown",
+    "event": "Season 20",
+    "VA": "Natsumi Takamori"
+  },
+  "30716": {
+    "name": "Hakuhou",
+    "rarity": "Ultra Rare",
+    "nation": "Sakura Empire",
+    "hull": "CV",
+    "class": "Taihou",
+    "timer": "05:00:00",
+    "event": "A Dance for Amahara Above",
+    "VA": "Shiori Izawa"
+  },
+  "31702": {
+    "name": "I-404",
+    "rarity": "Ultra Rare",
+    "nation": "Sakura Empire",
+    "hull": "SSV",
+    "class": "I-400",
+    "timer": "Cannot be constructed",
+    "event": "A Dance for Amahara Above",
+    "VA": "Minori Ozawa"
+  },
+  "30516": {
+    "name": "Oumi",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "BB",
+    "class": "Kii",
+    "timer": "04:20:00",
+    "event": "A Dance for Amahara Above",
+    "VA": "Haruka Chisuga"
+  },
+  "30320": {
+    "name": "Asama",
+    "rarity": "Super Rare",
+    "nation": "Sakura Empire",
+    "hull": "CA",
+    "class": "Ibuki",
+    "timer": "02:10:00",
+    "event": "A Dance for Amahara Above",
+    "VA": "Ayahi Takagaki"
+  },
+  "30227": {
+    "name": "Minase",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "CL",
+    "class": "Sendai",
+    "timer": "01:22:00",
+    "event": "A Dance for Amahara Above",
+    "VA": "Ayasa Goto"
+  },
+  "30192": {
+    "name": "Taekaze",
+    "rarity": "Elite",
+    "nation": "Sakura Empire",
+    "hull": "DD",
+    "class": "Yuugumo",
+    "timer": "Cannot be constructed",
+    "event": "A Dance for Amahara Above",
+    "VA": "Mizuki Niizaki"
+  }
+}
