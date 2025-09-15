@@ -8,4 +8,4 @@ To install simply clone the repository and run
 Then to play the game simply run
 ```py main.py```
 
-Warning: This game is borderline unplayable on command line interfaces that do not support colour codes (Common on windows default teminals)
+Warning: This game is borderline unplayable on command line interfaces that do not support colour codes (Common on windows default terminals)
