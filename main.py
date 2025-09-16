@@ -28,6 +28,8 @@ try:
 except FileNotFoundError:
 	hist = {}
 
+with open("true_history.json", encoding="utf-8") as f:
+		true_history = json.load(f)
 
 def normalize_for_compare(s: str) -> str:
 	# Normalize to NFKD (compatibility decomposition)
@@ -233,10 +235,35 @@ def get_ship_of_the_day(day, pool):
 if __name__ == "__main__":
 	d = 24*3600
 	today = int((time()-7*3600)//d)
-	if hist:
-		last_played = int(sorted(hist)[-1])
-	else:
-		last_played = 20308
+
+	# Calculate true_history until today
+	discrepancies = []
+	for day in range(20309, today+1):
+		day_str = str(day)
+		true_ship = true_history.get(day_str)
+		user_ship = hist.get(day_str)
+		if true_ship is not None:
+			if user_ship is not None and true_ship != user_ship:
+				discrepancies.append((day_str, user_ship, true_ship))
+		else:
+			true_ship = get_ship_of_the_day(day, set(names)-set(hist.values()))
+			if user_ship is not None and true_ship != user_ship:
+				discrepancies.append((day_str, user_ship, true_ship))
+				hist.pop(day_str)
+
+	last_played = max(int(k) for k in hist) if hist else 20308
+
+	if discrepancies:
+		print(f"{len(discrepancies)} discrepancies found between your history and the true history, updating history to reflect true history!")
+		# for day_str, user_ship, true_ship in discrepancies:
+		# 	print(f"Day {day_str}: Your history: {user_ship} | True: {true_ship}")
+
+	# Update history with true_history until today
+	for day in range(20309, today+1):
+		day_str = str(day)
+		if day_str in true_history:
+			hist[day_str] = true_history[day_str]
+
 	if today == last_played:
 		print("You already played today.")
 		h = 24-(time()-7*3600)%d/3600
