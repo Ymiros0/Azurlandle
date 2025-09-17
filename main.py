@@ -9,8 +9,17 @@ import argparse
 from time import time
 from random import Random
 
-if not hasattr(int, "bit_count"):
-	int.bit_count = lambda self: bin(self).count("1")
+try:
+    bit_count = int.bit_count
+except AttributeError:
+    # Fallback for older Python
+    def bit_count(x: int) -> int:
+        count = 0
+        while x:
+            x &= x - 1
+            count += 1
+        return count
+
 
 with open("dle_data.json", encoding = "utf-8") as f:
 	data = json.load(f)
@@ -84,7 +93,7 @@ def bot_process_worker(queue=None):
 	return guess_fb_map
 
 def eval_skill_entropy(mask, guess_fb_map):
-	cnt = mask.bit_count()
+	cnt = bit_count(mask)
 	if cnt < 2:
 		if cnt == 0:
 			return {}
@@ -100,7 +109,7 @@ def eval_skill_entropy(mask, guess_fb_map):
 			child_mask = mask & fb_mask
 			if not child_mask:
 				continue
-			p = child_mask.bit_count()/cnt
+			p = bit_count(child_mask)/cnt
 			H -= p* log2(p)
 		if mask & (1 << gid):
 			H -= 1/cnt*log2(1/cnt)
@@ -118,7 +127,7 @@ def eval_skill_entropy(mask, guess_fb_map):
 	return scores
 
 def eval_luck_entropy(mask, guess_fb_map, solution):
-	cnt = mask.bit_count()
+	cnt = bit_count(mask)
 	if cnt < 2:
 		if cnt == 0:
 			return {}
@@ -137,7 +146,7 @@ def eval_luck_entropy(mask, guess_fb_map, solution):
 			l = 0
 		for fb_mask in guess_fb_map[gid].values():
 			child_mask = mask & fb_mask
-			s = child_mask.bit_count()
+			s = bit_count(child_mask)
 			if s == 0 and gid != solution:
 				continue
 			if 1 << solution & fb_mask:
@@ -181,7 +190,7 @@ def run_bot_eval(guess_fb_map, solution, guesses):
 		skl = scores.get(gid, 0)
 		lck = eval_luck_entropy(cur_mask, guess_fb_map, solution_id).get(gid, 50)
 		bot_guess = sorted(scores, key=scores.get, reverse=True)[0]
-		remain = next_mask.bit_count()
+		remain = bit_count(next_mask)
 		out.append({
 			'guess': SHIPS[gid]["name"],
 			'skill': skl,
@@ -457,6 +466,7 @@ if __name__ == "__main__":
 
 	d = 24*3600
 	today = int((time()-7*3600)//d)
+	print(f"Booting Azur Lane DLE... {len(filtered_names)} ships available for guessing.")
 
 	# Calculate true_history until today
 	discrepancies = []
@@ -477,8 +487,8 @@ if __name__ == "__main__":
 
 	if discrepancies:
 		print(f"{len(discrepancies)} discrepancies found between your history and the true history, updating history to reflect true history!")
-		for day_str, user_ship, true_ship in discrepancies:
-			print(f"Day {day_str}: Your history: {user_ship} | True: {true_ship}")
+		# for day_str, user_ship, true_ship in discrepancies:
+		# 	print(f"Day {day_str}: Your history: {user_ship} | True: {true_ship}")
 
 	# Update history with true_history until today
 	for day in range(20309, today+1):
