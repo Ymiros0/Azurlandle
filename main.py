@@ -9,6 +9,8 @@ import argparse
 from time import time
 from random import Random
 
+if not hasattr(int, "bit_count"):
+	int.bit_count = lambda self: bin(self).count("1")
 
 with open("dle_data.json", encoding = "utf-8") as f:
 	data = json.load(f)
@@ -193,7 +195,7 @@ def run_bot_eval(guess_fb_map, solution, guesses):
 def get_max_skill_guess(mask):
 	scores = eval_skill_entropy(mask, guess_fb_map)
 	ordered = sorted(scores, key=scores.get, reverse=True)
-	print([(SHIPS[i]["name"], scores[i]) for i in ordered[:10]])
+	#print([(SHIPS[i]["name"], scores[i]) for i in ordered[:10]])
 	return ordered[0]
 
 def sim_play(solution):
@@ -528,7 +530,7 @@ if __name__ == "__main__":
 			history_list.append([gd, res])
 			print_guess_table(history_list)
 		else:
-			print(f"Rarity: {res["rarity"]} | Hull Type: {res["hull"]} | Nation: {res["nation"]} | Class: {res["class"]} | Timer: {res["timer"]} | Event: {res["event"]} | VA: {res["VA"]}")
+			print(f'Rarity: {res["rarity"]} | Hull Type: {res["hull"]} | Nation: {res["nation"]} | Class: {res["class"]} | Timer: {res["timer"]} | Event: {res["event"]} | VA: {res["VA"]}')
 		guesses += 1
 		player_guess_names.append(gd["name"])
 		filtered_names.pop(gd["name"])
