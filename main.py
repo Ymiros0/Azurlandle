@@ -470,6 +470,7 @@ if __name__ == "__main__":
 
 	# Calculate true_history until today
 	discrepancies = []
+	pool = set(names)-set(true_history.values())
 	for day in range(20309, today+1):
 		day_str = str(day)
 		true_ship = true_history.get(day_str)
@@ -478,7 +479,8 @@ if __name__ == "__main__":
 			if user_ship is not None and true_ship != user_ship:
 				discrepancies.append((day_str, user_ship, true_ship))
 		else:
-			true_ship = get_ship_of_the_day(day, set(names)-set(true_history.values()))
+			true_ship = get_ship_of_the_day(day, pool)
+			pool.remove(true_ship)
 			if user_ship is not None and true_ship != user_ship:
 				discrepancies.append((day_str, user_ship, true_ship))
 				hist.pop(day_str)
@@ -487,8 +489,8 @@ if __name__ == "__main__":
 
 	if discrepancies:
 		print(f"{len(discrepancies)} discrepancies found between your history and the true history, updating history to reflect true history!")
-		# for day_str, user_ship, true_ship in discrepancies:
-		# 	print(f"Day {day_str}: Your history: {user_ship} | True: {true_ship}")
+		for day_str, user_ship, true_ship in discrepancies:
+			print(f"Day {day_str}: Your history: {user_ship} | True: {true_ship}")
 
 	# Update history with true_history until today
 	for day in range(20309, today+1):
