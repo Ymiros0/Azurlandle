@@ -485,18 +485,18 @@ if __name__ == "__main__":
 				discrepancies.append((day_str, user_ship, true_ship))
 				hist.pop(day_str)
 
-	last_played = max(int(k) for k in hist) if hist else 20308
-
 	if discrepancies:
 		print(f"{len(discrepancies)} discrepancies found between your history and the true history, updating history to reflect true history!")
-		for day_str, user_ship, true_ship in discrepancies:
-			print(f"Day {day_str}: Your history: {user_ship} | True: {true_ship}")
+		# for day_str, user_ship, true_ship in discrepancies:
+		# 	print(f"Day {day_str}: Your history: {user_ship} | True: {true_ship}")
 
 	# Update history with true_history until today
 	for day in range(20309, today+1):
 		day_str = str(day)
 		if day_str in true_history:
 			hist[day_str] = true_history[day_str]
+
+	last_played = max(int(k) for k in hist) if hist else 20308
 
 	if today == last_played:
 		print("You already played today.")
@@ -508,7 +508,7 @@ if __name__ == "__main__":
 		pool = set(names)-used
 		for i in range(last_played+1, today+1):
 			ship = get_ship_of_the_day(i, pool)
-			hist[i] = ship
+			hist[str(i)] = ship
 			pool.remove(ship)
 		solution = ship
 
