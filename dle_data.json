@@ -8066,7 +8066,8 @@
     "hull": "DD",
     "class": "Ashen Might",
     "timer": "Cruise Missions",
-    "event": "Season 25"
+    "event": "Season 25",
+    "VA": "Miyuri Shimabukuro"
   },
   "1140001": {
     "name": "Hestia",
@@ -8075,7 +8076,8 @@
     "hull": "AR",
     "class": "No Class",
     "timer": "Cannot be constructed",
-    "event": "An Encounter Beneath Clear Skies"
+    "event": "An Encounter Beneath Clear Skies",
+    "VA": "Inori Minase"
   },
   "1140002": {
     "name": "Ryu Lion",
@@ -8084,6 +8086,7 @@
     "hull": "CL",
     "class": "No Class",
     "timer": "Cannot be constructed",
-    "event": "An Encounter Beneath Clear Skies"
+    "event": "An Encounter Beneath Clear Skies",
+    "VA": "Saori Hayami"
   }
 }
