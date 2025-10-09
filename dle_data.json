@@ -8058,5 +8058,32 @@
     "timer": "Cannot be constructed",
     "event": "A Dance for Amahara Above",
     "VA": "Mizuki Niizaki"
+  },
+  "970110": {
+    "name": "Dewey META",
+    "rarity": "Elite",
+    "nation": "META",
+    "hull": "DD",
+    "class": "Ashen Might",
+    "timer": "Cruise Missions",
+    "event": "Season 25"
+  },
+  "1140001": {
+    "name": "Hestia",
+    "rarity": "Super Rare",
+    "nation": "Danmachi",
+    "hull": "AR",
+    "class": "No Class",
+    "timer": "Cannot be constructed",
+    "event": "An Encounter Beneath Clear Skies"
+  },
+  "1140002": {
+    "name": "Ryu Lion",
+    "rarity": "Super Rare",
+    "nation": "Danmachi",
+    "hull": "CL",
+    "class": "No Class",
+    "timer": "Cannot be constructed",
+    "event": "An Encounter Beneath Clear Skies"
   }
 }
